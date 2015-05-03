@@ -1,0 +1,23 @@
+- name: home
+  link: "/"
+  group: home
+
+- name: research
+  link: "/research"
+  group: research
+
+- name: publications
+  link: "/publications"
+  group: publications
+
+- name: members
+  link: "/members"
+  group: members
+
+- name: contact
+  link: "/contact"
+  group: contact
+
+- name: sf
+  link: "/culture"
+  group: culture

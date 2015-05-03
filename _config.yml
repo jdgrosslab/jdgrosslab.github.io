@@ -1,0 +1,13 @@
+name: "Frost Lab"
+description: "The New Homepage for the Frost Lab at UCSF"
+
+url: "http://frostlab.org"
+
+# paginate: 5
+# paginate_path: "blog/page:num"
+
+permalink: pretty
+highlighter: pygments
+markdown: kramdown
+kramdown: 
+  parse_block_html: true

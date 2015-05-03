@@ -1,0 +1,14 @@
+- title: Interchangeable adaptors regulate mitochondrial dynamin assembly for membrane scission.
+  authors: 'Koirala S, Guo Q, Kalia R, Bui HT, Eckert DM, Frost A^\*, Shaw JM^\* <br> \* Co-corresponding authors'
+  journal: Proc Natl Acad Sci USA 2013 Mar 25
+  abstract: 'Mitochondrial fission is mediated by the dynamin-related GTPases Dnm1/Drp1 (yeast/mammals), which form spirals around constricted sites on mitochondria. Additional membrane-associated adaptor proteins (Fis1, Mdv1, Mff, and MiDs) are required to recruit these GTPases from the cytoplasm to the mitochondrial surface. Whether these adaptors participate in both GTPase recruitment and membrane scission is not known. Here we use a yeast strain lacking all fission proteins to identify the minimal combinations of GTPases and adaptors sufficient for mitochondrial fission. Although Fis1 is dispensable for fission, membrane-anchored Mdv1, Mff, or MiDs paired individually with their respective GTPases are sufficient to divide mitochondria. In addition to their role in Drp1 membrane recruitment, MiDs coassemble with Drp1 in vitro. The resulting heteropolymer adopts a dramatically different structure with a narrower diameter than Drp1 homopolymers assembled in isolation. This result demonstrates that an adaptor protein alters the architecture of a mitochondrial dynamin GTPase polymer in a manner that could facilitate membrane constriction and severing activity.'
+  # "date" is internal and relates to the ordering you want for your site.
+  date: 201503 
+  image: static/img/pub/Fig_for_Web_PNASpaper.png 
+  pmid: 23530241
+  pmcid: 
+  pdf: 
+  pdbs:
+  links:
+    - name: 
+      url: 
