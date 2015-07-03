@@ -1,6 +1,6 @@
 ---
 title: Frost Lab Research
-layout: research
+layout: default
 group: research
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Membrane Remodeling by the ESCRTIII Machinery- Frost Lab Research
+title: Membrane Remodeling by the ESCRTIII Machinery Frost Lab Research
 layout: default
 group: research
 ---
