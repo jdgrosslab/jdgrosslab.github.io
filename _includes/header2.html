@@ -18,7 +18,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/ico" href="/static/img/favicon.ico">
+  <link rel="icon" type="image/ico" href="{{ site.url }}/static/img/favicon.ico">
 
 </head>
 <body>
@@ -40,7 +40,7 @@
 
   <ul id="nav-mobile" class="side-nav">
     <li class="logo"><a id="logo-container" href="#" class="brand-logo">
-        <object id="front-page-logo" type="image/svg+xml" data="/static/img/largebrand.svg">Your browser does not support svg</object>
+        <object id="front-page-logo" type="image/svg+xml" data="{{ site.url }}/static/img/largebrand.svg">Your browser does not support svg</object>
     </a></li>
     {% for link in site.data.navbar %}
       {% if page.group == link.group %}
