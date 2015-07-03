@@ -55,9 +55,6 @@ footer.page-footer {
   margin: 0;
 }
 
-.banner-header {
-  font-size: 32px;
-}
 
 ul.side-nav li.logo {
   text-align: center;
@@ -78,6 +75,8 @@ ul.side-nav li.logo {
 
 .parallax-header {
   margin-top: 100px;
-  font-weight: 600;
+  margin-bottom: 50px;
+  font-weight: 500;
+  font-size: 80px;
 }
 
