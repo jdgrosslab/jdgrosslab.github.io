@@ -1,6 +1,7 @@
 ---
 title: Frost Lab at UCSF
 layout: parallaxbanner
+banner: '/static/img/em_8.jpg'
 group: home
 ---
 
