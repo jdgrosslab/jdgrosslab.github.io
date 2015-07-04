@@ -1,0 +1,11 @@
+- name: Toward Atomic Resolution of Membranes and Membrane-Associated Machines
+  url: /research/nih
+  image: /static/img/research/nih_top.png
+
+- name: Molecular Mechanisms of Membrane Remodeling by the ESCRT-III Pathway
+  url: /research/cheetah
+  image: /static/img/research/cheetah_top.png
+
+- name: Structural and Functional Characterization of the Ribosome Quality Control Complex
+  url: /research/searle
+  image: /static/img/research/searle_top.png

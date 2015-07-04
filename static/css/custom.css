@@ -40,11 +40,11 @@ p {
   }
 }
 
-@media only screen and (max-width : 600px) {
+/*@media only screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
   }
-}
+}*/
 
 
 .icon-block {
@@ -74,9 +74,20 @@ ul.side-nav li.logo {
   pointer-events: none; }
 
 .parallax-header {
-  margin-top: 100px;
-  margin-bottom: 50px;
   font-weight: 500;
   font-size: 80px;
 }
 
+@media only screen and (min-width: 600px) {
+  .member {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center; }
+  }
+}

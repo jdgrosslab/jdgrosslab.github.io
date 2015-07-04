@@ -3,8 +3,8 @@ description: "The New Homepage for the Frost Lab at UCSF"
 
 baseurl: "/newfrost"
 
-# paginate: 5
-# paginate_path: "blog/page:num"
+paginate: 5
+paginate_path: "blog/page:num"
 
 permalink: pretty
 highlighter: pygments

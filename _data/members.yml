@@ -1,6 +1,10 @@
 - name: Adam Frost
-  image: /static/img/members/frost.jpg
+  image: /static/img/people/frost.jpg
   position: Principal Investigator
   email: adam.frost (at) ucsf.edu
-  CV:
+
+- name: Mingyu Gu
+  image: /static/img/people/gu.jpg
+  position: Graduate Student
+  email: mingyu.gu (at) biochem.utah.edu
 

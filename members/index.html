@@ -1,11 +1,27 @@
 ---
-title: Frost Lab Members
-layout: members
+title: Members
+layout: parallaxbanner
+banner: /static/img/em_8.jpg
 group: members
 ---
-
-<h1>Meet the Frost Lab</h1>
-
+<h2 class="center"> Current Members </h2>
 {% for person in site.data.members %}
-<h2>person.name</h2>
+<!-- TODO -->
+<div class="divider"></div>
+<div class="section">
+  <div class="row member">
+    <div class="col s6 m3 center">
+      <img class="img-responsive" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
+    </div>
+    <div class="col s6 m3 center">
+      <div class="valign"><strong>{{person.name}}</strong></div>
+    </div>
+    <div class="col s6 m3 center ">
+      <div class="grey-text">{{person.position}}</div>
+    </div>
+    <div class="col s6 m3 center ">
+      <div>{{person.email}}</div>
+    </div>
+  </div>
+</div>
 {% endfor %}

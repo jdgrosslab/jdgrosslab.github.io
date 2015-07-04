@@ -5,10 +5,23 @@
 - name: research
   link: "/research"
   group: research
+  subpages:
+    - name: Index 
+      url: /
+    - name: Membrane Remodeling
+      url: /cheetah
+    - name: Ribosome Quality Control
+      url: /searle
+    - name: Atomic Resolution EM
+      url: /nih
 
 - name: publications
   link: "/publications"
   group: publications
+
+- name: blog
+  link: "/blog"
+  group: blog
 
 - name: members
   link: "/members"

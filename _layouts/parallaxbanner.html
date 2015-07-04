@@ -1,16 +1,5 @@
-{% include header2.html %}
-<div id="index-banner" class="parallax-container">
-  <div class="section no-pad-bot">
-    <div class="container">
-      <br><br>
-      <h1 class="header parallax-header center">{{page.title}}</h1>
-
-      <br><br>
-
-    </div>
-  </div>
-  <div class="parallax"><img src={{site.baseurl}}{{page.banner}} alt="Banner Image"></div>
-</div>
+{% include header.html %}
+{% include parallax_banner.html %}
 <div class="container">
   {{content}}      
 </div>
