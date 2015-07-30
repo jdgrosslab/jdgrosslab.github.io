@@ -12,6 +12,7 @@ group: publications
 
 <div class="publication section">
   <h5 class="header"><a class="grey-text lighten-2" href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}">{{publication.title}}</a></h5>
+  <div>{{publication.journal | markdownify }}</div>
   <div style="font-size: 120% !important;">{{ publication.authors | markdownify }}</div>
   <img class="{{thecycle}}" src = "{{site.baseurl}}{{publication.image}}" alt = "Key Figure">
   <p>{{publication.abstract}}</p> 
