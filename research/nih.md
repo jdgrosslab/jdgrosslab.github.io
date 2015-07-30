@@ -6,7 +6,7 @@ group: research
 
 #Toward Atomic Resolution of Membranes and Membrane-Associated Machines
 
-<img class="u-max-full-width" src="/static/img/research/nih_top.png"/>
+<img class="u-max-full-width" src="{{site.baseurl}}/static/img/research/nih_top.png"/>
 
 -------
 
@@ -21,7 +21,7 @@ transduce signals, oligomerize, and remodel the size, shape or topology of cellu
 limited knowledge stems from the inherent problems in studying multi-component complexes that assemble 
 on phospholipid bilayers.
 
-<img class="u-max-full-width" src="/static/img/research/nih_desc.png"/>
+<img class="u-max-full-width" src="{{site.baseurl}}/static/img/research/nih_desc.png"/>
 
 ##Objectives:
 To overcome these challenges, we will develop genetic, biochemical and structural methods to discover 
