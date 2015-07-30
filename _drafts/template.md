@@ -1,7 +1,7 @@
 ---
 title: <!-- Title Goes Here -->
 author: <!-- Author's full name goes here -->
-layout: parallaxbanner
+layout: post
 group: blog
 ---
 

@@ -10,6 +10,9 @@
 img.left {
   padding: 10px;
 }
+img.right {
+  padding: 10px;
+}
 
 img.member-photo {
   max-height: 90px;
