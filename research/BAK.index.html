@@ -1,5 +1,5 @@
 ---
-title: Research in the Frost Lab
+title: Research
 layout: parallaxbanner
 banner: /static/img/em_8.jpg
 group: research
@@ -12,32 +12,8 @@ group: research
 <h5 class="flow-text center"> Currently, the lab has three major research projects:</h5>
 
 <div class="section">
-  <h3>Active Projects</h3>	
   <div class="row">
   {% for topic in site.data.research_topics %}
-    <div class="col s12 m10 offset-m1 l8 offset-l2">
-
-      <div class="card">
-        <div class="card-image">
-          <img src="{{site.baseurl}}{{topic.image}}"/>
-        
-        <div class="card-action">
-        <a  href={{site.baseurl}}{{topic.url}}><strong> {{topic.name}}</strong></a>
-        </div>
-        </div>
-      </div>
-    
-    </div>
-
-
-  {% endfor %}
-  </div>
-</div>
-
-<div class="section">
-  <h3>Elapsed Projects</h3>	
-  <div class="row">
-  {% for topic in site.data.old_research_topics %}
     <div class="col s12 m10 offset-m1 l8 offset-l2">
 
       <div class="card">
