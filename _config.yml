@@ -6,6 +6,8 @@ baseurl: "/newfrost"
 paginate: 5
 paginate_path: "blog/page:num"
 
+excerpt_separator: <!--more-->
+
 permalink: pretty
 highlighter: pygments
 markdown: kramdown

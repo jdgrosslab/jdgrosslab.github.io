@@ -11,16 +11,44 @@ group: members
 <div id="{{person.name}}" class="section">
   <div class="row member">
     <div class="col s6 m3 center">
-      <img class="img-responsive" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
+      <img class="responsive-img circle member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
     </div>
     <div class="col s6 m3 center">
       <div class="valign"><strong>{{person.name}}</strong></div>
+      {% if person.cv %}
+      <div class="valign"><a href="{{site.baseurl}}{{person.cv}}" style="color:black;"><strong>CV</strong></a></div>
+      {% endif %}
     </div>
     <div class="col s6 m3 center ">
       <div class="grey-text">{{person.position}}</div>
     </div>
     <div class="col s6 m3 center ">
       <div>{{person.email}}</div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+
+
+<h2 class="center"> Alumni </h2>
+
+{% for person in site.data.alumni %}
+<!-- TODO -->
+<div class="divider"></div>
+<div id="{{person.name}}" class="section">
+  <div class="row member">
+    <div class="col s6 m3 center">
+      <img class="responsive-img circle member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
+    </div>
+    <div class="col s6 m3 center">
+      <div class="valign"><strong>{{person.name}}</strong></div>
+    </div>
+    <div class="col s6 m3 center ">
+      <div class="grey-text">{{person.new_position}}</div>
+    </div>
+    <div class="col s6 m3 center ">
+      <div>{{person.new_location}}</div>
     </div>
   </div>
 </div>

@@ -15,8 +15,8 @@ group: group
     <!-- <span class="author"><a href="/members#{{post.author}}">{{post.author}}</a></span><br> -->
     <span class="date"><em>{{ post.date | date_to_long_string }}</em></span>
   </p>
-  <div class="content">
-    {{ post.content }}
+  <div class="excerpt">
+    {{ post.excerpt }}
   </div>
 </div>
 {% if forloop.last == false %} <div class="divider"></div> {% endif %}
@@ -26,7 +26,7 @@ group: group
 <!-- This makes links to other paginator pages -->
 {% if paginator.total_pages > 1 %}
 <div class="divider"></div>
-<ul class="pagination">
+<ul class="pagination center-align">
   {% if paginator.previous_page %}
     <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_left</i></a></li>
   {% else %}
@@ -46,7 +46,7 @@ group: group
   {% if paginator.next_page %}
     <li class="waves-effect"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_right</i></a></li>
   {% else %}
-    <li><span><i class="material-icons">chevron_right</i></span></li>
+    <li class="disabled"><span><i class="material-icons">chevron_right</i></span></li>
   {% endif %}
 </ul>
 <br>

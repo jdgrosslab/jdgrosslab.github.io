@@ -7,7 +7,15 @@
  * Made By MaterializeCSS.com
  */
 
+img.left {
+  padding: 10px;
+}
 
+img.member-photo {
+  max-height: 90px;
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
 
 p {
   line-height: 2rem;
@@ -103,3 +111,4 @@ ul.side-nav li.logo {
 .pagination li.pages ul li {
   display: inline-block;
   float: none; }
+

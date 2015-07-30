@@ -1,0 +1,9 @@
+- name: Marc Elgort
+  image: /static/img/people/elgort.jpg
+  new_position: Research Associate
+  new_location: University of Utah
+
+- name: Seth Lilavivat
+  image: /static/img/people/lilavivat.jpg
+  new_position: Research Associate
+  new_location: Biofire, Salt Lake City Utah

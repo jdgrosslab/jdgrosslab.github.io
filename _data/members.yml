@@ -2,9 +2,29 @@
   image: /static/img/people/frost.jpg
   position: Principal Investigator
   email: adam.frost (at) ucsf.edu
+  cv: /static/pdf/Frost-NIH-biosketch.pdf
 
 - name: Mingyu Gu
   image: /static/img/people/gu.jpg
-  position: Graduate Student
+  position: Postdoc
   email: mingyu.gu (at) biochem.utah.edu
 
+- name: Raghav Kalia
+  image: /static/img/people/kalia.jpg
+  position: Graduate Student
+  email: raghav.kalia (at) biochem.utah.edu
+
+- name: Peter Shen
+  image: /static/img/people/shen.jpg
+  position: Postdoc
+  email: peter.shen (at) biochem.utah.edu
+
+- name: Nathaniel Talledge
+  image: /static/img/people/talledge.jpg
+  position: Graduate Student
+  email: nathaniel.talledge (at) biochem.utah.edu
+
+- name: Lillian Kenner
+  image: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAIkAAAAJDQ1NjgxYjI3LTIwMjctNDk3NS05OGIxLWZmNDEwMjEzNmZiMg.jpg
+  position: Graduate Student 
+  email: lillian.kenner (at) ucsf.edu
