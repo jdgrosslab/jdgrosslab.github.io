@@ -103,4 +103,4 @@ San Francisco, CA 94143
 5. Make your second left (south) to the S401-484 neighborhood
 6. Adam's office is through the clear doors, the lab is on your right.
 
-<img class="responsive-img" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
+<img class="responsive-img" src="{{site.baseurl}}/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
