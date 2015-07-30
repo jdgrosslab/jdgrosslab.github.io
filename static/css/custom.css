@@ -15,7 +15,8 @@ img.right {
 }
 
 img.member-photo {
-  max-height: 90px;
+  width: 90px;
+  
   -webkit-filter: grayscale(100%); 
   filter: grayscale(100%);
 }
