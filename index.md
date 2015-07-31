@@ -1,11 +1,11 @@
 ---
-title: Frost Lab at UCSF
+title: Adam Frost Laboratory @ UCSF
 layout: parallaxbanner
 banner: '/static/img/san_francisco_2.jpg'
 group: home
 ---
 
-## This page is under construction
+## This page is under construction (and has been for a long time...)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer efficitur finibus ante, sit amet finibus massa porttitor a. Sed in imperdiet lorem. Mauris dapibus neque pellentesque ante viverra lobortis. In hac habitasse platea dictumst. Nunc ultrices leo eget pulvinar tincidunt. Nunc dapibus mauris nulla. Donec venenatis sodales erat, vitae elementum erat condimentum nec. Donec mattis, quam nec blandit dignissim, nibh orci dictum purus, eu tristique sem lectus id ipsum. Nunc aliquet felis id libero mattis, non faucibus arcu commodo. Nullam pretium, sapien a eleifend tincidunt, mi magna ultrices lacus, id auctor augue tortor nec quam. Sed massa elit, viverra in semper eget, ultricies at leo. Curabitur id vestibulum lorem, ac lobortis orci. Fusce sit amet accumsan leo, egestas molestie diam.
 
