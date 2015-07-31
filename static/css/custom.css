@@ -9,14 +9,9 @@
 
 img.publication-img {
   max-width: 350px;
+  padding: 10px;
 }
 
-img.left {
-  padding: 10px;
-}
-img.right {
-  padding: 10px;
-}
 
 img.member-photo {
   width: 90px;
