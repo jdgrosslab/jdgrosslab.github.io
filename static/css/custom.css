@@ -7,6 +7,10 @@
  * Made By MaterializeCSS.com
  */
 
+img.publication-img {
+  max-width: 350px;
+}
+
 img.left {
   padding: 10px;
 }

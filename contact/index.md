@@ -43,7 +43,8 @@ group: contact
 ## Graduate Programs
 
 ###The Frost Lab participates in the following UCSF graduate programs:  
-  * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from nanotechnology to nuclear magnetic resonance spectroscopy—to quantify biological processes in living biological systems using physics and chemistry.  
+  * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from nanotechnology to nuclear magnetic resonance spectroscopy—to quantify biological processes in living biological systems using physics and chemistry. 
+
   * **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry & Molecular Biology, Cell Biology, Developmental Biology, & Genetics.
 
 ## Postdoctoral Fellows
@@ -72,8 +73,8 @@ San Francisco, CA 94143
 
 <h4>Lab Address</h4>
 
-Department of Biochemistry and Biophysics Box #2240<br>
-600 16th Street, Genentech Hall Room S476<br>
+Department of Biochemistry and Biophysics Box #2240  
+600 16th Street, Genentech Hall Room S476  
 San Francisco, CA 94143
 
 </div>
@@ -97,7 +98,7 @@ San Francisco, CA 94143
 
 ### Once on campus, proceed to Genentech Hall:
 1. You will have to enter through Genentech Hall from the Koret Quad side (Red dot on the map below)
-2. Sign in at security for a meeting with Dr. James Fraser (office Genentech Hall S472E)
+2. Sign in at security for a meeting with Dr. Adam Frost (office Genentech Hall S472E)
 3. Take the elevator or staircase to the fourth floor
 4. Walk west down the hall. If the floor changes colour to grey, you have gone the wrong way and are now in Byers Hall. Turn around and walk back to Genentech Hall
 5. Make your second left (south) to the S401-484 neighborhood
