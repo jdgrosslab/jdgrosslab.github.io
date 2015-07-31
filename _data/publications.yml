@@ -1,3 +1,11 @@
+- title: Structural and functional studies of membrane remodeling machines.
+  authors: 'Kalia R, Talledge N, __Frost A__'
+  journal: __METHODS IN CELL BIOLOGY__ 2015 Apr
+  abstract: "Building a Cell from its Component Parts. Chapter 10. Building cells from their component parts will hinge upon our ability to reconstitute biochemical compartmentalization and exchange between membrane-delimited organelles. By contrast with our understanding of other cellular events, the mechanisms that govern membrane trafficking has lagged because the presence of phospholipid bilayers complicates the use of standard methods. This chapter describes in vitro methods for purifying, reconstituting, and visualizing membrane remodeling activities directly by electron cryomicroscopy."
+  date: 201504 
+  image: /static/img/pub/Kalia_Methods_2015.jpg
+  pmid: 25997348
+
 - title: Rqc2p and 60S ribosomal subunits mediate mRNA-independent elongation of nascent chains.
   authors: 'Shen PS, Park J, Qin Y, Li X, Parsawar K, Larson MH, Cox J, Cheng Y, Lambowitz, Weissman JS<sup>\*</sup>, Brandmann O<sup>\*</sup>, __Frost A__<sup>\*</sup>, <br> <sup>\*</sup> Co-corresponding authors'
   journal: __SCIENCE__ 2015 Jan
@@ -5,7 +13,6 @@
   date: 201501 
   image: /static/img/pub/Frost_Rqc2_60Sribosome.jpg 
   pmid: 25554787
-
 
 - title: Interchangeable adaptors regulate mitochondrial dynamin assembly for membrane scission.
   authors: 'Koirala S, Guo Q, Kalia R, Bui HT, Eckert DM, __Frost A__<sup>\*</sup>, Shaw JM<sup>\*</sup> <br> <sup>\*</sup> Co-corresponding authors'
@@ -15,7 +22,6 @@
   image: /static/img/pub/Fig_for_Web_PNASpaper.png 
   pmid: 23530241
 
-
 - title: A ribosome-bound quality control complex triggers degradation of nascent peptides and signals translation stress.
   authors: 'Brandman O, Stewart-Ornstein J, Wong D, Larson A, Williams CC, Li GW, Zhou S, King D, Shen PS, Weibezahn J, Dunn JG, Rouskin S, Inada T, __Frost A__<sup>\*</sup>, Weissman JS<sup>\*</sup>. <br> <sup>*</sup> co-corresponding authors'
   journal: __CELL__ 2012 Nov
@@ -23,7 +29,6 @@
   date: 201211 
   image: /static/img/pub/Brandman_Cell.png 
   pmid: 23178123
-
 
 - title: Functional repurposing revealed by comparing S. pombe and S. cerevisiae genetic interactions.
   authors: '__Frost A__<sup>\*</sup>, Elgort MG, Brandman O, Ives C, Collins SR, Miller-Vedam L, Weibezahn J, Hein MY, Poser I, Mann M, Hyman AA, Weissman JS. <br> <sup>*</sup> corresponding author'
@@ -33,7 +38,6 @@
   image: /static/img/pub/Frost_Cell_cover_2012.png
   pmid: 22682253
 
-
 - title: Structural Basis of Membrane Bending by the N-BAR Protein Endophilin.
   authors: 'Mim C, Cui H, Gawronski-Salerno JA, __Frost A__, Lyman E, Voth GA, Unger VM.'
   journal: __CELL__ 2012 Mar
@@ -41,8 +45,7 @@
   date: 201203 
   image: /static/img/pub/Mim_Cell_2012.jpg
   pmid: 22464326
-  
-  
+    
 - title: Membrane trafficking: decoding vesicle identity with contrasting chemistries.
   authors: '__Frost A__'
   journal: __CURRENT BIOL__ 2011 Oct
@@ -50,7 +53,6 @@
   date: 201110 
   image: /static/img/pub/Frost_Curr_2011.jpg
   pmid: 21996503
-
 
 - title: The F-BAR domain of srGAP2 induces membrane protrusions required for neuronal migration and morphogenesis.
   authors: 'Guerrier S, Coutinho-Budd J, Sassa T, Gresset A, Jordan NV, Chen K, Jin WL, __Frost A__, Polleux F.'
@@ -83,7 +85,6 @@
   date: 200707 
   image: /static/img/pub/Frost_Structure_2007.jpg 
   pmid: 17637334
-
 
 - title: GTP-dependent twisting of dynamin implicates constriction and tension in membrane fission.
   authors: 'Roux A, Uyhazi K, __Frost A__, De Camilli P'
