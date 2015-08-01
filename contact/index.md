@@ -13,7 +13,7 @@ group: contact
 <div class="col m4">
 
   <h4>Lab Area </h4>
-  tel: ENTER
+  Genentech Hall, Fourth Floor S476A
 
 </div>
 
@@ -21,17 +21,20 @@ group: contact
 
   <h4>Adam Frost</h4>
   Assistant Professor  <br>
-  Department of Biochemistry and Biophysics  <br>
+  Department of Biochemistry & Biophysics
+  University of California, San Francisco
+  Mission Bay, Genentech Hall / Box 2240  
+  600 16th Street, Room S472A
+  San Francisco, CA 94158-2517
   email: adam.frost (at) ucsf.edu <br>
-  tel: ENTER
 
 </div>
 
 <div class="col m4">
 
   <h4> Administrator Name</h4>
-  Email: ADMINISTRATOR EMAIL  <br>
-  Phone: ENTER   <br>
+  Email: melissa.paraiso (at) ucsf.edu  <br>
+  Phone: 415.514.4825   <br>
 
 </div>
 
@@ -49,7 +52,7 @@ group: contact
 
 ## Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to Adam Frost and clearly, but briefly, articulate why you are potentially interested in joining the lab. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
+Inquiries about Postdoctoral positions should be emailed directly to Adam Frost. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
 
 <div class="divider"></div>
 
@@ -60,20 +63,23 @@ Inquiries about Postdoctoral positions should be emailed directly to Adam Frost 
 
 <div class="col m4">
 
-<h4>Office Address</h4>
+<h4>USPS Mailing Address</h4>
 
-Department of Biochemistry and Biophysics Box #2240<br>
-600 16th Street, Genentech Hall Room S472E<br>
-San Francisco, CA 94143
-
+UCSF
+Adam Frost, Assistant Professor
+Department of Biochemistry and Biophysics, Box 2240
+600 16th Street, Room S472F
+San Francisco, CA  94143
 
 </div>
 
 <div class="col m4">
 
-<h4>Lab Address</h4>
+<h4>Lab Shipping and FedEx Address</h4>
 
-Department of Biochemistry and Biophysics Box #2240  
+Frost Lab
+Genentech Hall
+Department of Biochemistry and Biophysics  
 600 16th Street, Genentech Hall Room S476  
 San Francisco, CA 94143
 
