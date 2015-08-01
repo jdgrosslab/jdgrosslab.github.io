@@ -13,9 +13,10 @@ group: contact
 <div class="col m4">
 
   <h4>Lab Area </h4>
-  Genentech Hall
-  Fourth Floor
-  Lab S476A, Office S472F
+  Genentech Hall <br>
+  Fourth Floor <br>
+  Lab S476A <br>
+  Office S472F
 
 </div>
 
