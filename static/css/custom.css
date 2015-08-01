@@ -6,13 +6,15 @@
  *
  * Made By MaterializeCSS.com
  */
-
+/*
 img.banner-img{
   max-width: 100%;
-}
+  height: auto;
+}*/
 
 img.publication-img {
   max-width: 350px;
+  
   padding: 10px;
 }
 
@@ -31,12 +33,13 @@ p {
 
 
 .parallax-container {
+  
   min-height: 420px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
 }
-  .parallax-container .section {
+  .parallax-container .section {`
     width: 100%;
   }
 
