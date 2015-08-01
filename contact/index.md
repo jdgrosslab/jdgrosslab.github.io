@@ -1,7 +1,7 @@
 ---
 title: Contact the Frost Lab
 layout: parallaxbanner
-banner: /static/img/em_8.jpg
+banner: /static/img/genentechexterior.jpg
 group: contact
 ---
 
@@ -13,7 +13,9 @@ group: contact
 <div class="col m4">
 
   <h4>Lab Area </h4>
-  Genentech Hall, Fourth Floor S476A
+  Genentech Hall
+  Fourth Floor
+  Lab S476A, Office S472F
 
 </div>
 
@@ -23,7 +25,7 @@ group: contact
   Assistant Professor  <br>
   Herbert Boyer Junior Faculty Endowed Chair <br>
   Department of Biochemistry & Biophysics
-  University of California, San Francisco
+  University of California, San Francisco <br>
   email: adam.frost (at) ucsf.edu <br>
 
 </div>
@@ -45,9 +47,9 @@ group: contact
 ## Graduate Programs
 
 ###The Frost Lab participates in the following UCSF graduate programs:  
-  * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from nanotechnology to nuclear magnetic resonance spectroscopy—to quantify biological processes in living biological systems using physics and chemistry. 
+  * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from bioinformatics to cryoEM—to quantify biological processes in living biological systems using physics and chemistry. 
 
-  * **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry & Molecular Biology, Cell Biology, Developmental Biology, & Genetics.
+  * **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry, Molecular Biology, Cell Biology, Developmental Biology and Genetics.
 
 ## Postdoctoral Fellows
 
