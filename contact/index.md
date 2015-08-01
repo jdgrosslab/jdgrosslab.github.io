@@ -1,7 +1,7 @@
 ---
 title: Contact the Frost Lab
 layout: parallaxbanner
-banner: /static/img/em_8.jpg
+banner: /static/img/genentechexterior.jpg
 group: contact
 ---
 
@@ -13,7 +13,10 @@ group: contact
 <div class="col m4">
 
   <h4>Lab Area </h4>
-  tel: ENTER
+  Genentech Hall <br>
+  Fourth Floor <br>
+  Lab S476A <br>
+  Office S472F
 
 </div>
 
@@ -21,17 +24,19 @@ group: contact
 
   <h4>Adam Frost</h4>
   Assistant Professor  <br>
-  Department of Biochemistry and Biophysics  <br>
+  Herbert Boyer Junior Faculty Endowed Chair <br>
+  Department of Biochemistry & Biophysics
+  University of California, San Francisco <br>
   email: adam.frost (at) ucsf.edu <br>
-  tel: ENTER
 
 </div>
 
 <div class="col m4">
 
-  <h4> Administrator Name</h4>
-  Email: ADMINISTRATOR EMAIL  <br>
-  Phone: ENTER   <br>
+  <h4> Melissa Paraiso</h4>
+  Administrative Assistant <br>
+  Email: melissa.paraiso (at) ucsf.edu  <br>
+  Phone: 415.514.4825   <br>
 
 </div>
 
@@ -43,38 +48,42 @@ group: contact
 ## Graduate Programs
 
 ###The Frost Lab participates in the following UCSF graduate programs:  
-  * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from nanotechnology to nuclear magnetic resonance spectroscopy—to quantify biological processes in living biological systems using physics and chemistry. 
+  * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from bioinformatics to cryoEM—to quantify biological processes in living biological systems using physics and chemistry. 
 
-  * **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry & Molecular Biology, Cell Biology, Developmental Biology, & Genetics.
+  * **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry, Molecular Biology, Cell Biology, Developmental Biology and Genetics.
 
 ## Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to Adam Frost and clearly, but briefly, articulate why you are potentially interested in joining the lab. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
+Inquiries about Postdoctoral positions should be emailed directly to Adam Frost. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
 
 <div class="divider"></div>
 
-## Directions to the Frost Lab
+## USPS Mail and Shipping to the Frost Lab
 
 <div class="section">
 <div class="row">
 
 <div class="col m4">
 
-<h4>Office Address</h4>
+<h4>USPS Mailing Address</h4>
 
-Department of Biochemistry and Biophysics Box #2240<br>
-600 16th Street, Genentech Hall Room S472E<br>
-San Francisco, CA 94143
-
+UCSF <br>
+Adam Frost, Assistant Professor <br>
+Dept of Biochemistry & Biophysics, Box 2240 <br>
+600 16th Street, Room S472F <br>
+San Francisco, CA  94143
 
 </div>
 
 <div class="col m4">
 
-<h4>Lab Address</h4>
+<h4>Lab Shipping and FedEx Address</h4>
 
-Department of Biochemistry and Biophysics Box #2240  
-600 16th Street, Genentech Hall Room S476  
+Frost Lab <br>
+Genentech Hall <br>
+Dept of Biochemistry and Biophysics <br>
+600 16th Street <br>
+Genentech Hall, Room S476 <br>
 San Francisco, CA 94143
 
 </div>
