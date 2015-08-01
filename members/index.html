@@ -14,13 +14,13 @@ group: members
       <img class="responsive-img circle member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
     </div>
     <div class="col s6 m3 center">
-      <div class="valign"><strong>{{person.name}}</strong></div>
+      <div class="valign"><strong>{{person.name | markdownify}}</strong></div>
       {% if person.cv %}
       <div class="valign"><a href="{{site.baseurl}}{{person.cv}}" style="color:black;"><strong>CV</strong></a></div>
       {% endif %}
     </div>
     <div class="col s6 m3 center ">
-      <div class="grey-text">{{person.position}}</div>
+      <div class="grey-text">{{person.position | markdownify }}</div>
     </div>
     <div class="col s6 m3 center ">
       <div>{{person.email}}</div>
@@ -42,13 +42,13 @@ group: members
       <img class="responsive-img circle member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
     </div>
     <div class="col s6 m3 center">
-      <div class="valign"><strong>{{person.name}}</strong></div>
+      <div class="valign"><strong>{{person.name | markdownify}}</strong></div>
     </div>
     <div class="col s6 m3 center ">
-      <div class="grey-text">{{person.new_position}}</div>
+      <div class="grey-text">{{person.new_position | markdownify}}</div>
     </div>
     <div class="col s6 m3 center ">
-      <div>{{person.new_location}}</div>
+      <div>{{person.new_location | markdownify}}</div>
     </div>
   </div>
 </div>
