@@ -2,6 +2,18 @@
   url: /research/nih
   image: /static/img/research/nih_top.png
 
+- name: Structure and Function of the Exocyst Complex
+  url: /research/exocyst
+  image: /static/img/research/nigms.jpg
+
+- name: Structural and Functional Characterization of srGAP Proteins
+  url: /research/bsf
+  image: /static/img/research/BSF.jpg
+
 - name: Structural and Functional Characterization of the Ribosome Quality Control Complex
   url: /research/searle
   image: /static/img/research/searle_top.png
+
+- name: New Concepts for Understanding and Treating Neurogenerative Disease
+  url: /research/pbbr
+  image: /static/img/research/pbbr.png
