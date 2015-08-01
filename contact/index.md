@@ -32,7 +32,7 @@ group: contact
 
 <div class="col m4">
 
-  <h4> Administrator Name</h4>
+  <h4> Melissa Paraiso</h4>
   Email: melissa.paraiso (at) ucsf.edu  <br>
   Phone: 415.514.4825   <br>
 
@@ -65,10 +65,10 @@ Inquiries about Postdoctoral positions should be emailed directly to Adam Frost.
 
 <h4>USPS Mailing Address</h4>
 
-UCSF<br>
-Adam Frost, Assistant Professor<br>
-Department of Biochemistry and Biophysics, Box 2240<br>
-600 16th Street, Room S472F<br>
+UCSF <br>
+Adam Frost, Assistant Professor <br>
+Department of Biochemistry and Biophysics, Box 2240 <br>
+600 16th Street, Room S472F <br>
 San Francisco, CA  94143
 
 </div>
@@ -77,10 +77,10 @@ San Francisco, CA  94143
 
 <h4>Lab Shipping and FedEx Address</h4>
 
-Frost Lab<br>
-Genentech Hall<br>
-Department of Biochemistry and Biophysics<br>  
-600 16th Street, Genentech Hall Room S476<br>  
+Frost Lab <br>
+Genentech Hall <br>
+Department of Biochemistry and Biophysics <br>  
+600 16th Street, Genentech Hall Room S476 <br>  
 San Francisco, CA 94143
 
 </div>
