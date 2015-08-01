@@ -65,10 +65,10 @@ Inquiries about Postdoctoral positions should be emailed directly to Adam Frost.
 
 <h4>USPS Mailing Address</h4>
 
-UCSF
-Adam Frost, Assistant Professor
-Department of Biochemistry and Biophysics, Box 2240
-600 16th Street, Room S472F
+UCSF<br>
+Adam Frost, Assistant Professor<br>
+Department of Biochemistry and Biophysics, Box 2240<br>
+600 16th Street, Room S472F<br>
 San Francisco, CA  94143
 
 </div>
@@ -77,10 +77,10 @@ San Francisco, CA  94143
 
 <h4>Lab Shipping and FedEx Address</h4>
 
-Frost Lab
-Genentech Hall
-Department of Biochemistry and Biophysics  
-600 16th Street, Genentech Hall Room S476  
+Frost Lab<br>
+Genentech Hall<br>
+Department of Biochemistry and Biophysics<br>  
+600 16th Street, Genentech Hall Room S476<br>  
 San Francisco, CA 94143
 
 </div>
