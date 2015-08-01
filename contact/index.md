@@ -21,11 +21,9 @@ group: contact
 
   <h4>Adam Frost</h4>
   Assistant Professor  <br>
+  Herbert Boyer Junior Faculty Endowed Chair <br>
   Department of Biochemistry & Biophysics
   University of California, San Francisco
-  Mission Bay, Genentech Hall / Box 2240  
-  600 16th Street, Room S472A
-  San Francisco, CA 94158-2517
   email: adam.frost (at) ucsf.edu <br>
 
 </div>
@@ -33,6 +31,7 @@ group: contact
 <div class="col m4">
 
   <h4> Melissa Paraiso</h4>
+  Administrative Assistant
   Email: melissa.paraiso (at) ucsf.edu  <br>
   Phone: 415.514.4825   <br>
 
@@ -56,7 +55,7 @@ Inquiries about Postdoctoral positions should be emailed directly to Adam Frost.
 
 <div class="divider"></div>
 
-## Directions to the Frost Lab
+## Directions, Mail and Shipping to the Frost Lab
 
 <div class="section">
 <div class="row">
@@ -79,8 +78,8 @@ San Francisco, CA  94143
 
 Frost Lab <br>
 Genentech Hall <br>
-Department of Biochemistry and Biophysics <br>  
-600 16th Street, Genentech Hall Room S476 <br>  
+Department of Biochemistry and Biophysics
+600 16th Street, Genentech Hall Room S476
 San Francisco, CA 94143
 
 </div>
