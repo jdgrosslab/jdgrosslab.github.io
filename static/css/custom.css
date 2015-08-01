@@ -12,7 +12,7 @@ img.banner-img{
 }
 
 img.publication-img {
-  max-width: 350px;
+  max-width: 450px;
   padding: 10px;
 }
 
@@ -118,4 +118,3 @@ ul.side-nav li.logo {
 .pagination li.pages ul li {
   display: inline-block;
   float: none; }
-
