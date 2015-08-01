@@ -30,7 +30,3 @@
 - name: contact
   link: "/contact"
   group: contact
-
-- name: culture
-  link: "/culture"
-  group: culture
