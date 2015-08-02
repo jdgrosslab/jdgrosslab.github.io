@@ -16,9 +16,8 @@ img.banner-img{
 
 
 img.publication-img {
-
-  max-width: 450px;
-
+  width: 450px;
+  max-width: 100%;
   padding: 10px;
 }
 
