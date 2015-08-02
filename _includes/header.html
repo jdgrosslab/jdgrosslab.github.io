@@ -40,8 +40,8 @@
   </nav>
 
   <ul id="nav-mobile" class="side-nav">
-    <li class="logo"><a id="logo-container" href="#" class="brand-logo">
-        <object id="front-page-logo" type="image/svg+xml" data="{{ site.baseurl }}/static/img/largebrand.svg">Your browser does not support svg</object>
+    <li class="logo"><a id="logo-container" href="{{site.baseurl}}/" class="brand-logo">
+        <img id="front-page-logo" src="{{ site.baseurl }}/static/img/sidenav.png"></img>
     </a></li>
     {% for link in site.data.navbar %}
       {% if page.group == link.group %}
