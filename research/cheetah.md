@@ -1,7 +1,7 @@
 ---
 title: Membrane Remodeling by the ESCRTIII Machinery Frost Lab Research
 layout: parallaxbanner
-banner: /static/img/research/cheetah-research.jpg
+banner: /static/img/research/cheetah-research.png
 group: research
 ---
 
