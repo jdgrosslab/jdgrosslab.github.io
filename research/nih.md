@@ -10,7 +10,7 @@ group: research
 
 -------
 
-###Project Description and Overview:
+##Project Description and Overview:
 
 The overarching goal of this research program is to understand the structures and functions of machines 
 that assemble on cellular membranes. Cells constantly transform the shape, size and connectivity of their 
@@ -23,7 +23,7 @@ on phospholipid bilayers.
 
 <img class="responsive-img" src="{{site.baseurl}}/static/img/research/nih_desc.png"/>
 
-###Objectives:
+##Objectives:
 To overcome these challenges, we will develop genetic, biochemical and structural methods to discover 
 and characterize membrane-associated machines in molecular detail and to learn how they function within 
 cellular pathways. We are 1) building genome-wide genetic interaction maps to identify multi-component 
