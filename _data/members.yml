@@ -24,6 +24,11 @@
   position: Graduate Student
   email: nathaniel.talledge (at) biochem.utah.edu
 
+- name: Valentine Romanov
+  image: /static/img/people/romanov.jpg
+  position: "**Graduate Student <br> (Joint with **[Dr. Bruce Gale](http://mech.utah.edu/faculty/bruce-gale/)**)"
+  email: vromanovaus (at) biochem.utah.edu
+
 - name: Lakshmi Miller-Vedam
   image: /static/img/people/millervedam.png
   position: Technician
@@ -31,12 +36,12 @@
 
 - name: Beatriz Osuna
   image: /static/img/people/osuna.png
-  position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student (Joint with **[Dr. David Weinberg](http://weinberglab.ucsf.edu/)**)"
+  position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student <br> (Joint with **[Dr. David Weinberg](http://weinberglab.ucsf.edu/)**)"
   email: bettieosuna (at) gmail.com
 
 - name: Dr. Nicole Schirle
   image: /static/img/people/schirle.png
-  position: "Postdoctoral Scholar (Joint with **[Dr. Jonathan S. Weissman](http://weissmanlab.ucsf.edu/)**)"
+  position: "Postdoctoral Scholar <br> (Joint with **[Dr. Jonathan S. Weissman](http://weissmanlab.ucsf.edu/)**)"
   email: nicole.schirle (at) ucsf.edu
 
 - name: Lillian Kenner
