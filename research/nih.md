@@ -1,5 +1,5 @@
 ---
-title: Electron Cryomicroscopy of Membrane Proteins - Frost Lab Research
+title: Electron Cryomicroscopy of Membrane-Associated Machines - Frost Lab Research
 layout: default
 group: research
 ---
