@@ -11,7 +11,7 @@ group: members
 <div id="{{person.name}}" class="section">
   <div class="row member">
     <div class="col s6 m3 center">
-      <img class="responsive-img circle member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
+      <img class="circle member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
     </div>
     <div class="col s6 m3 center">
       <div class="valign"><strong>{{person.name | markdownify}}</strong></div>
@@ -22,7 +22,7 @@ group: members
     <div class="col s6 m3 center ">
       <div class="grey-text">{{person.position | markdownify}}</div>
     </div>
-    <div class="col s6 m3 center ">
+    <div class="col s6 offset-s6 m3 center ">
       <div>{{person.email}}</div>
     </div>
   </div>
@@ -47,7 +47,7 @@ group: members
     <div class="col s6 m3 center ">
       <div class="grey-text">{{person.new_position | markdownify}}</div>
     </div>
-    <div class="col s6 m3 center ">
+    <div class="col s6 offset-s6 m3 center ">
       <div>{{person.new_location | markdownify}}</div>
     </div>
   </div>
