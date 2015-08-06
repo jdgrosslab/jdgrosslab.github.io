@@ -19,10 +19,6 @@
   link: "/publications"
   group: publications
 
-- name: blog
-  link: "/blog"
-  group: blog
-
 - name: members
   link: "/members"
   group: members
@@ -30,3 +26,7 @@
 - name: contact
   link: "/contact"
   group: contact
+
+- name: blog
+  link: "/blog"
+  group: blog
