@@ -10,7 +10,7 @@ group: research
 
 -------
 
-##Project Description and Overview:
+##Project Overview:
 
 The overarching goal of this research program is to understand the structures and functions of machines 
 that assemble on cellular membranes. Cells constantly transform the shape, size and connectivity of their 
