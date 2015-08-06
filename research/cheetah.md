@@ -1,6 +1,6 @@
 ---
 title: Membrane Remodeling by the ESCRTIII Machinery -- Frost Lab Research
-layout: parallaxbanner
+layout: default
 group: research
 ---
 
