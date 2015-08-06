@@ -4,7 +4,7 @@ layout: default
 group: research
 ---
 
-##
+##Structure and Function of the Exocyst Complex
 
 <img class="responsive-img" src="{{site.baseurl}}/static/img/research/nigms.png"/>
 
@@ -13,7 +13,7 @@ group: research
 ##Project Overview:
 A fundamental hallmark of eukaryotic cells is their organization into functionally distinct, membrane bound
 compartments, which communicate with each other through vesicle trafficking. Integral to this organization are
-mechanisms that mediate vesicle tethering and fusion with target compartments. The exocyst complex has a
+mechanisms that mediate vesicle tethering and fusion with target compartments. The **[exocyst complex ](http://www.ncbi.nlm.nih.gov/pubmed/22420621)** has a
 fundamental, conserved role in tethering and fusion of secretory vesicles at the plasma membrane. Despite its
 importance, major aspects of exocyst function are completely unknown. Our exciting preliminary and recently
 published data provides compelling support to our hypothesis that exocyst functions in two fundamental ways
