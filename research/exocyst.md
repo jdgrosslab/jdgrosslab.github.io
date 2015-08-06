@@ -6,7 +6,7 @@ group: research
 
 ##Structure and Function of the Exocyst Complex
 
-<img class="responsive-img" src="{{site.baseurl}}/static/img/research/nigms.png"/>
+<img class="responsive-img" src="{{site.baseurl}}/static/img/research/nigms.jpg"/>
 
 -------
 
