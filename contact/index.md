@@ -1,5 +1,5 @@
 ---
-title: Contact the Frost Lab
+title: Contact Us
 layout: parallaxbanner
 banner: /static/img/people/UCSF_Mission_Bay_Campus.jpg
 group: contact
