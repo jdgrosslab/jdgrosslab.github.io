@@ -1,7 +1,7 @@
 ---
 title: Contact the Frost Lab
 layout: parallaxbanner
-banner: /static/img/genentechexterior.jpg
+banner: /static/img/people/UCSF_Mission_Bay_Campus.jpg
 group: contact
 ---
 
