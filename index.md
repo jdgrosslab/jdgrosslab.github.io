@@ -1,5 +1,5 @@
 ---
-title: Frost @ UCSF
+title: Frost<br>@<br>UCSF
 layout: parallaxbanner
 banner: '/static/img/san_francisco_2.jpg'
 group: home
