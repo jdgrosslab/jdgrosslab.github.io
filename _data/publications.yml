@@ -1,7 +1,7 @@
 - title: Structural and functional studies of membrane remodeling machines.
   authors: 'Kalia R, Talledge N, __Frost A__'
   journal: __METHODS IN CELL BIOLOGY__ 2015 Apr
-  abstract: "Building a Cell from its Component Parts. Chapter 10. Building cells from their component parts will hinge upon our ability to reconstitute biochemical compartmentalization and exchange between membrane-delimited organelles. By contrast with our understanding of other cellular events, the mechanisms that govern membrane trafficking has lagged because the presence of phospholipid bilayers complicates the use of standard methods. This chapter describes in vitro methods for purifying, reconstituting, and visualizing membrane remodeling activities directly by electron cryomicroscopy."
+  abstract: "**[Building a Cell from its Component Parts](http://www.amazon.com/Building-Component-Volume-Methods-Biology/dp/012802450X)**. Chapter 10. Building cells from their component parts will hinge upon our ability to reconstitute biochemical compartmentalization and exchange between membrane-delimited organelles. By contrast with our understanding of other cellular events, the mechanisms that govern membrane trafficking has lagged because the presence of phospholipid bilayers complicates the use of standard methods. This chapter describes in vitro methods for purifying, reconstituting, and visualizing membrane remodeling activities directly by electron cryomicroscopy."
   date: 201504 
   image: /static/img/pub/Kalia_Methods_2015.jpg
   pmid: 25997348
@@ -23,7 +23,7 @@
   pmid: 23530241
 
 - title: A ribosome-bound quality control complex triggers degradation of nascent peptides and signals translation stress.
-  authors: 'Brandman O, Stewart-Ornstein J, Wong D, Larson A, Williams CC, Li GW, Zhou S, King D, Shen PS, Weibezahn J, Dunn JG, Rouskin S, Inada T, __Frost A__<sup>\*</sup>, Weissman JS<sup>\*</sup>. <br> <sup>*</sup> co-corresponding authors'
+  authors: 'Brandman O, Stewart-Ornstein J, Wong D, Larson A, Williams CC, Li GW, Zhou S, King D, Shen PS, Weibezahn J, Dunn JG, Rouskin S, Inada T, __Frost A__<sup>\*</sup>, Weissman JS<sup>\*</sup> <br> <sup>*</sup> co-corresponding authors'
   journal: __CELL__ 2012 Nov
   abstract: "The conserved transcriptional regulator heat shock factor 1 (Hsf1) is a key sensor of proteotoxic and other stress in the eukaryotic cytosol. We surveyed Hsf1 activity in a genome-wide loss-of-function library in Saccaromyces cerevisiae as well as ~78,000 double mutants and found Hsf1 activity to be modulated by highly diverse stresses. These included disruption of a ribosome-bound complex we named the Ribosome Quality Control Complex (RQC) comprising the Ltn1 E3 ubiquitin ligase, two highly conserved but poorly characterized proteins (Tae2 and Rqc1), and Cdc48 and its cofactors. Electron microscopy and biochemical analyses revealed that the RQC forms a stable complex with 60S ribosomal subunits containing stalled polypeptides and triggers their degradation. A negative feedback loop regulates the RQC, and Hsf1 senses an RQC-mediated translation-stress signal distinctly from other stresses. Our work reveals the range of stresses Hsf1 monitors and elucidates a conserved cotranslational protein quality control mechanism."
   date: 201211 
@@ -31,7 +31,7 @@
   pmid: 23178123
 
 - title: Functional repurposing revealed by comparing S. pombe and S. cerevisiae genetic interactions.
-  authors: '__Frost A__<sup>\*</sup>, Elgort MG, Brandman O, Ives C, Collins SR, Miller-Vedam L, Weibezahn J, Hein MY, Poser I, Mann M, Hyman AA, Weissman JS. <br> <sup>*</sup> corresponding author'
+  authors: '__Frost A__<sup>\*</sup>, Elgort MG, Brandman O, Ives C, Collins SR, Miller-Vedam L, Weibezahn J, Hein MY, Poser I, Mann M, Hyman AA, Weissman JS <br> <sup>*</sup> corresponding author'
   journal: __CELL__ 2012 Jun
   abstract: "We present a genetic interaction map of pairwise measures including ∼40% of nonessential S. pombe genes. By comparing interaction maps for fission and budding yeast, we confirmed widespread conservation of genetic relationships within and between complexes and pathways. However, we identified an important subset of orthologous complexes that have undergone functional \"repurposing\": the evolution of divergent functions and partnerships. We validated three functional repurposing events in S. pombe and mammalian cells and discovered that (1) two lumenal sensors of misfolded ER proteins, the kinase/nuclease Ire1 and the glucosyltransferase Gpt1, act together to mount an ER stress response; (2) ESCRT factors regulate spindle-pole-body duplication; and (3) a membrane-protein phosphatase and kinase complex, the STRIPAK complex, bridges the cis-Golgi, the centrosome, and the outer nuclear membrane to direct mitotic progression. Each discovery opens new areas of inquiry and-together-have implications for model organism-based research and the evolution of genetic systems.,<br><br>The cover art for this issue of Cell generated some fun controvsery (and upset lab safety officers everywhere), thanks to the talented **[Dr. Brandon Toyama](http://www.researchgate.net/profile/Brandon_Toyama)**."
   date: 201206 
@@ -39,7 +39,7 @@
   pmid: 22682253
 
 - title: Structural Basis of Membrane Bending by the N-BAR Protein Endophilin.
-  authors: 'Mim C, Cui H, Gawronski-Salerno JA, __Frost A__, Lyman E, Voth GA, Unger VM.'
+  authors: 'Mim C, Cui H, Gawronski-Salerno JA, __Frost A__, Lyman E, Voth GA, Unger VM'
   journal: __CELL__ 2012 Mar
   abstract: "Functioning as key players in cellular regulation of membrane curvature, BAR domain proteins bend bilayers and recruit interaction partners through poorly understood mechanisms. Using electron cryomicroscopy, we present reconstructions of full-length endophilin and its N-terminal N-BAR domain in their membrane-bound state. Endophilin lattices expose large areas of membrane surface and are held together by promiscuous interactions between endophilin's amphipathic N-terminal helices. Coarse-grained molecular dynamics simulations reveal that endophilin lattices are highly dynamic and that the N-terminal helices are required for formation of a stable and regular scaffold. Furthermore, endophilin accommodates different curvatures through a quantized addition or removal of endophilin dimers, which in some cases causes dimerization of endophilin's SH3 domains, suggesting that the spatial presentation of SH3 domains, rather than affinity, governs the recruitment of downstream interaction partners."
   date: 201203 
@@ -49,29 +49,29 @@
 - title: "Membrane trafficking: decoding vesicle identity with contrasting chemistries."
   authors: '__Frost A__'
   journal: __CURRENT BIOL__ 2011 Oct
-  abstract: "Proteins involved in membrane traffic must distinguish between different classes of vesicles. New work now shows that α-synuclein and ALPS motifs represent two extreme types of amphipathic helix that are tuned to detect both the curvature of transport vesicles as well as their bulk lipid content.<br><br>This piece was inspired by a lovely piece of **[cell biology}(http://www.ncbi.nlm.nih.gov/pubmed/21746853)** by **[Dr. Bruno Antonny](https://www.ipmc.cnrs.fr/cgi-bin/standard.cgi?descriptif=antonny.txt&dossier1=equipes&dossier2=antonny&lang=uk)** and **[Dr. Cathy Jackson](http://www2.cnrs.fr/en/1170.htm)**."
+  abstract: "Proteins involved in membrane traffic must distinguish between different classes of vesicles. New work now shows that α-synuclein and ALPS motifs represent two extreme types of amphipathic helix that are tuned to detect both the curvature of transport vesicles as well as their bulk lipid content.<br><br>This piece was inspired by a lovely piece of **[cell biology](http://www.ncbi.nlm.nih.gov/pubmed/21746853)** by **[Dr. Bruno Antonny](https://www.ipmc.cnrs.fr/cgi-bin/standard.cgi?descriptif=antonny.txt&dossier1=equipes&dossier2=antonny&lang=uk)** and **[Dr. Cathy Jackson](http://www2.cnrs.fr/en/1170.htm)**."
   date: 201110 
   image: /static/img/pub/Frost_Curr_2011.jpg
   pmid: 21996503
 
 - title: The F-BAR domain of srGAP2 induces membrane protrusions required for neuronal migration and morphogenesis.
-  authors: 'Guerrier S, Coutinho-Budd J, Sassa T, Gresset A, Jordan NV, Chen K, Jin WL, __Frost A__, Polleux F.'
+  authors: 'Guerrier S, Coutinho-Budd J, Sassa T, Gresset A, Jordan NV, Chen K, Jin WL, __Frost A__, Polleux F'
   journal: __CELL__ 2009 Sep
-  abstract: "During brain development, proper neuronal migration and morphogenesis is critical for the establishment of functional neural circuits. Here we report that srGAP2 negatively regulates neuronal migration and induces neurite outgrowth and branching through the ability of its F-BAR domain to induce filopodia-like membrane protrusions resembling those induced by I-BAR domains in vivo and in vitro. Previous work has suggested that in nonneuronal cells filopodia dynamics decrease the rate of cell migration and the persistence of leading edge protrusions. srGAP2 knockdown reduces leading process branching and increases the rate of neuronal migration in vivo. Overexpression of srGAP2 or its F-BAR domain has the opposite effects, increasing leading process branching and decreasing migration. These results suggest that F-BAR domains are functionally diverse and highlight the functional importance of proteins directly regulating membrane deformation for proper neuronal migration and morphogenesis."
+  abstract: "During brain development, proper neuronal migration and morphogenesis is critical for the establishment of functional neural circuits. Here we report that srGAP2 negatively regulates neuronal migration and induces neurite outgrowth and branching through the ability of its F-BAR domain to induce filopodia-like membrane protrusions resembling those induced by I-BAR domains in vivo and in vitro. Previous work has suggested that in nonneuronal cells filopodia dynamics decrease the rate of cell migration and the persistence of leading edge protrusions. srGAP2 knockdown reduces leading process branching and increases the rate of neuronal migration in vivo. Overexpression of srGAP2 or its F-BAR domain has the opposite effects, increasing leading process branching and decreasing migration. These results suggest that F-BAR domains are functionally diverse and highlight the functional importance of proteins directly regulating membrane deformation for proper neuronal migration and morphogenesis.<br><br>This cover image was created by the first author of this remarkable story, the talented **[Dr. Sabrice Guerrier](http://www.researchgate.net/profile/Sabrice_Guerrier).**"
   date: 200909 
   image: /static/img/pub/Guerrier_Cell_2009.jpg
   pmid: 19737524
 
 - title: 'The BAR domain superfamily: membrane-molding macromolecules'
-  authors: '__Frost A__, Perera R, Roux A, Spasov K, Destaing O, Egelman EH, De Camilli P, Unger VM'
-  journal: __CELL__ 2008 Apr
+  authors: '__Frost A__, Unger VM, De Camilli P'
+  journal: __CELL__ 2009 Apr
   abstract: "Membrane-shaping proteins of the BAR domain superfamily are determinants of organelle biogenesis, membrane trafficking, cell division, and cell migration. An upsurge of research now reveals new principles of BAR domain-mediated membrane remodeling, enhancing our understanding of membrane curvature-mediated information processing."
   date: 200904
   image: /static/img/pub/Frost_Cell_2009.jpg
   pmid: 19379681
 
 - title: 'Structural basis of membrane invagination by F-BAR domains.'
-  authors: '__Frost A__, Unger VM, De Camilli P'
+  authors: '__Frost A__, Perera R, Roux A, Spasov K, Destaing O, Egelman EH, De Camilli P, Unger VM'
   journal: __CELL__ 2008 Mar
   abstract: "BAR superfamily domains shape membranes through poorly understood mechanisms. We solved structures of F-BAR modules bound to flat and curved bilayers using electron (cryo)microscopy. We show that membrane tubules form when F-BARs polymerize into helical coats that are held together by lateral and tip-to-tip interactions. On gel-state membranes or after mutation of residues along the lateral interaction surface, F-BARs adsorb onto bilayers via surfaces other than their concave face. We conclude that membrane binding is separable from membrane bending, and that imposition of the module\'s concave surface forces fluid-phase bilayers to bend locally. Furthermore, exposure of the domain\'s lateral interaction surface through a change in orientation serves as the crucial trigger for assembly of the helical coat and propagation of bilayer bending. The geometric constraints and sequential assembly of the helical lattice explain how F-BAR and classical BAR domains segregate into distinct microdomains, and provide insight into the spatial regulation of membrane invagination.<br><br>This painting was created by artist and scientist **[Dr. David Goodsell](http://mgl.scripps.edu/people/goodsell/)**. The painting was inspired in part by our structures of F-BAR and **[N-BAR](http://www.ncbi.nlm.nih.gov/pubmed/22464326)** membrane-bound coats, and was commissioned by **[Professor Min Wu](http://mbi.nus.edu.sg/wu-min/)**."
   date: 200803
