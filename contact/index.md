@@ -24,7 +24,7 @@ group: contact
 
   <h4>Adam Frost</h4>
   Assistant Professor  <br>
-  Herbert Boyer Junior Faculty Endowed Chair <br>
+  **[Herbert Boyer](http://www.gene.com/about-us/leadership/our-founders)** Junior Faculty Endowed Chair <br>
   Department of Biochemistry & Biophysics
   University of California, San Francisco <br>
   email: adam.frost (at) ucsf.edu <br>
