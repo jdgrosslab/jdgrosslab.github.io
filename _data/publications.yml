@@ -38,7 +38,7 @@
   image: /static/img/pub/Frost_Cell_cover_2012.png
   pmid: 22682253
 
-- title: Structural Basis of Membrane Bending by the N-BAR Protein Endophilin.
+- title: Structural basis of membrane bending by the N-BAR protein Endophilin.
   authors: 'Mim C, Cui H, Gawronski-Salerno JA, __Frost A__, Lyman E, Voth GA, Unger VM'
   journal: __CELL__ 2012 Mar
   abstract: "Functioning as key players in cellular regulation of membrane curvature, BAR domain proteins bend bilayers and recruit interaction partners through poorly understood mechanisms. Using electron cryomicroscopy, we present reconstructions of full-length endophilin and its N-terminal N-BAR domain in their membrane-bound state. Endophilin lattices expose large areas of membrane surface and are held together by promiscuous interactions between endophilin's amphipathic N-terminal helices. Coarse-grained molecular dynamics simulations reveal that endophilin lattices are highly dynamic and that the N-terminal helices are required for formation of a stable and regular scaffold. Furthermore, endophilin accommodates different curvatures through a quantized addition or removal of endophilin dimers, which in some cases causes dimerization of endophilin's SH3 domains, suggesting that the spatial presentation of SH3 domains, rather than affinity, governs the recruitment of downstream interaction partners."
@@ -80,7 +80,7 @@
 
 - title: F-BAR proteins join the BAR family fold.
   authors: '__Frost A__, De Camilli P, Unger VM'
-  journal: __STRUCTUR__ 2007 Jul
+  journal: __STRUCTURE__ 2007 Jul
   abstract: "Expanding the range of curvature generating and curvature stabilizing protein modules, the first F-BAR domain structures support their assignment to the BAR domain superfamily and emphasize how modifications to a basic structural frame can generate a broad spectrum of properties."
   date: 200707 
   image: /static/img/pub/Frost_Structure_2007.jpg 
