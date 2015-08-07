@@ -6,7 +6,7 @@
   link: "/research"
   group: research
 
-- name: publications
+- name: papers
   link: "/publications"
   group: publications
 
@@ -17,7 +17,3 @@
 - name: contact
   link: "/contact"
   group: contact
-
-- name: blog
-  link: "/blog"
-  group: blog
