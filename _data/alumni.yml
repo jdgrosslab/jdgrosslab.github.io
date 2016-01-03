@@ -1,14 +1,14 @@
 - name: Dr. Marc Elgort
   image: /static/img/people/elgort.jpg
-  new_position: Instructor
-  new_location: InnovaBio, Salt Lake City, Utah
+  new_position: Research and Design Scientist
+  new_location: Associated Regional and University Pathologists, Department of Pathology, University of Utah, Salt Lake City, Utah
 
 - name: Seth Lilavivat
   image: /static/img/people/lilavivat.jpg
-  new_position: Project Leader
+  new_position: Research and Design Scientist
   new_location: Illumina, San Diego, California
 
 - name: Dr. Peter Shen
   image: /static/img/people/shen.jpg
-  new_position: Research Assistant Professor of Biochemistry
+  new_position: Assistant Research Professor of Biochemistry
   new_location: University of Utah, Salt Lake City, Utah
