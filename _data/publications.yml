@@ -1,4 +1,20 @@
-- title: Structural and functional studies of membrane remodeling machines.
+- title: Subunit connectivity, assembly determinants and architecture of the yeast exocyst complex.
+  authors: 'Heider MR, Gu M, Duffy CM, Mirza AM, Marcotte LL, Walls AC, Farrall N, Hakhverdyan Z, Field MC, Rout MP, __Frost A__, Munson M'
+  journal: __NATURE STRUCTURE & MOLECULAR BIOLOGY__ 2015 Dec
+  abstract: "The exocyst is a hetero-octameric complex that has been proposed to serve as the tethering complex for exocytosis, although it remains poorly understood at the molecular level. Here, we purified endogenous exocyst complexes from Saccharomyces cerevisiae and showed that they are stable and consist of all eight subunits with equal stoichiometry. Using a combination of biochemical and auxin induced-degradation experiments in yeast, we mapped the subunit connectivity, identified two stable four-subunit modules within the octamer and demonstrated that several known exocyst-binding partners are not necessary for exocyst assembly and stability. Furthermore, we visualized the structure of the yeast complex by using negative-stain electron microscopy; our results indicate that the exocyst exists predominantly as a stable, octameric complex with an elongated architecture that suggests that the subunits are contiguous helical bundles packed together into a bundle of long rods."
+  date: 201512
+  image: /static/img/pub/Heider_NSMB_2015.jpg
+  pmid: 26656853
+  
+  - title: Structure and membrane remodeling activity of ESCRT-III helical polymers.
+  authors: 'McCullough J, Clippinger AK, Talledge N, Skowyra ML, Saunders MG, Naismith TV, Colf LA, Afonine P, Arthur C, Sundquist WI, Hanson PI, __Frost A__'
+  journal: __SCIENCE__ 2015 Dec
+  abstract: "The endosomal sorting complexes required for transport (ESCRT) proteins mediate fundamental membrane remodeling events that require stabilizing negative membrane curvature. These include endosomal intralumenal vesicle formation, HIV budding, nuclear envelope closure, and cytokinetic abscission. ESCRT-III subunits perform key roles in these processes by changing conformation and polymerizing into membrane-remodeling filaments. Here, we report the 4 angstrom resolution cryogenic electron microscopy reconstruction of a one-start, double-stranded helical copolymer composed of two different human ESCRT-III subunits, charged multivesicular body protein 1B (CHMP1B) and increased sodium tolerance 1 (IST1). The inner strand comprises "open" CHMP1B subunits that interlock in an elaborate domain-swapped architecture and is encircled by an outer strand of "closed" IST1 subunits. Unlike other ESCRT-III proteins, CHMP1B and IST1 polymers form external coats on positively curved membranes in vitro and in vivo. Our analysis suggests how common ESCRT-III filament architectures could stabilize different degrees and directions of membrane curvature. <br> <br> This paper represents a heroic amount of work by scientists at three different universities. It also speaks to the power of being open with your colleagues at conferences. Thanks to **[Julie Kiefer](jkiefer@neuro.utah.edu)** for writing up **[this concise summary](http://healthcare.utah.edu/publicaffairs/news/2015/12/120315_Molecular_Noose.php)** for the press."
+  date: 201512
+  image: /static/img/pub/McCullough_Science_2015.jpg
+  pmid: 26634441
+  
+  - title: Structural and functional studies of membrane remodeling machines.
   authors: 'Kalia R, Talledge N, __Frost A__'
   journal: __METHODS IN CELL BIOLOGY__ 2015 Apr
   abstract: "**[Building a Cell from its Component Parts](http://www.amazon.com/Building-Component-Volume-Methods-Biology/dp/012802450X)**. Chapter 10. Building cells from their component parts will hinge upon our ability to reconstitute biochemical compartmentalization and exchange between membrane-delimited organelles. By contrast with our understanding of other cellular events, the mechanisms that govern membrane trafficking has lagged because the presence of phospholipid bilayers complicates the use of standard methods. This chapter describes in vitro methods for purifying, reconstituting, and visualizing membrane remodeling activities directly by electron cryomicroscopy."
