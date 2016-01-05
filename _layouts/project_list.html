@@ -15,12 +15,12 @@
 
       <div class="card hoverable">
         <div class="card-image">
-          <img src="{{site.baseurl}}{{topic.image}}"/>
-        
+          <a href={{site.baseurl}}{{topic.url}}><img src="{{site.baseurl}}{{topic.image}}"/></a>
+        </div>
         <div class="card-action">
-        <a  href={{site.baseurl}}{{topic.url}}><strong> {{topic.name}}</strong></a>
+          <a href={{site.baseurl}}{{topic.url}}><strong> {{topic.name}}</strong></a>
         </div>
-        </div>
+
       </div>
     
     </div>
@@ -38,11 +38,10 @@
 
       <div class="card hoverable">
         <div class="card-image">
-          <img src="{{site.baseurl}}{{topic.image}}"/>
-        
-        <div class="card-action">
-        <a  href={{site.baseurl}}{{topic.url}}><strong> {{topic.name}}</strong></a>
+          <a href={{site.baseurl}}{{topic.url}}><img src="{{site.baseurl}}{{topic.image}}" /></a>
         </div>
+        <div class="card-action">
+          <a href={{site.baseurl}}{{topic.url}}><strong> {{topic.name}}</strong></a>
         </div>
       </div>
     
