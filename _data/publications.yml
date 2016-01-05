@@ -169,6 +169,9 @@
     signal distinctly from other stresses. Our work reveals the range of 
     stresses Hsf1 monitors and elucidates a conserved cotranslational protein 
     quality control mechanism.
+    
+    After this paper came out and started getting **[traction](http://www.nature.com/nrm/journal/v14/n1/full/nrm3499.html)**, the force behind the discovery, **[Dr. Onn Brandman](http://brandmanlab.stanford.edu/)**, **[Jonathan Weissman](http://weissmanlab.ucsf.edu/)** and I decided to change the name of Tae2 to **[Rqc2](http://www.yeastgenome.org/locus/S000005930/overview)** for consistency with our subsequent structural and functional work on the **[RQC](http://www.sciencemag.org/content/347/6217/75.full)** and CAT tails.
+
   date: 201211 
   image: /static/img/pub/Brandman_Cell.png 
   pmid: 23178123
