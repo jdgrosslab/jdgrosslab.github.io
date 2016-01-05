@@ -1,18 +1,13 @@
----
-title: Research
-layout: parallaxbanner
-banner: /static/img/research/cryo_image_helical_tube.png
-group: research
----
-
-<div class="flow-text"> <h5 style="text-align:left;">In one of my favorite science fables, Sydney Brenner supposedly opened a seminar at the LMB by saying; “I think we can all agree that structural biology is UN-interesting; that hydrogen bonds and beta-pleated sheets are boring.” I tell my new students and post-docs this legend whenever we sit down to discuss what they want to explore following the Resolution Revolution in cryo-EM. You can now determine atomic-resolution structures of anything you want to, I tell them, but we didn’t come here to collect structures."
-</h4></div>
+{% include header.html %}
+{% include parallax_banner.html %}
+<div class="container">
+  <div class="flow-text"><h5 style="text-align:left;">{{content}}</h5></div>
 <div class="divider"></div>
 
 <h6 class="flow-text center"> Below are summaries of our funded projects.</h5>
 
 <div class="section">
-  <h3>Active Projects</h3>	
+  <h3>Active Projects</h3>  
   <div class="row">
   {% for topic in site.data.research_topics %}
     <div class="col s12 m10 offset-m1 l8 offset-l2">
@@ -35,7 +30,7 @@ group: research
 </div>
 
 <div class="section">
-  <h3>Elapsed Projects</h3>	
+  <h3>Elapsed Projects</h3> 
   <div class="row">
   {% for topic in site.data.old_research_topics %}
     <div class="col s12 m10 offset-m1 l8 offset-l2">
@@ -55,5 +50,8 @@ group: research
 
   {% endfor %}
   </div>
+</div> 
 </div>
 
+
+{% include footer.html %}
