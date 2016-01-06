@@ -13,4 +13,4 @@ Age-associated diseases like neurodegeneration and heart failure are among the m
 
 <img class="responsive-img" src="{{site.baseurl}}/static/img/research/searle_desc.png"/>
 
-This project is part of an ongoing collaboration with the laboratories of **[Professor Jonathan S. Weissman](http://weissmanlab.ucsf.edu/)** and **[Professor Onn Brandman](http://web.stanford.edu/~onn/)**
+This project started as a collaboration with the laboratories of **[Professor Jonathan S. Weissman](http://weissmanlab.ucsf.edu/)** and **[Professor Onn Brandman](http://web.stanford.edu/~onn/)**.
