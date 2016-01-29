@@ -1,6 +1,6 @@
 - name: Dr. Adam Frost
   image: /static/img/people/frost.jpg
-  position: Principal Investigator
+  position: "**[Citation Indices](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
   email: adam.frost (at) ucsf.edu
   cv: /static/pdf/AdamFrost-Biosketch_ForWeb_2015.08.01.pdf
 
@@ -48,3 +48,8 @@
   image: /static/img/people/dickson.png
   position: "**[Visiting Scientist](https://blogs.lawrence.edu/news/2014/02/three-faculty-members-granted-tenure-promoted-to-associate-professor.html)**"
   email: kimberly.dickson (at) lawrence.edu
+
+- name: Dr. Henry Nguyen
+  image: /static/img/people/HNguyen.jpg
+  position: Postdoctroal Scholar
+  email: nguyen.henry.c (at) gmail.com
