@@ -68,9 +68,9 @@ Inquiries about Postdoctoral positions should be emailed directly to Adam Frost.
 <h4>USPS Mailing Address</h4>
 
 UCSF <br>
-Adam Frost, Assistant Professor <br>
-Dept of Biochemistry & Biophysics, Box 2240 <br>
-600 16th Street, Room S472F <br>
+Professor Adam Frost<br>
+Deptartment of Biochemistry & Biophysics, Box 2240 <br>
+600 16th Street, Floor 4, Room S472F <br>
 San Francisco, CA  94143
 
 </div>
