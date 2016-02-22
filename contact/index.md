@@ -14,9 +14,9 @@ group: contact
 
   <h4>Lab Area </h4>
   Genentech Hall <br>
-  Fourth Floor <br>
-  Lab S476A <br>
-  Office S472F
+  Fourth Floor, Lab S476A <br>
+  Office S472F <br>
+  **[SF in all her glory](https://youtu.be/cX45Qae1xCE)**
 
 </div>
 
