@@ -12,3 +12,8 @@
   image: /static/img/people/shen.jpg
   new_position: Assistant Research Professor of Biochemistry
   new_location: University of Utah, Salt Lake City, Utah
+
+- name: Dr. Kimberely Dickson
+  image: /static/img/people/dickson.jpg
+  new_position: Associate Professor of Biochemistry
+  new_location: Lawrence University, Appleton, Wisconsin
