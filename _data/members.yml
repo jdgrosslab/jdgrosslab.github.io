@@ -1,7 +1,7 @@
 - name: "**[Dr. Adam Frost](https://www.youtube.com/watch?v=JyAW7KRfSNE)**"
   image: /static/img/people/frost.jpg
-  position: "**[Citation Indices](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
-  email: adam.frost (at) ucsf.edu
+  position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
+  email: occams.mustache (at) gmail.com
   cv: /static/pdf/AdamFrost-MasterCV-2016.11.19.pdf
 
 - name: Raghav Kalia
@@ -55,12 +55,12 @@
   email: alexandervonappen (at) gmx.de
 
 - name: Conor Howard
-  image: /static/img/people/howard.png
+  image: /website/static/img/people/howard.png
   position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
   email: conor.howard (at) ucsf.edu
 
 - name: Isabel Johnson
-  image: /static/img/people/johnson.jpg
+  image: /website/static/img/people/johnson.jpg
   position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
   email: isabel.johnson93 (at) gmail.com
 
@@ -70,11 +70,11 @@
   email: paul.thomas (at) ucsf.edu
 
 - name: Dr. Halil Aydin
-  image: /static/img/people/aydin.tif
+  image: /website/static/img/people/aydin.tif
   position: Postdoctoral Scholar
   email: halil.aydin (at) ucsf.edu
 
 - name: Sarah Pick
-  image: /static/img/people/pick.png
+  image: /website/static/img/people/pick.png
   position: Visiting Diploma Thesis Student
   email: sarah.pick (at) jupiter.uni-freiburg.de
