@@ -53,7 +53,7 @@
   image: /static/img/people/vonappen.png
   position: Postdoctorral Scholar
   email: alexandervonappen (at) gmx.de
-  
+
 - name: Conor Howard
   image: /static/img/people/howard.png
   position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
@@ -63,9 +63,9 @@
   image: /static/img/people/johnson.jpg
   position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
   email: isabel.johnson93 (at) gmail.com
-  
+
 - name: Paul Thomas
-  image: /static/img/people/thomas.tif
+  image: /website/static/img/people/thomas.png
   position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
   email: paul.thomas (at) ucsf.edu
 
