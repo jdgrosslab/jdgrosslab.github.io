@@ -2,7 +2,7 @@
   image: /static/img/people/frost.jpg
   position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
   email: occams.mustache (at) gmail.com
-  cv: /static/pdf/AdamFrost-MasterCV-2016.11.19.pdf
+  cv: /static/pdf/AdamFrost-MasterCV-2016.11.20.pdf
 
 - name: Raghav Kalia
   image: /static/img/people/kalia.jpg
@@ -54,15 +54,15 @@
   position: Postdoctorral Scholar
   email: alexandervonappen (at) gmx.de
 
-- name: Conor Howard
-  image: /website/static/img/people/howard.png
-  position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
-  email: conor.howard (at) ucsf.edu
-
 - name: Isabel Johnson
   image: /website/static/img/people/johnson.tif
   position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
   email: isabel.johnson93 (at) gmail.com
+  
+- name: Conor Howard
+  image: /website/static/img/people/howard.png
+  position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
+  email: conor.howard (at) ucsf.edu
 
 - name: Paul Thomas
   image: /website/static/img/people/thomas.png
