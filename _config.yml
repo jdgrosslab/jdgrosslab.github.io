@@ -1,15 +1,11 @@
 name: "Frost Lab"
 description: "The New Homepage for the Frost Lab at UCSF"
-
 baseurl: ""
-
+gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "blog/page:num"
-
 excerpt_separator: <!--more-->
-
 exclude: [vendor]
-
 permalink: pretty
 highlighter: pygments
 markdown: kramdown
