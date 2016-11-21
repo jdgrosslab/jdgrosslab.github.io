@@ -7,7 +7,7 @@ paginate_path: "blog/page:num"
 excerpt_separator: <!--more-->
 exclude: [vendor]
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 kramdown: 
   parse_block_html: true
