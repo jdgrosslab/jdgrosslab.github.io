@@ -5,7 +5,7 @@
 
 <div class="divider"></div>
 
-<h6 class="flow-text center"> Click on the images below for summaries of our funded projects.</h5>
+<h6 class="flow-text center"> The images and titles below list some of our funded projects.</h5>
 
 <div class="section">
   <h3>Active Projects</h3>  
@@ -29,29 +29,5 @@
   {% endfor %}
   </div>
 </div>
-
-<div class="section">
-  <h3>Elapsed Projects</h3> 
-  <div class="row">
-  {% for topic in site.data.old_research_topics %}
-    <div class="col s12 m10 offset-m1 l8 offset-l2">
-
-      <div class="card hoverable">
-        <div class="card-image">
-          <a href={{site.baseurl}}{{topic.url}}><img src="{{site.baseurl}}{{topic.image}}" /></a>
-        </div>
-        <div class="card-action">
-          <a href={{site.baseurl}}{{topic.url}}><strong> {{topic.name}}</strong></a>
-        </div>
-      </div>
-    
-    </div>
-
-
-  {% endfor %}
-  </div>
-</div> 
-</div>
-
 
 {% include footer.html %}
