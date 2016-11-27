@@ -45,12 +45,10 @@ group: contact
 
 <div class="divider"> </div>
 
-## Graduate Programs
+## The Frost Lab participates in UCSF graduate programs:  
+  **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from bioinformatics to cryoEM—to quantify biological processes in living biological systems using physics and chemistry. 
 
-###The Frost Lab participates in the following UCSF graduate programs:  
-  * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from bioinformatics to cryoEM—to quantify biological processes in living biological systems using physics and chemistry. 
-
-  * **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry, Molecular Biology, Cell Biology, Developmental Biology and Genetics.
+  **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry, Molecular Biology, Cell Biology, Developmental Biology and Genetics.
 
 ## Postdoctoral Fellows
 
