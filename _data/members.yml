@@ -6,7 +6,7 @@
 
 - name: Raghav Kalia
   image: /static/img/people/kalia.jpg
-  position: "**[Biological Chemistry](http://www.bioscience.utah.edu/biological-chemistry/)** Graduate Student**"
+  position: "**[Biological Chemistry](http://www.bioscience.utah.edu/biological-chemistry/)** <br> Graduate Student"
   email: raghav.kalia (at) biochem.utah.edu
 
 - name: Dr. Mingyu Gu
@@ -16,12 +16,12 @@
 
 - name: Nathaniel Talledge
   image: /static/img/people/talledge.jpg
-  position: "**[Biological Chemistry](http://www.bioscience.utah.edu/biological-chemistry/)** Graduate Student**"
+  position: "**[Biological Chemistry](http://www.bioscience.utah.edu/biological-chemistry/)** <br> Graduate Student"
   email: n.talledge (at) biochem.utah.edu
 
 - name: Valentine Romanov
   image: /static/img/people/romanov.jpg
-  position: "**Graduate Student <br> (Joint with [Dr. Bruce Gale](http://mech.utah.edu/faculty/bruce-gale/) <br> and favorite of [NIH Director Francis Collins](https://directorsblog.nih.gov/2016/09/29/snapshots-of-life-a-flare-for-the-dramatic/)**)"
+  position: "**Graduate Student <br> (Joint with [Dr. Bruce Gale](http://mech.utah.edu/faculty/bruce-gale/) <br> ...and favorite of [NIH Director Francis Collins](https://directorsblog.nih.gov/2016/09/29/snapshots-of-life-a-flare-for-the-dramatic/)**)"
   email: vromanovaus (at) gmail.com
 
 - name: Lakshmi Miller-Vedam
@@ -36,7 +36,7 @@
 
 - name: Dr. Nicole Schirle
   image: /static/img/people/schirle.png
-  position: "Postdoctoral Scholar <br> (Joint with **[Dr. Jonathan S. Weissman](http://weissmanlab.ucsf.edu/)**)"
+  position: "Postdoctoral Scholar <br> from **[TSRI](http://www.scripps.edu/macrae/)** <br> (Joint with **[Dr. Jonathan S. Weissman](http://weissmanlab.ucsf.edu/)**)"
   email: nicole.schirle (at) ucsf.edu
 
 - name: Lillian Kenner
@@ -46,12 +46,12 @@
 
 - name: Dr. Henry Nguyen
   image: /static/img/people/nguyen.png
-  position: Postdoctoral Scholar
+  position: "Postdoctoral Scholar <br> from **[Yale University](https://medicine.yale.edu/lab/xiong/)**
   email: nguyen.henry.c (at) gmail.com
 
 - name: Dr. Alexander Von Appen
   image: /static/img/people/vonappen.png
-  position: Postdoctorral Scholar
+  position: "Postdoctorral Scholar <br> from **[EMBL](http://becklab.net/)**
   email: alexandervonappen (at) gmx.de
 
 - name: Isabel Johnson
@@ -71,6 +71,6 @@
 
 - name: Dr. Halil Aydin
   image: /static/img/people/aydin.png
-  position: Postdoctoral Scholar
+  position: "Postdoctoral Scholar <br> [University of Toronto](https://leelab-utoronto.com/)**
   email: halil.aydin (at) ucsf.edu
   
