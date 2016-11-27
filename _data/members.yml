@@ -65,12 +65,12 @@
   email: conor.howard (at) ucsf.edu
 
 - name: Paul Thomas
-  image: /website/static/img/people/thomas.png
+  image: /static/img/people/thomas.png
   position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
   email: paul.thomas (at) ucsf.edu
 
 - name: Dr. Halil Aydin
-  image: /website/static/img/people/aydin.png
+  image: /static/img/people/aydin.png
   position: Postdoctoral Scholar
   email: halil.aydin (at) ucsf.edu
-
+  
