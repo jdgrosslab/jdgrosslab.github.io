@@ -45,14 +45,14 @@ group: contact
 
 <div class="divider"> </div>
 
-## The Frost Lab participates in UCSF graduate programs:  
+## UCSF Graduate Programs:  
   **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from bioinformatics to cryoEM—to quantify biological processes in living biological systems using physics and chemistry. 
 
   **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry, Molecular Biology, Cell Biology, Developmental Biology and Genetics.
 
 ## Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to Adam Frost. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
+Please email inquiries about postdoctoral positions directly to Adam Frost. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
 
 <div class="divider"></div>
 
@@ -67,7 +67,7 @@ Inquiries about Postdoctoral positions should be emailed directly to Adam Frost.
 
 UCSF <br>
 Professor Adam Frost<br>
-Deptartment of Biochemistry & Biophysics, Box 2240 <br>
+Deptartment of Biochemistry and Biophysics, Box 2240 <br>
 600 16th Street, Floor 4, Room S472F <br>
 San Francisco, CA  94143
 
