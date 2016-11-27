@@ -6,17 +6,17 @@
 
 - name: Raghav Kalia
   image: /static/img/people/kalia.jpg
-  position: Graduate Student
+  position: "**[Biological Chemistry](http://www.bioscience.utah.edu/biological-chemistry/)** Graduate Student**"
   email: raghav.kalia (at) biochem.utah.edu
 
 - name: Dr. Mingyu Gu
   image: /static/img/people/gu.jpg
-  position: Postdoctoral Scholar
+  position: "Postdoctoral Scholar <br> from **[The University of Utah](http://biologylabs.utah.edu/jorgensen/index.html)**"
   email: mingyu.gu (at) biochem.utah.edu
 
 - name: Nathaniel Talledge
   image: /static/img/people/talledge.jpg
-  position: Graduate Student
+  position: "**[Biological Chemistry](http://www.bioscience.utah.edu/biological-chemistry/)** Graduate Student**"
   email: n.talledge (at) biochem.utah.edu
 
 - name: Valentine Romanov
