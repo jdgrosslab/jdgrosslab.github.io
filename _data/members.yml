@@ -21,7 +21,7 @@
 
 - name: Valentine Romanov
   image: /static/img/people/romanov.jpg
-  position: "**Graduate Student <br> (Joint with [Dr. Bruce Gale](http://mech.utah.edu/faculty/bruce-gale/)**)"
+  position: "**Graduate Student <br> (Joint with [Dr. Bruce Gale](http://mech.utah.edu/faculty/bruce-gale/) <br> and favorite of [NIH Director Francis Collins](https://directorsblog.nih.gov/2016/09/29/snapshots-of-life-a-flare-for-the-dramatic/)**)"
   email: vromanovaus (at) gmail.com
 
 - name: Lakshmi Miller-Vedam
@@ -55,7 +55,7 @@
   email: alexandervonappen (at) gmx.de
 
 - name: Isabel Johnson
-  image: /website/static/img/people/johnson.tif
+  image: /static/img/people/vonappen.png
   position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
   email: isabel.johnson93 (at) gmail.com
   
