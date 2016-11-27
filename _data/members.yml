@@ -1,6 +1,6 @@
 - name: "**[Dr. Adam Frost](https://www.youtube.com/watch?v=JyAW7KRfSNE)**"
   image: /static/img/people/frost.jpg
-  position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
+  position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ) <br> [ASCB peeps](http://www.ascb.org/2016/09/26/people-ascbers-13-84-early-career-faculty-scholars-named-hhmi-simons-gates-foundations/)**"
   email: occams.mustache (at) gmail.com
   cv: /static/pdf/AdamFrost-MasterCV-2016.11.20.pdf
 
@@ -55,12 +55,12 @@
   email: alexandervonappen (at) gmx.de
 
 - name: Isabel Johnson
-  image: /static/img/people/vonappen.png
+  image: /static/img/people/johnson.png
   position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
   email: isabel.johnson93 (at) gmail.com
   
 - name: Conor Howard
-  image: /website/static/img/people/howard.png
+  image: /static/img/people/howard.png
   position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
   email: conor.howard (at) ucsf.edu
 
@@ -74,7 +74,3 @@
   position: Postdoctoral Scholar
   email: halil.aydin (at) ucsf.edu
 
-- name: Sarah Pick
-  image: /website/static/img/people/pick.png
-  position: Visiting Diploma Thesis Student
-  email: sarah.pick (at) jupiter.uni-freiburg.de
