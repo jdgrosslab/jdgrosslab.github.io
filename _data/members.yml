@@ -46,12 +46,12 @@
 
 - name: Dr. Henry Nguyen
   image: /static/img/people/nguyen.png
-  position: "Postdoctoral Scholar <br> from **[Yale University](https://medicine.yale.edu/lab/xiong/)**
+  position: "Postdoctoral Scholar <br> from **[Yale University](https://medicine.yale.edu/lab/xiong/)**"
   email: nguyen.henry.c (at) gmail.com
 
 - name: Dr. Alexander Von Appen
   image: /static/img/people/vonappen.png
-  position: "Postdoctorral Scholar <br> from **[EMBL](http://becklab.net/)**
+  position: "Postdoctoral Scholar <br> from **[EMBL](http://becklab.net/)**"
   email: alexandervonappen (at) gmx.de
 
 - name: Isabel Johnson
@@ -71,6 +71,6 @@
 
 - name: Dr. Halil Aydin
   image: /static/img/people/aydin.png
-  position: "Postdoctoral Scholar <br> [University of Toronto](https://leelab-utoronto.com/)**
+  position: "Postdoctoral Scholar <br> **[University of Toronto](https://leelab-utoronto.com/)**"
   email: halil.aydin (at) ucsf.edu
   
