@@ -1,3 +1,15 @@
+- title: Cell Biology - Double agents for mitochondrial division.
+  authors: |
+    McBride HM and __Frost A__
+  journal: __Nature__ 2016 Nov
+  abstract: |
+    Mitochondrial organelles — the energy powerhouses of the cell — must divide and fuse dynamically to function. It emerges that two distinct dynamin enzymes enable mitochondrial division.
+    
+    This preview covers yet another surprising bit of cell biology by **[Gia Voeltz](http://www.voeltzlab.org/)** and was tons of fun to write with **[Heidi McBride](http://mcbridelab.org/)**
+  date: 201611
+  image: /static/img/pub/Mcbride_Frost_Nature_2016.jpg
+  pmid: 27880759
+  
 - title: Membrane fission by dynamin - what we know and what we need to know.
   authors: |
     Antonny B, Burd C, De Camilli P, Chen E, Daumke O, Faelber K, Ford M, Frolov VA, __Frost A__, Hinshaw JE, Kirchhausen T, Kozlov MM, Lenz M, Low HH, McMahon H, Merrifield C, Pollard TD, Robinson PJ, Roux A, Schmid S
@@ -27,7 +39,7 @@
   authors: |
     Heider MR, Gu M, Duffy CM, Mirza AM, Marcotte LL, Walls AC, Farrall N, 
     Hakhverdyan Z, Field MC, Rout MP, __Frost A__, Munson M
-  journal: __NATURE STRUCTURE & MOLECULAR BIOLOGY__ 2015 Dec
+  journal: __NATURE STRUCTURE & MOLECULAR BIOLOGY__ 2016 Jan
   abstract: |
     The exocyst is a hetero-octameric complex that has been proposed to serve 
     as the tethering complex for exocytosis, although it remains poorly 
@@ -49,7 +61,7 @@
     **[Mary Munson](http://www.umassmed.edu/bmp/faculty/munson/)** and 
     **[Michael Rout](http://www.rockefeller.edu/research/faculty/labheads/MichaelRout/)** 
     for breaking fresh biochemical ground to make structural studies possible.
-  date: 201512
+  date: 201601
   image: /static/img/pub/Heider_NSMB_2015.jpg
   pmid: 26656853
 
