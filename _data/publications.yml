@@ -5,9 +5,9 @@
   abstract: |
     Hypoxic growth of fungi requires sterol regulatory element-binding protein (SREBP) transcription factors, and human opportunistic fungal pathogens require SREBP activation for virulence. Proteolytic release of fission yeast SREBPs from the membrane in response to low oxygen requires the Golgi membrane-anchored Dsc E3 ligase complex. Using genetic interaction arrays, we identified Rbd2 as a rhomboid family protease required for SREBP proteolytic processing. Rbd2 is an active, Golgi-localized protease that cleaves the transmembrane segment of the TatA rhomboid model substrate. Epistasis analysis revealed that the Dsc E3 ligase acts on SREBP prior to cleavage by Rbd2. Using APEX2 proximity biotinylation, we demonstrated that Rbd2 binds the AAA-ATPase Cdc48 through a C-terminal SHP box. Interestingly, SREBP cleavage required Rbd2 binding of Cdc48, consistent with Cdc48 acting to recruit ubiquitinylated substrates. In support of this claim, overexpressing a Cdc48-binding mutant of Rbd2 bypassed the Cdc48 requirement for SREBP cleavage, demonstrating that Cdc48 likely plays a role in SREBP recognition. In the absence of functional Rbd2, SREBP precursor is degraded by the proteasome, indicating that Rbd2 activity controls the balance between SREBP activation and degradation.
     
-    This paper has its roots in our systematic genetic studies in fission yeast and relates to our interest in the varied roles of Cdc48. The heavy lifting was all done in the amazing lab of friend and fellow fission yeast fan **[Peter Espenshade](http://espenshadelab.org/)**
+    This paper has its roots in our **[systematic genetic studies in fission yeast](https://www.ncbi.nlm.nih.gov/pubmed/?term=22682253)** and relates to our interest in the varied roles of Cdc48. The heavy lifting was all done in the outstanding lab of friend and fellow fission yeast fan **[Peter Espenshade](http://espenshadelab.org/)**
   date: 201611
-  image: /static/img/pub/Hwang_EMBO_2016.gif
+  image: /static/img/pub/Hwang_EMBO_2016.jpg
   pmid: 27655872 
 
 - title: Subunit connectivity, assembly determinants and architecture of the yeast exocyst complex.
