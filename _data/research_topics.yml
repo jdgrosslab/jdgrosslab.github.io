@@ -22,3 +22,5 @@
 - name: HHMI Faculty Scholars - Structural Cell Biology
   image: /static/img/research/scientists-climbing.jpg
 
+- name: Chan Zuckerberg Biohub Investigators
+  image: /static/img/research/biohub.png
