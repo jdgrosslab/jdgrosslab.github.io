@@ -25,7 +25,7 @@ group: contact
   <h4>Adam Frost</h4>
   Assistant Professor  <br>
   **[Herbert Boyer](http://www.gene.com/about-us/leadership/our-founders)** Junior Faculty Endowed Chair <br>
-  Department of Biochemistry & Biophysics
+  Department of Biochemistry and Biophysics
   University of California, San Francisco <br>
   email: adam.frost (at) ucsf.edu <br>
 
@@ -69,7 +69,7 @@ UCSF <br>
 Professor Adam Frost<br>
 Deptartment of Biochemistry and Biophysics, Box 2240 <br>
 600 16th Street, Floor 4, Room S472F <br>
-San Francisco, CA  94143
+San Francisco, CA  94158
 
 </div>
 
@@ -82,7 +82,7 @@ Genentech Hall <br>
 Dept of Biochemistry and Biophysics <br>
 600 16th Street <br>
 Genentech Hall, Room S476 <br>
-San Francisco, CA 94143
+San Francisco, CA 94158
 
 </div>
 
