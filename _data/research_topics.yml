@@ -4,24 +4,32 @@
   
 - name: Toward Atomic Resolution of Membranes and Membrane-Associated Machines
   image: /static/img/research/nih_top.png
+  url: "https://projectreporter.nih.gov/project_info_description.cfm?aid=9117230&icde=33721722"
 
 - name: Structural and Functional Characterization of the Ribosome Quality Control Complex
   image: /static/img/research/searle_top.png
+  url: "http://www.searlescholars.net/person/602"
   
 - name: Structure and Function of the Exocyst Complex
   image: /static/img/research/nigms.jpg
+  url: "https://projectreporter.nih.gov/project_info_description.cfm?aid=9128643&icde=33721746"
 
 - name: Structural and Functional Characterization of srGAP Proteins
   image: /static/img/research/BSF.jpg
+  url: "http://www.bsf.org.il/bsfpublic/DefaultPage1.aspx?PageId=14&innerTextID=14"
 
 - name: New Concepts for Understanding and Treating Neurogenerative Disease
   image: /static/img/research/pbbr.jpg
+  url: "http://pbbr.ucsf.edu/awards/awardees"
 
 - name: The Structural Basis of Regulated Sphingolipid Synthesis
   image: /static/img/research/aaf.jpg
+  url: "http://www.americanasthmafoundation.org/2016-aaf-awards"
 
 - name: HHMI Faculty Scholars - Structural Cell Biology
   image: /static/img/research/scientists-climbing.jpg
+  url: "http://media.hhmi.org/FacultyScholars2016-gallery/"
 
 - name: Chan Zuckerberg Biohub Investigators
   image: /static/img/research/biohub.png
+  url: "https://czbiohub.org/investigators/"
