@@ -22,3 +22,9 @@
   image: /static/img/people/dickson.png
   new_position: Associate Professor of Biochemistry
   new_location: Lawrence University, Appleton, Wisconsin
+  
+- name: Dr. Nicole Schirle
+  image: /static/img/people/schirle.png
+  new_position: Research and Design Scientist
+  new_location: Pfizer, Rinat Campus of South San Francisco, California
+  
