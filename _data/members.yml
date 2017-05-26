@@ -29,16 +29,6 @@
   position: Technician
   email: lmillervedam (at) gmail.com
 
-- name: Beatriz Osuna
-  image: /static/img/people/osuna.png
-  position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student <br> (Joint with **[Dr. David Weinberg](http://weinberglab.ucsf.edu/)**)"
-  email: bettieosuna (at) gmail.com
-
-- name: Dr. Nicole Schirle
-  image: /static/img/people/schirle.png
-  position: "Postdoctoral Scholar <br> from **[TSRI](http://www.scripps.edu/macrae/)** and (Joint with **[Dr. Jonathan S. Weissman](http://weissmanlab.ucsf.edu/)**)"
-  email: nicole.schirle (at) ucsf.edu
-
 - name: Lillian Kenner
   image: /static/img/people/kenner.png
   position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
