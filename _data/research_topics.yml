@@ -1,4 +1,4 @@
-- name: Membrane Remodeling by the ESCRT-III Pathway
+- name: Membrane Remodeling by the ESCRT Pathway and HIV Pathogenesis
   image: /static/img/research/cheetah_top.png
   url: "http://cheetah.biochem.utah.edu/"
   
@@ -13,10 +13,6 @@
 - name: Structure and Function of the Exocyst Complex
   image: /static/img/research/nigms.jpg
   url: "https://projectreporter.nih.gov/project_info_description.cfm?aid=9128643&icde=33721746"
-
-- name: Structural and Functional Characterization of srGAP Proteins
-  image: /static/img/research/BSF.jpg
-  url: "http://www.bsf.org.il/bsfpublic/DefaultPage1.aspx?PageId=14&innerTextID=14"
 
 - name: New Concepts for Understanding and Treating Neurogenerative Disease
   image: /static/img/research/pbbr.jpg
