@@ -2,7 +2,7 @@
   image: /static/img/people/frost.jpg
   position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
   email: occams.mustache (at) gmail.com
-  cv: /static/pdf/AdamFrost-MasterCV-2017.03.06.pdf
+  cv: /static/pdf/AdamFrost-MasterCV-2017.08.04.pdf
 
 - name: Raghav Kalia
   image: /static/img/people/kalia.jpg
@@ -26,7 +26,7 @@
 
 - name: Lakshmi Miller-Vedam
   image: /static/img/people/millervedam.png
-  position: Technician
+  position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
   email: lmillervedam (at) gmail.com
 
 - name: Lillian Kenner
