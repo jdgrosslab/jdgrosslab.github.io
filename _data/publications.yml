@@ -1,3 +1,26 @@
+- title: CAT-tailing as a fail-safe mechanism for efficient degradation of stalled nascent polypeptides.
+  authors: |
+    Osuna BA, Howard CJ, Subheksha KC, __Frost A__<sup>\*</sup>, Weinberg DE<sup>\*</sup>
+    <sup>\*</sup> Co-corresponding authors
+  journal:  __ELIFE__ 2017 Jul
+  abstract: |
+    Ribosomes can stall during translation due to defects in the mRNA template or translation machinery, leading to the production of incomplete proteins. The Ribosome-associated Quality control Complex (RQC) engages stalled ribosomes and targets nascent polypeptides for proteasomal degradation. However, how each RQC component contributes to this process remains unclear. Here we demonstrate that key RQC activities-Ltn1p-dependent ubiquitination and Rqc2p-mediated Carboxy-terminal Alanine and Threonine (CAT) tail elongation-can be recapitulated in vitro with a yeast cell-free system. Using this approach, we determined that CAT tailing is mechanistically distinct from canonical translation, that Ltn1p-mediated ubiquitination depends on the poorly characterized RQC component Rqc1p, and that the process of CAT tailing enables robust ubiquitination of the nascent polypeptide. These findings establish a novel system to study the RQC and provide a framework for understanding how RQC factors coordinate their activities to facilitate clearance of incompletely synthesized proteins.
+    <br><br><br>
+  date: 201707
+  image: /static/img/pub/Osuna_Elife_2017.jpg
+  pmid: 28718767
+
+- title: CAT-tailing as a fail-safe mechanism for efficient degradation of stalled nascent polypeptides.
+  authors: |
+    Kostova KK, Hickey KL, Osuna BA, Hussmann JA, __Frost A__, Weinberg DE, Weissman JS
+  journal:  __SCIENCE__ 2017 Jul
+  abstract: |
+    Ribosome stalling leads to recruitment of the ribosome quality control complex (RQC), which targets the partially synthesized polypeptide for proteasomal degradation through the action of the ubiquitin ligase Ltn1p. A second core RQC component, Rqc2p, modifies the nascent polypeptide by adding a carboxyl-terminal alanine and threonine (CAT) tail through a noncanonical elongation reaction. Here we examined the role of CAT-tailing in nascent-chain degradation in budding yeast. We found that Ltn1p efficiently accessed only nascent-chain lysines immediately proximal to the ribosome exit tunnel. For substrates without Ltn1p-accessible lysines, CAT-tailing enabled degradation by exposing lysines sequestered in the ribosome exit tunnel. Thus, CAT-tails do not serve as a degron, but rather provide a fail-safe mechanism that expands the range of RQC-degradable substrates.
+    <br><br><br>
+  date: 201707
+  image: /static/img/pub/Kostova_Science_2017.jpg
+  pmid: 28751611
+  
 - title: LEM2 recruits CHMP7 for ESCRT-mediated nuclear envelope closure in fission yeast and human cells.
   authors: |
     Gu M, LaJoie D, Chen OS, Von Appen A, Ladinsky MS, Redd MJ, Nikolova L, Bjorkman PJ, Sundquist WI<sup>\*</sup>, Ullman KS<sup>
@@ -15,7 +38,7 @@
 - title: Cell Biology - Double agents for mitochondrial division.
   authors: |
     McBride HM and __Frost A__
-  journal: __Nature__ 2016 Nov
+  journal: __NATURE__ 2016 Nov
   abstract: |
     Mitochondrial organelles — the energy powerhouses of the cell — must divide and fuse dynamically to function. It emerges that two distinct dynamin enzymes enable mitochondrial division.
     
