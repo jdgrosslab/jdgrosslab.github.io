@@ -6,7 +6,6 @@
   abstract: |
     Ribosomes can stall during translation due to defects in the mRNA template or translation machinery, leading to the production of incomplete proteins. The Ribosome-associated Quality control Complex (RQC) engages stalled ribosomes and targets nascent polypeptides for proteasomal degradation. However, how each RQC component contributes to this process remains unclear. Here we demonstrate that key RQC activities-Ltn1p-dependent ubiquitination and Rqc2p-mediated Carboxy-terminal Alanine and Threonine (CAT) tail elongation-can be recapitulated in vitro with a yeast cell-free system. Using this approach, we determined that CAT tailing is mechanistically distinct from canonical translation, that Ltn1p-mediated ubiquitination depends on the poorly characterized RQC component Rqc1p, and that the process of CAT tailing enables robust ubiquitination of the nascent polypeptide. These findings establish a novel system to study the RQC and provide a framework for understanding how RQC factors coordinate their activities to facilitate clearance of incompletely synthesized proteins.
     <br><br><br>
-    This exciting collaboration with the laboratory of David Weinberg, together the Kostova et al. manuscript listed below with Jonathan Weissman, reveals that Rqc2p-catalyzed CAT tailing enables ubiquitination of failed nascent polypeptides.
   date: 201707
   image: /static/img/pub/Osuna_Elife_2017.jpg
   pmid: 28718767
@@ -31,7 +30,6 @@
   abstract: |
     Endosomal sorting complexes required for transport III (ESCRT-III) proteins have been implicated in sealing the nuclear envelope in mammals, spindle pole body dynamics in fission yeast, and surveillance of defective nuclear pore complexes in budding yeast. Here, we report that Lem2p (LEM2), a member of the LEM (Lap2-Emerin-Man1) family of inner nuclear membrane proteins, and the ESCRT-II/ESCRT-III hybrid protein Cmp7p (CHMP7), work together to recruit additional ESCRT-III proteins to holes in the nuclear membrane. In Schizosaccharomyces pombe, deletion of the ATPase vps4 leads to severe defects in nuclear morphology and integrity. These phenotypes are suppressed by loss-of-function mutations that arise spontaneously in lem2 or cmp7, implying that these proteins may function upstream in the same pathway. Building on these genetic interactions, we explored the role of LEM2 during nuclear envelope reformation in human cells. We found that CHMP7 and LEM2 enrich at the same region of the chromatin disk periphery during this window of cell division and that CHMP7 can bind directly to the C-terminal domain of LEM2 in vitro. We further found that, during nuclear envelope formation, recruitment of the ESCRT factors CHMP7, CHMP2A, and IST1/CHMP8 all depend on LEM2 in human cells. We conclude that Lem2p/LEM2 is a conserved nuclear site-specific adaptor that recruits Cmp7p/CHMP7 and downstream ESCRT factors to the nuclear envelope.
     <br><br><br>
-    The mechanism for sealing newly-formed nuclear envelopes was unclear until the recent discovery that ESCRT-III proteins mediate this process. CHMP7, in particular, was identified as an early acting factor that recruits other ESCRT-III proteins to the nuclear envelope. A fundamental aspect of the varied roles of ESCRT factors is their recruitment by site-specific adaptors, yet how the ESCRT machinery is targeted to nuclear membranes remained outstanding. Our study identified the inner nuclear membrane protein LEM2 as a key, conserved factor that recruits CHMP7 and downstream ESCRT-III proteins to breaches in the nuclear envelope. This paper emerged from a collaboration between three different universities and is a delightful story. It all started with the observation of an unexpected pattern of **[genetic suppression](https://www.ncbi.nlm.nih.gov/pubmed/22682253)**, coupled with the power of whole genome sequencing and electron microscopy to reveal new cell biology. Thanks to all, especially to friends and colleagues in the labs of **[Wes Sundquist](https://wasatch.biochem.utah.edu/wes/)**, **[Katharine Ullman](http://healthcare.utah.edu/huntsmancancerinstitute/research/labs/ullman/)**, **[Pamela Bjorkman](http://www.its.caltech.edu/~bjorker/)**, and the talented tomographer **[Mark Ladinsky](http://www.its.caltech.edu/~bjorker/labdir.html)**.
   date: 201702
   image: /static/img/pub/Gu_PNAS_2017.jpg
   pmid: 28242692
@@ -42,8 +40,6 @@
   journal: __NATURE__ 2016 Nov
   abstract: |
     Mitochondrial organelles — the energy powerhouses of the cell — must divide and fuse dynamically to function. It emerges that two distinct dynamin enzymes enable mitochondrial division.
-    
-    This preview covers yet another surprising bit of cell biology by **[Gia Voeltz](http://www.voeltzlab.org/)** and was tons of fun to write with **[Heidi McBride](http://mcbridelab.org/)**
   date: 201611
   image: /static/img/pub/Mcbride_Frost_Nature_2016.jpg
   pmid: 27880759
@@ -66,9 +62,7 @@
     Hwang J, Ribbens D, Raychaudhuri S, Ciarns L, Gu H, __Frost A__, Urban S, Espenshade PJ
   journal: __EMBO J__ 2016 Nov
   abstract: |
-    Hypoxic growth of fungi requires sterol regulatory element-binding protein (SREBP) transcription factors, and human opportunistic fungal pathogens require SREBP activation for virulence. Proteolytic release of fission yeast SREBPs from the membrane in response to low oxygen requires the Golgi membrane-anchored Dsc E3 ligase complex. Using genetic interaction arrays, we identified Rbd2 as a rhomboid family protease required for SREBP proteolytic processing. Rbd2 is an active, Golgi-localized protease that cleaves the transmembrane segment of the TatA rhomboid model substrate. Epistasis analysis revealed that the Dsc E3 ligase acts on SREBP prior to cleavage by Rbd2. Using APEX2 proximity biotinylation, we demonstrated that Rbd2 binds the AAA-ATPase Cdc48 through a C-terminal SHP box. Interestingly, SREBP cleavage required Rbd2 binding of Cdc48, consistent with Cdc48 acting to recruit ubiquitinylated substrates. In support of this claim, overexpressing a Cdc48-binding mutant of Rbd2 bypassed the Cdc48 requirement for SREBP cleavage, demonstrating that Cdc48 likely plays a role in SREBP recognition. In the absence of functional Rbd2, SREBP precursor is degraded by the proteasome, indicating that Rbd2 activity controls the balance between SREBP activation and degradation.
-    
-    This paper has its roots in our **[systematic genetic studies in fission yeast](https://www.ncbi.nlm.nih.gov/pubmed/?term=22682253)** and relates to our interest in the varied roles of Cdc48. The heavy lifting was all done in the outstanding lab of friend and fellow fission yeast fan **[Peter Espenshade](http://espenshadelab.org/)**
+    Hypoxic growth of fungi requires sterol regulatory element-binding protein (SREBP) transcription factors, and human opportunistic fungal pathogens require SREBP activation for virulence. Proteolytic release of fission yeast SREBPs from the membrane in response to low oxygen requires the Golgi membrane-anchored Dsc E3 ligase complex. Using genetic interaction arrays, we identified Rbd2 as a rhomboid family protease required for SREBP proteolytic processing. Rbd2 is an active, Golgi-localized protease that cleaves the transmembrane segment of the TatA rhomboid model substrate. Epistasis analysis revealed that the Dsc E3 ligase acts on SREBP prior to cleavage by Rbd2. Using APEX2 proximity biotinylation, we demonstrated that Rbd2 binds the AAA-ATPase Cdc48 through a C-terminal SHP box. Interestingly, SREBP cleavage required Rbd2 binding of Cdc48, consistent with Cdc48 acting to recruit ubiquitinylated substrates. In support of this claim, overexpressing a Cdc48-binding mutant of Rbd2 bypassed the Cdc48 requirement for SREBP cleavage, demonstrating that Cdc48 likely plays a role in SREBP recognition. In the absence of functional Rbd2, SREBP precursor is degraded by the proteasome, indicating that Rbd2 activity controls the balance between SREBP activation and degradation.    
   date: 201611
   image: /static/img/pub/Hwang_EMBO_2016.jpg
   pmid: 27655872 
@@ -93,12 +87,6 @@
     exocyst exists predominantly as a stable, octameric complex with an 
     elongated architecture that suggests that the subunits are contiguous 
     helical bundles packed together into a bundle of long rods.
-    
-    This paper is our first foray into understanding the fundamental, and 
-    fundamentally mysterious, Exocyst complex. Thanks to 
-    **[Mary Munson](http://www.umassmed.edu/bmp/faculty/munson/)** and 
-    **[Michael Rout](http://www.rockefeller.edu/research/faculty/labheads/MichaelRout/)** 
-    for breaking fresh biochemical ground to make structural studies possible.
   date: 201601
   image: /static/img/pub/Heider_NSMB_2015.jpg
   pmid: 26656853
@@ -127,11 +115,7 @@
     polymers form external coats on positively curved membranes in vitro and 
     in vivo. Our analysis suggests how common ESCRT-III filament architectures 
     could stabilize different degrees and directions of membrane curvature. 
-
-    This paper represents a heroic collaboration by scientists from five different universities, and is a reminder to me of the power of being open 
-    with your colleagues at conferences. Thanks to all, especially to friends and colleagues in the labs of **[Wes Sundquist](https://wasatch.biochem.utah.edu/wes/)**, **[Phyllis Hanson](http://www.hansonlab.wustl.edu/index.html)**, as well as **[Pavel Afonine](http://cci.lbl.gov/people/pavel_afonine.html)**, and 
-    **[Chris Arthur](http://www.ohsu.edu/xd/research/research-cores/multi-scale-microscopy-core/people.cfm)** for making this paper possible. Like our collaborative work on the **[RQC](http://www.sciencemag.org/content/347/6217/75.full)** and the discovery of CAT tails, this paper is another great example of how much fun it is (once the dust from peer review settles) to be surprised by unexpected results!
-
+    
     Thank you to **[Julie Kiefer](http://www.exploreutahscience.org/education/itemlist/user/47-juliekiefer)** for writing up **[this concise summary with movies](http://healthcare.utah.edu/publicaffairs/
     news/2015/12/120315_Molecular_Noose.php)** for the press.
   date: 201512
@@ -182,7 +166,7 @@
     This image was created by **[Janet Iwasa](http://biochem.web.utah.edu/
     iwasa/)** and illustrates the protein Rqc2 (yellow) coordinating two tRNA 
     moleucles (green and blue) in the PTC of the 60S ribosome without a 
-    genetic template. Janet Iwasa's art was featured in a remarkable number of **[news](http://science.altmetric.com/details/3030698)** outlets highlighting our surprising discovery.
+    genetic template. Janet Iwasa's art was featured in a number of **[news](http://science.altmetric.com/details/3030698)** outlets highlighting our surprising discovery.
   date: 201501 
   image: /static/img/pub/Frost_Rqc2_60Sribosome.jpg 
   pmid: 25554787
@@ -211,8 +195,6 @@
     adaptor protein alters the architecture of a mitochondrial dynamin GTPase 
     polymer in a manner that could facilitate membrane constriction and 
     severing activity.
-    
-    This paper is our first exploration of mitochondria. I've enjoyed working on and thinking about the Dynamin-family of larget GTPases since I was a graduate student, but this paper with the delightful **[Janet Shaw](http://www.biochem.utah.edu/shaw/)** is my lab's first effort to understand the functional partnership between a large GTPase and one of its binding partners. Stay tuned for round 2!
   date: 201303 
   image: /static/img/pub/Fig_for_Web_PNASpaper.png 
   pmid: 23530241
@@ -240,9 +222,6 @@
     signal distinctly from other stresses. Our work reveals the range of 
     stresses Hsf1 monitors and elucidates a conserved cotranslational protein 
     quality control mechanism.
-    
-    After this paper came out and started getting **[traction](http://www.nature.com/nrm/journal/v14/n1/full/nrm3499.html)**, **[Onn Brandman](http://brandmanlab.stanford.edu/)**, **[Jonathan Weissman](http://weissmanlab.ucsf.edu/)** and I decided to change the name of Tae2 to **[Rqc2](http://www.yeastgenome.org/locus/S000005930/overview)** for consistency with our subsequent structural and functional work on the **[RQC](http://www.sciencemag.org/content/347/6217/75.full)** and CAT tails.
-
   date: 201211 
   image: /static/img/pub/Brandman_Cell.png 
   pmid: 23178123
@@ -310,13 +289,7 @@
     classes of vesicles. New work now shows that α-synuclein and ALPS motifs 
     represent two extreme types of amphipathic helix that are tuned to detect 
     both the curvature of transport vesicles as well as their bulk lipid 
-    content.
-
-    This essay was inspired by a lovely piece of **[cell biology](http://www.
-    ncbi.nlm.nih.gov/pubmed/21746853)** by **[Bruno Antonny](https://www.
-    ipmc.cnrs.fr/cgi-bin/standard.cgi?descriptif=antonny.
-    txt&dossier1=equipes&dossier2=antonny&lang=uk)** and **[Cathy Jackson](
-    http://www2.cnrs.fr/en/1170.htm)**.
+    content. 
   date: 201110 
   image: /static/img/pub/Frost_Curr_2011.jpg
   pmid: 21996503
