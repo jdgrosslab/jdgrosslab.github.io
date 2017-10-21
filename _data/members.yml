@@ -11,7 +11,7 @@
 
 - name: Dr. Mingyu Gu
   image: /static/img/people/gu.jpg
-  position: "Postdoctoral Scholar <br> from **[The University of Utah](http://biologylabs.utah.edu/jorgensen/index.html)**"
+  position: "Postdoctoral Scholar <br> from the **[University of Utah](http://biologylabs.utah.edu/jorgensen/index.html)**"
   email: mingyu.gu (at) biochem.utah.edu
 
 - name: Nathaniel Talledge
@@ -61,7 +61,7 @@
 
 - name: Dr. Halil Aydin
   image: /static/img/people/aydin.png
-  position: "Postdoctoral Scholar <br> from **[The University of Toronto](https://leelab-utoronto.com/)**"
+  position: "Postdoctoral Scholar <br> from the **[University of Toronto](https://leelab-utoronto.com/)**"
   email: halil.aydin (at) ucsf.edu
   
 - name: Dr. Ming Sun
@@ -71,5 +71,5 @@
 
 - name: Dr. Rachel Di Santo
   image: /static/img/people/DiSanto.jpg
-  position: "Postdoctoral Scholar <br> from **[University of Dundee](http://www.lifesci.dundee.ac.uk/groups/mike_stark/)**"
+  position: "Postdoctoral Scholar <br> from the **[University of Dundee](http://www.lifesci.dundee.ac.uk/groups/mike_stark/)**"
   email: rachel.disanto (at) ucsf.edu
