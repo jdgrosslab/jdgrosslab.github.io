@@ -1,3 +1,15 @@
+- title: Structural inhibition of dynamin-mediated membrane fission by endophilin.
+  authors: |
+    Hohendahl A, Talledge N, Galli V, Shen PS, Humbert F, De Camilli P, __Frost A__<sup>\*</sup>, Roux A<sup>\*</sup>
+    <sup>\*</sup> Co-corresponding authors
+  journal:  __ELIFE__ 2017 Sept
+  abstract: |
+    Dynamin, which mediates membrane fission during endocytosis, binds endophilin and other members of the Bin-Amphiphysin-Rvs (BAR) protein family. How endophilin influences endocytic membrane fission is still unclear. Here we show that dynamin-mediated membrane fission is potently inhibited in vitro when an excess of endophilin co-assembles with dynamin around membrane tubules. We further show by electron microscopy that endophilin intercalates between turns of the dynamin helix and impairs fission by preventing trans interactions between dynamin rungs that are thought to play critical roles in membrane constriction. In living cells, overexpression of endophilin delayed both fission and transferrin uptake. Together, our observations suggest that while endophilin helps shape endocytic tubules and recruit dynamin to endocytic sites, it can also block membrane fission when present in excess by inhibiting inter-dynamin interactions. The sequence of recruitment and the relative stoichiometry of the two proteins may be critical to regulated endocytic fission.
+    <br><br><br>
+  date: 201709
+  image: /static/img/pub/Talledge_eLife_2017.png
+  pmid: 28933693
+  
 - title: In vitro analysis of RQC activities provides insights into the mechanism and function of CAT tailing.
   authors: |
     Osuna BA, Howard CJ, Subheksha KC, __Frost A__<sup>\*</sup>, Weinberg DE<sup>\*</sup>
