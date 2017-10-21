@@ -68,3 +68,8 @@
   image: /static/img/people/sun.png
   position: "Postdoctoral Scholar <br> from **[Columbia University](http://franklab.cpmc.columbia.edu/franklab/)**"
   email: ming.sun (at) ucsf.edu
+
+- name: Dr. Rachel Di Santo
+  image: /static/img/people/DiSanto.jpg
+  position: "Postdoctoral Scholar <br> from **[University of Dundee](http://www.lifesci.dundee.ac.uk/groups/mike_stark/)**"
+  email: rachel.disanto (at) ucsf.edu
