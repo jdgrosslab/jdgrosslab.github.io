@@ -2,7 +2,12 @@
   image: /static/img/people/frost.jpg
   position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
   email: occams.mustache (at) gmail.com
-  cv: /static/pdf/AdamFrost-MasterCV-2017.08.04.pdf
+  cv: /static/pdf/AdamFrost-MasterCV-2018.01.pdf
+
+- name: Loan Doan
+  image: /static/img/people/Doan.jpg
+  position: Laboratory Assistant
+  email: loan.doan (at) ucsf.edu
 
 - name: Raghav Kalia
   image: /static/img/people/kalia.jpg
