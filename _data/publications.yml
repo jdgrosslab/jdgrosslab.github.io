@@ -20,7 +20,8 @@
   journal:  __ELIFE__ 2017 Sept
   abstract: |
     Dynamin, which mediates membrane fission during endocytosis, binds endophilin and other members of the Bin-Amphiphysin-Rvs (BAR) protein family. How endophilin influences endocytic membrane fission is still unclear. Here we show that dynamin-mediated membrane fission is potently inhibited in vitro when an excess of endophilin co-assembles with dynamin around membrane tubules. We further show by electron microscopy that endophilin intercalates between turns of the dynamin helix and impairs fission by preventing trans interactions between dynamin rungs that are thought to play critical roles in membrane constriction. In living cells, overexpression of endophilin delayed both fission and transferrin uptake. Together, our observations suggest that while endophilin helps shape endocytic tubules and recruit dynamin to endocytic sites, it can also block membrane fission when present in excess by inhibiting inter-dynamin interactions. The sequence of recruitment and the relative stoichiometry of the two proteins may be critical to regulated endocytic fission.
-    <br><br><br>
+    <br>
+    **[Final Full Text](https://elifesciences.org/articles/26856)**<br>
   date: 201709
   image: /static/img/pub/Talledge_eLife_2017.png
   pmid: 28933693
@@ -32,7 +33,8 @@
   journal:  __ELIFE__ 2017 Jul
   abstract: |
     Ribosomes can stall during translation due to defects in the mRNA template or translation machinery, leading to the production of incomplete proteins. The Ribosome-associated Quality control Complex (RQC) engages stalled ribosomes and targets nascent polypeptides for proteasomal degradation. However, how each RQC component contributes to this process remains unclear. Here we demonstrate that key RQC activities-Ltn1p-dependent ubiquitination and Rqc2p-mediated Carboxy-terminal Alanine and Threonine (CAT) tail elongation-can be recapitulated in vitro with a yeast cell-free system. Using this approach, we determined that CAT tailing is mechanistically distinct from canonical translation, that Ltn1p-mediated ubiquitination depends on the poorly characterized RQC component Rqc1p, and that the process of CAT tailing enables robust ubiquitination of the nascent polypeptide. These findings establish a novel system to study the RQC and provide a framework for understanding how RQC factors coordinate their activities to facilitate clearance of incompletely synthesized proteins.
-    <br><br><br>
+    <br>
+    **[Final Full Text](https://elifesciences.org/articles/27949)**<br>
   date: 201707
   image: /static/img/pub/Osuna_Elife_2017.png
   pmid: 28718767
@@ -43,7 +45,8 @@
   journal:  __SCIENCE__ 2017 Jul
   abstract: |
     Ribosome stalling leads to recruitment of the ribosome quality control complex (RQC), which targets the partially synthesized polypeptide for proteasomal degradation through the action of the ubiquitin ligase Ltn1p. A second core RQC component, Rqc2p, modifies the nascent polypeptide by adding a carboxyl-terminal alanine and threonine (CAT) tail through a noncanonical elongation reaction. Here we examined the role of CAT-tailing in nascent-chain degradation in budding yeast. We found that Ltn1p efficiently accessed only nascent-chain lysines immediately proximal to the ribosome exit tunnel. For substrates without Ltn1p-accessible lysines, CAT-tailing enabled degradation by exposing lysines sequestered in the ribosome exit tunnel. Thus, CAT-tails do not serve as a degron, but rather provide a fail-safe mechanism that expands the range of RQC-degradable substrates.
-    <br><br><br>
+    <br>
+    **[Final Full Text](http://science.sciencemag.org/content/357/6349/414.full)**<br>
   date: 201707
   image: /static/img/pub/Kostova_Science_2017.png
   pmid: 28751611
@@ -56,7 +59,9 @@
   journal:  __PROC NATL ACA SCI USA__ 2017 Feb
   abstract: |
     Endosomal sorting complexes required for transport III (ESCRT-III) proteins have been implicated in sealing the nuclear envelope in mammals, spindle pole body dynamics in fission yeast, and surveillance of defective nuclear pore complexes in budding yeast. Here, we report that Lem2p (LEM2), a member of the LEM (Lap2-Emerin-Man1) family of inner nuclear membrane proteins, and the ESCRT-II/ESCRT-III hybrid protein Cmp7p (CHMP7), work together to recruit additional ESCRT-III proteins to holes in the nuclear membrane. In Schizosaccharomyces pombe, deletion of the ATPase vps4 leads to severe defects in nuclear morphology and integrity. These phenotypes are suppressed by loss-of-function mutations that arise spontaneously in lem2 or cmp7, implying that these proteins may function upstream in the same pathway. Building on these genetic interactions, we explored the role of LEM2 during nuclear envelope reformation in human cells. We found that CHMP7 and LEM2 enrich at the same region of the chromatin disk periphery during this window of cell division and that CHMP7 can bind directly to the C-terminal domain of LEM2 in vitro. We further found that, during nuclear envelope formation, recruitment of the ESCRT factors CHMP7, CHMP2A, and IST1/CHMP8 all depend on LEM2 in human cells. We conclude that Lem2p/LEM2 is a conserved nuclear site-specific adaptor that recruits Cmp7p/CHMP7 and downstream ESCRT factors to the nuclear envelope.
-    <br><br><br>
+    <br>
+    **[Final Full Text](http://www.pnas.org/content/114/11/E2166)**<br>
+    **[Preprint](https://www.biorxiv.org/content/early/2017/02/16/049312)**    
   date: 201702
   image: /static/img/pub/Gu_PNAS_2017.jpg
   pmid: 28242692
