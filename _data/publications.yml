@@ -13,7 +13,7 @@
   
 - title: Structure of the nucleotide exchange factor eIF2B reveals mechanism of memory-enhancing molecule.
   authors: |
-    Tsai, JC<sup>\#</sup>, Miller-Vedam LE<sup>\#</sup>, Anand AA<sup>\#</sup>, Jaishankar P, Nguyen HC, __Frost A__<sup>\*</sup>, Walter P<sup>\*</sup> <br>
+    Tsai, JC<sup>\#</sup>, Miller-Vedam LE<sup>\#</sup>, Anand AA<sup>\#</sup>, Jaishankar P, Nguyen HC, Frost A<sup>\*</sup>, Walter P<sup>\*</sup> <br>
     <sup>\#</sup> Co-first authors <br>
     <sup>\*</sup> Co-corresponding authors 
   journal:  __SCIENCE__ 2018 Mar
@@ -29,7 +29,7 @@
 
 - title: Structural inhibition of dynamin-mediated membrane fission by endophilin.
   authors: |
-    Hohendahl A, Talledge N, Galli V, Shen PS, Humbert F, De Camilli P, __Frost A__<sup>\*</sup>, Roux A<sup>\*</sup> <br>
+    Hohendahl A, Talledge N, Galli V, Shen PS, Humbert F, De Camilli P, Frost A<sup>\*</sup>, Roux A<sup>\*</sup> <br>
     <sup>\*</sup> Co-corresponding authors
   journal:  __ELIFE__ 2017 Sept
   abstract: |
@@ -42,7 +42,7 @@
   
 - title: In vitro analysis of RQC activities provides insights into the mechanism and function of CAT tailing.
   authors: |
-    Osuna BA, Howard CJ, Subheksha KC, __Frost A__<sup>\*</sup>, Weinberg DE<sup>\*</sup> <br>
+    Osuna BA, Howard CJ, Subheksha KC, Frost A<sup>\*</sup>, Weinberg DE<sup>\*</sup> <br>
     <sup>\*</sup> Co-corresponding authors
   journal:  __ELIFE__ 2017 Jul
   abstract: |
@@ -55,7 +55,7 @@
 
 - title: CAT-tailing as a fail-safe mechanism for efficient degradation of stalled nascent polypeptides.
   authors: |
-    Kostova KK, Hickey KL, Osuna BA, Hussmann JA, __Frost A__, Weinberg DE, Weissman JS
+    Kostova KK, Hickey KL, Osuna BA, Hussmann JA, Frost A, Weinberg DE, Weissman JS
   journal:  __SCIENCE__ 2017 Jul
   abstract: |
     Ribosome stalling leads to recruitment of the ribosome quality control complex (RQC), which targets the partially synthesized polypeptide for proteasomal degradation through the action of the ubiquitin ligase Ltn1p. A second core RQC component, Rqc2p, modifies the nascent polypeptide by adding a carboxyl-terminal alanine and threonine (CAT) tail through a noncanonical elongation reaction. Here we examined the role of CAT-tailing in nascent-chain degradation in budding yeast. We found that Ltn1p efficiently accessed only nascent-chain lysines immediately proximal to the ribosome exit tunnel. For substrates without Ltn1p-accessible lysines, CAT-tailing enabled degradation by exposing lysines sequestered in the ribosome exit tunnel. Thus, CAT-tails do not serve as a degron, but rather provide a fail-safe mechanism that expands the range of RQC-degradable substrates.
@@ -68,7 +68,7 @@
 - title: LEM2 recruits CHMP7 for ESCRT-mediated nuclear envelope closure in fission yeast and human cells.
   authors: |
     Gu M, LaJoie D, Chen OS, Von Appen A, Ladinsky MS, Redd MJ, Nikolova L, Bjorkman PJ, Sundquist WI<sup>\*</sup>, Ullman KS<sup>
-    \*</sup>, __Frost A__<sup>\*</sup>  
+    \*</sup>, Frost A<sup>\*</sup>  
     <sup>\*</sup> Co-corresponding authors
   journal:  __PROC NATL ACA SCI USA__ 2017 Feb
   abstract: |
@@ -82,7 +82,7 @@
 
 - title: Cell Biology - Double agents for mitochondrial division.
   authors: |
-    McBride HM and __Frost A__
+    McBride HM and Frost A
   journal: __NATURE__ 2016 Nov
   abstract: |
     Mitochondrial organelles — the energy powerhouses of the cell — must divide and fuse dynamically to function. It emerges that two distinct dynamin enzymes enable mitochondrial division.
@@ -92,7 +92,7 @@
   
 - title: Membrane fission by dynamin - what we know and what we need to know.
   authors: |
-    Antonny B, Burd C, De Camilli P, Chen E, Daumke O, Faelber K, Ford M, Frolov VA, __Frost A__, Hinshaw JE, Kirchhausen T, Kozlov MM, Lenz M, Low HH, McMahon H, Merrifield C, Pollard TD, Robinson PJ, Roux A, Schmid S
+    Antonny B, Burd C, De Camilli P, Chen E, Daumke O, Faelber K, Ford M, Frolov VA, Frost A, Hinshaw JE, Kirchhausen T, Kozlov MM, Lenz M, Low HH, McMahon H, Merrifield C, Pollard TD, Robinson PJ, Roux A, Schmid S
   journal: __EMBO J__ 2016 Nov
   abstract: |
     The large GTPase dynamin is the first protein shown to catalyze membrane fission. Dynamin and its related proteins are essential to many cell functions, from endocytosis to organelle division and fusion, and it plays a critical role in many physiological functions such as synaptic transmission and muscle contraction. Research of the past three decades has focused on understanding how dynamin works. In this review, we present the basis for an emerging consensus on how dynamin functions. Three properties of dynamin are strongly supported by experimental data: first, dynamin oligomerizes into a helical polymer; second, dynamin oligomer constricts in the presence of GTP; and third, dynamin catalyzes membrane fission upon GTP hydrolysis. We present the two current models for fission, essentially diverging in how GTP energy is spent. We further discuss how future research might solve the remaining open questions presently under discussion.
@@ -105,7 +105,7 @@
 
 - title: A Golgi rhomboid protease Rbd2 recruits Cdc48 to cleave yeast SREBP.
   authors: |
-    Hwang J, Ribbens D, Raychaudhuri S, Ciarns L, Gu H, __Frost A__, Urban S, Espenshade PJ
+    Hwang J, Ribbens D, Raychaudhuri S, Ciarns L, Gu H, Frost A, Urban S, Espenshade PJ
   journal: __EMBO J__ 2016 Nov
   abstract: |
     Hypoxic growth of fungi requires sterol regulatory element-binding protein (SREBP) transcription factors, and human opportunistic fungal pathogens require SREBP activation for virulence. Proteolytic release of fission yeast SREBPs from the membrane in response to low oxygen requires the Golgi membrane-anchored Dsc E3 ligase complex. Using genetic interaction arrays, we identified Rbd2 as a rhomboid family protease required for SREBP proteolytic processing. Rbd2 is an active, Golgi-localized protease that cleaves the transmembrane segment of the TatA rhomboid model substrate. Epistasis analysis revealed that the Dsc E3 ligase acts on SREBP prior to cleavage by Rbd2. Using APEX2 proximity biotinylation, we demonstrated that Rbd2 binds the AAA-ATPase Cdc48 through a C-terminal SHP box. Interestingly, SREBP cleavage required Rbd2 binding of Cdc48, consistent with Cdc48 acting to recruit ubiquitinylated substrates. In support of this claim, overexpressing a Cdc48-binding mutant of Rbd2 bypassed the Cdc48 requirement for SREBP cleavage, demonstrating that Cdc48 likely plays a role in SREBP recognition. In the absence of functional Rbd2, SREBP precursor is degraded by the proteasome, indicating that Rbd2 activity controls the balance between SREBP activation and degradation.    
@@ -116,7 +116,7 @@
 - title: Subunit connectivity, assembly determinants and architecture of the yeast exocyst complex.
   authors: |
     Heider MR, Gu M, Duffy CM, Mirza AM, Marcotte LL, Walls AC, Farrall N, 
-    Hakhverdyan Z, Field MC, Rout MP, __Frost A__, Munson M
+    Hakhverdyan Z, Field MC, Rout MP, Frost A, Munson M
   journal: __NATURE STRUCTURE & MOLECULAR BIOLOGY__ 2016 Jan
   abstract: |
     The exocyst is a hetero-octameric complex that has been proposed to serve 
@@ -141,7 +141,7 @@
   authors: |
     McCullough J, Clippinger AK, Talledge N, Skowyra ML, Saunders MG, Naismith 
     TV, Colf LA, Afonine P, Arthur C, Sundquist WI<sup>\*</sup>, Hanson PI<sup>
-    \*</sup>, __Frost A__<sup>\*</sup>  
+    \*</sup>, Frost A<sup>\*</sup>  
     <sup>\*</sup> Co-corresponding authors
   journal: __SCIENCE__ 2015 Dec
   abstract: |
@@ -170,7 +170,7 @@
 
 - title: Structural and functional studies of membrane remodeling machines.
   authors: |
-    Kalia R, Talledge N, __Frost A__
+    Kalia R, Talledge N, Frost A
   journal: __METHODS IN CELL BIOLOGY__ 2015 Apr
   abstract: |
     **[Building a Cell from its Component Parts](http://www.amazon.com/Building
@@ -190,7 +190,7 @@
 - title: Rqc2p and 60S ribosomal subunits mediate mRNA-independent elongation of nascent chains.
   authors: |
     Shen PS, Park J, Qin Y, Li X, Parsawar K, Larson MH, Cox J, Cheng Y, 
-    Lambowitz, Weissman JS<sup>\*</sup>, Brandmann O<sup>\*</sup>, __Frost A__
+    Lambowitz, Weissman JS<sup>\*</sup>, Brandmann O<sup>\*</sup>, Frost A
     <sup>\*</sup>  
     <sup>\*</sup> Co-corresponding authors
   journal: __SCIENCE__ 2015 Jan
@@ -219,8 +219,7 @@
 
 - title: Interchangeable adaptors regulate mitochondrial dynamin assembly for membrane scission.
   authors: |
-    Koirala S, Guo Q, Kalia R, Bui HT, Eckert DM, __Frost A__<sup>\*</sup>, 
-    Shaw JM<sup>\*</sup>  
+    Koirala S, Guo Q, Kalia R, Bui HT, Eckert DM, Frost A<sup>\*</sup>, Shaw JM<sup>\*</sup>  
     <sup>\*</sup> Co-corresponding authors
   journal: __PROC NATL ACA SCI USA__ 2013 Mar
   abstract: |
@@ -248,8 +247,7 @@
 - title: A ribosome-bound quality control complex triggers degradation of nascent peptides and signals translation stress.
   authors: |
     Brandman O, Stewart-Ornstein J, Wong D, Larson A, Williams CC, Li GW, Zhou 
-    S, King D, Shen PS, Weibezahn J, Dunn JG, Rouskin S, Inada T, __Frost A__
-    <sup>\*</sup>, Weissman JS<sup>\*</sup>  
+    S, King D, Shen PS, Weibezahn J, Dunn JG, Rouskin S, Inada T, Frost A<sup>\*</sup>, Weissman JS<sup>\*</sup>  
     <sup>*</sup> Co-corresponding authors
   journal: __CELL__ 2012 Nov
   abstract: |
@@ -274,7 +272,7 @@
 
 - title: Functional repurposing revealed by comparing S. pombe and S. cerevisiae genetic interactions.
   authors: |
-    __Frost A__<sup>\*</sup>, Elgort MG, Brandman O, Ives C, Collins SR, 
+    Frost A<sup>\*</sup>, Elgort MG, Brandman O, Ives C, Collins SR, 
     Miller-Vedam L, Weibezahn J, Hein MY, Poser I, Mann M, Hyman AA, Weissman 
     JS  
     <sup>*</sup> corresponding author
@@ -305,7 +303,7 @@
 
 - title: Structural basis of membrane bending by the N-BAR protein Endophilin.
   authors: |
-    Mim C, Cui H, Gawronski-Salerno JA, __Frost A__, Lyman E, Voth GA, Unger VM
+    Mim C, Cui H, Gawronski-Salerno JA, Frost A, Lyman E, Voth GA, Unger VM
   journal: __CELL__ 2012 Mar
   abstract: |
     Functioning as key players in cellular regulation of membrane curvature, 
@@ -328,7 +326,7 @@
     
 - title: "Membrane trafficking: decoding vesicle identity with contrasting chemistries."
   authors: |
-    __Frost A__
+    Frost A
   journal: __CURRENT BIOL__ 2011 Oct
   abstract: |
     Proteins involved in membrane traffic must distinguish between different 
@@ -342,8 +340,7 @@
 
 - title: The F-BAR domain of srGAP2 induces membrane protrusions required for neuronal migration and morphogenesis.
   authors: |
-    Guerrier S, Coutinho-Budd J, Sassa T, Gresset A, Jordan NV, Chen K, Jin 
-    WL, __Frost A__, Polleux F
+    Guerrier S, Coutinho-Budd J, Sassa T, Gresset A, Jordan NV, Chen K, Jin WL, Frost A, Polleux F
   journal: __CELL__ 2009 Sep
   abstract: |
     During brain development, proper neuronal migration and morphogenesis is 
@@ -370,7 +367,7 @@
 
 - title: 'The BAR domain superfamily: membrane-molding macromolecules'
   authors: |
-    __Frost A__, Unger VM, De Camilli P
+    Frost A, Unger VM, De Camilli P
   journal: __CELL__ 2009 Apr
   abstract: |
     Membrane-shaping proteins of the BAR domain superfamily are determinants 
@@ -384,8 +381,7 @@
 
 - title: 'Structural basis of membrane invagination by F-BAR domains.'
   authors: |
-    __Frost A__, Perera R, Roux A, Spasov K, Destaing O, Egelman EH, De 
-    Camilli P, Unger VM
+    Frost A, Perera R, Roux A, Spasov K, Destaing O, Egelman EH, De Camilli P, Unger VM
   journal: __CELL__ 2008 Mar
   abstract: |
     BAR superfamily domains shape membranes through poorly understood 
@@ -414,7 +410,7 @@
 
 - title: F-BAR proteins join the BAR family fold.
   authors: |
-    __Frost A__, De Camilli P, Unger VM
+    Frost A, De Camilli P, Unger VM
   journal: __STRUCTURE__ 2007 Jul
   abstract: |
     Expanding the range of curvature generating and curvature stabilizing 
@@ -427,7 +423,7 @@
 
 - title: GTP-dependent twisting of dynamin implicates constriction and tension in membrane fission.
   authors: |
-    Roux A, Uyhazi K, __Frost A__, De Camilli P
+    Roux A, Uyhazi K, Frost A, De Camilli P
   journal: __NATURE__ 2006 Apr
   abstract: |
     Dynamin, a crucial factor in endocytosis, is a member of a family of 
