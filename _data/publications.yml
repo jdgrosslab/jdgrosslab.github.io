@@ -1,3 +1,16 @@
+- title: The ER membrane protein complex interacts cotranslationally to enable biogenesis of multipass membrane proteins.
+  authors: |
+  Shurtleff MJ, Itzhak DN, Hussmann JA, Schirle Oakdale NT, Costa EA, Jonikas M, Weibezahn J, Popova KD, Jan CH, Sinitcyn P, Vembar SS, Hernandez H, Cox J, Burlingame AL, Brodsky J, Frost A, Borner GH<sup>\*</sup>, Weissman JS<sup>\*</sup> <br>
+  <sup>\*</sup> Co-corresponding authors
+  journal:  __ELIFE__ 2018 May
+  abstract: |
+  The endoplasmic reticulum (ER) supports biosynthesis of proteins with diverse transmembrane domain (TMD) lengths and hydrophobicity. Features in transmembrane domains such as charged residues in ion channels are often functionally important, but could pose a challenge during cotranslational membrane insertion and folding. Our systematic proteomic approaches in both yeast and human cells revealed that the ER membrane protein complex (EMC) binds to and promotes the biogenesis of a range of multipass transmembrane proteins, with a particular enrichment for transporters. Proximity-specific ribosome profiling demonstrates that the EMC engages clients cotranslationally and immediately following clusters of TMDs enriched for charged residues. The EMC can remain associated after completion of translation, which both protects clients from premature degradation and allows recruitment of substrate-specific and general chaperones. Thus, the EMC broadly enables the biogenesis of multipass transmembrane proteins containing destabilizing features, thereby mitigating the trade-off between function and stability.
+    <br>
+    **[Final Full Text]()**<br>
+  date: 201805
+  image: /static/img/pub/Shurtleff_ELIFE_2018.png
+  pmid: 29809151
+
 - title: Structure of the nucleotide exchange factor eIF2B reveals mechanism of memory-enhancing molecule.
   authors: |
     Tsai, JC<sup>\#</sup>, Miller-Vedam LE<sup>\#</sup>, Anand AA<sup>\#</sup>, Jaishankar P, Nguyen HC, __Frost A__<sup>\*</sup>, Walter P<sup>\*</sup> <br>
