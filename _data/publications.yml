@@ -1,3 +1,17 @@
+- title: Vms1p is a release factor for the ribosome-associated quality control complex.
+  authors: |
+    Zurita Rendón<sup>\#</sup>, Fredrickson EK<sup>\#</sup>, Howard CJ<sup>\#</sup>, Van Vranken J, Fogarty S1, Tolley ND, Kalia R, Osuna BA, Shen PS, Hill CP, Frost A<sup>\*</sup>, Rutter J<sup>\*</sup> <br>
+    <sup>\#</sup> Co-first authors <br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __NATURE COMMUNICATIONS__ 2018 June
+  abstract: |
+    Eukaryotic cells employ the ribosome-associated quality control complex (RQC) to maintain homeostasis despite defects that cause ribosomes to stall. The RQC comprises the E3 ubiquitin ligase Ltn1p, the ATPase Cdc48p, Rqc1p, and Rqc2p. Upon ribosome stalling and splitting, the RQC assembles on the 60S species containing unreleased peptidyl-tRNA (60S:peptidyl–tRNA). Ltn1p and Rqc1p facilitate ubiquitination of the incomplete nascent chain, marking it for degradation. Rqc2p stabilizes Ltn1p on the 60S and recruits charged tRNAs to the 60S to catalyze elongation of the nascent protein with carboxy-terminal alanine and threonine extensions (CAT tails). By mobilizing the nascent chain, CAT tailing can expose lysine residues that are hidden in the exit tunnel, thereby supporting efficient ubiquitination. If the ubiquitin–proteasome system is overwhelmed or unavailable, CAT-tailed nascent chains can aggregate in the cytosol or within organelles like mitochondria. Here we identify Vms1p as a tRNA hydrolase that releases stalled polypeptides engaged by the RQC.
+    <br>
+    **[Final Full Text](https://rdcu.be/TH5H)**<br>
+  date: 201806
+  image: /static/img/pub/Vms1_NATCOMMS_2018.png
+  pmid: 29875445
+  
 - title: The ER membrane protein complex interacts cotranslationally to enable biogenesis of multipass membrane proteins.
   authors: |
     Shurtleff MJ<sup>\#</sup>, Itzhak DN<sup>\#</sup>,Hussmann JA, Schirle Oakdale NT, Costa EA, Jonikas M, Weibezahn J, Popova KD, Jan CH, Sinitcyn P, Vembar SS, Hernandez H, Cox J, Burlingame AL, Brodsky J, Frost A, Borner GH<sup>\*</sup>, Weissman JS<sup>\*</sup> <br>
