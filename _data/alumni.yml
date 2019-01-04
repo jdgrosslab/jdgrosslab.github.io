@@ -1,30 +1,76 @@
-- name: Dr. Marc Elgort
-  image: /static/img/people/elgort.jpg
-  new_position: Research and Design Scientist
-  new_location: Associated Regional and University Pathologists, Department of Pathology, University of Utah, Salt Lake City, Utah
+- name: Jennifer Binning
+  position: Postdoctoral Scholar, 2018
+  new_position: 
 
-- name: Dr. John Gorzynski
-  image: /static/img/people/gorzynski.png
-  new_position: D.V.M. and Ph.D. Candidate, Department of Genetics
-  new_location: Stanford University, Palo Alto, California
- 
-- name: Seth Lilavivat
-  image: /static/img/people/lilavivat.jpg
-  new_position: Research and Design Scientist
-  new_location: Illumina, San Diego, California
+- name: Lily Burton
+  position: Lab Manager, Research Technician, 2018
+  new_position: Graduate Student in Biochemistry & Molecular Biophysics, University of Chicago 
 
-- name: Dr. Peter Shen
-  image: /static/img/people/shen.jpg
-  new_position: Assistant Professor of Biochemistry
-  new_location: University of Utah, Salt Lake City, Utah
+- name: David Paquette
+  position: Graduate Student, 2017
+  new_position: UCSF Science Officer, California Initiative to Advance Precision Medicine
 
-- name: Dr. Kimberly Dickson
-  image: /static/img/people/dickson.png
-  new_position: Associate Professor of Biochemistry
-  new_location: Lawrence University, Appleton, Wisconsin
-  
-- name: Dr. Nicole Schirle
-  image: /static/img/people/schirle.png
-  new_position: Research and Design Scientist
-  new_location: Pfizer, Rinat Campus of South San Francisco, California
+- name: Mikhaela Arambulo
+  position: Research Technician, 2015
+  new_position: Med Student, University of Arkansas Medical School
+
+- name: Robin Aglietti
+  position: Graduate Student, 2014
+  new_position: Postdoctoral Researcher at Genentech
+
+- name: David Stanley
+  position: Graduate Student, 2013
+  new_position: Scientist at Codexis
+
+- name: Adam Steeves
+  position: Postdoctoral Scholar, 2013
+  new_position: Assistant Professor, Ithaca College, Ithaca NY
+
+- name: Dong Young Kim
+  position: Postdoctoral Scholar, 2013
+  new_position: Assistant Professor, College of Pharmacy, Yeungnam University, South Korea
+
+- name: Eunju Kwon
+  position: Postdoctoral Scholar, 2013
+  new_position: Research Scientist, Yeungnam University, South Korea
+
+- name: Shilpa Maroju
+  position: Research Technician, 2013
+  new_position: Research Associate, Genentech
+
+- name: Stephen Floor
+  position: Graduate Student, 2011
+  new_position: "**[Assitant Professor, UCSF](http://floorlab.org/)**"
+
+- name: Linda Yen
+  position: Research Technician, 2011
+  new_position: Graduate Student in Biological Chemistry, UCLA
+
+- name: Mark Borja
+  position: Graduate Student, 2011
+  new_position: Assistant Professor, Cal State East Bay
+
+- name: Britnee Jones
+  position: Graduate Student, 2010
+  new_position: Technical Field Support Specialist, Fluidigm
+
+- name: Jeremy Mason-Herr
+  position: Research Technician, 2009
+  new_position: Senior Software Engineer, Ginko Bioworks
+
+- name: Jeremy Flinders
+  position: Postdoctoral Scholar, 2008
+  new_position: Postdoctoral Scientist, Genentech
+
+- name: Duc-Uy Quang-Dang
+  position: Research Technician, 2007
+  new_position: MD, Virginia Commonwealth. Residency, California Pacific Medical Foundation
+
+- name: Mandar Deshmukh
+  position: Postdoctoral Scholar, 2006
+  new_position: CCMB, Hyderabad, India
+
+- name: Yuko Oku
+  position: Research Technician, 2005
+  new_position: Graduate Student in Neuroscience, Johns Hopkins
   

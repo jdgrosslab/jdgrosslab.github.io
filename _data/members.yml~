@@ -1,0 +1,63 @@
+- name: John Gross, PhD
+  image: /static/img/people/jdg-new.jpg
+  position: Professor, Principal Investigator
+  email: jdgross@cgl.ucsf.edu
+  interest: Protein-protein and protein-nucleic acid interactions in the control of eukaryotic gene expression and HIV infection.
+
+- name: Victor Lam
+  image: /static/img/people/Doan.jpg
+  position: Graduate Student <br> **[Tetrad Program](https://tetrad.ucsf.edu)**
+  email: victor.lam@ucsf.edu
+  interest: Biochemical studies of host-virus protein interactions.
+  background: BA, UT Austin. RNAi in C. elegans.
+
+- name: Yen-Li Li, PhD
+  image: /static/img/people/yenli.jpg
+  position: Postdoctoral Scholar
+  email: yen-li.li@ucsf.edu
+  interest: Structural studies of host-virus protein interactions.
+  background: PhD, University of Utah. Biochemical and structural studies of host-virus protein interactions.
+
+- name: Xi Liu, PhD
+  image: /static/img/people/xi.jpg
+  position: Postdoctoral Scholar
+  email: xi.liu@ucsf.edu
+  interest: Structural studies of host-virus protein interactions.
+  background: PhD, Tsinghua University. Structural biology of cytokine and receptor complex.
+
+- name: Joe Lobel
+  image: /static/img/people/joe.jpg
+  position: Graduate Student <br> **[Chemistry & Chemical Biology](https://ccb.ucsf.edu)**
+  email: joseph.lobel@ucsf.edu
+  interest: Mechanisms of 5’-3’ mRNA decay.
+  background: BA, Hamilton College, NY.
+
+- name: Jeff Mugridge, PhD
+  image: /static/img/people/jeff.jpg
+  position: Postdoctoral Scholar
+  email: jeffrey.mugridge@ucsf.edu
+  interest: Structural mechanisms of mRNA decay and quality control.
+  background: PhD, UC Berkeley. Supramolecular host-guest interactions, dynamics, and structure.
+
+- name: Jessica Peters, PhD
+  image: /static/img/people/jessie.jpg
+  position: Postdoctoral Scholar
+  email: jessica.peters@ucsf.edu
+  interest: Host-virus protein interactions.
+  background: PhD, UC San Diego. Structural and functional studies of RNA splicing.
+
+- name: Serena Sanulli, PhD
+  image: /static/img/people/serena.jpg
+  position: Postdoctoral Scholar
+  email: serena.sanulli@ucsf.edu
+  interest: Chromatin dynamics and silencing.
+  background: PhD, Institut Curie. Regulation of the PRC2 complex by cofactors.
+
+- name: Ryan Tibble
+  image: /static/img/people/ryan.jpg
+  position: Graduate Student <br> **[Chemistry & Chemical Biology](https://ccb.ucsf.edu)**
+  email: ryan.tibble@ucsf.edu
+  interest: Mechanisms of 5’-3’ mRNA decay.
+  background: BA/MS, Dartmouth College. Structural and functional studies of kinesin-like proteins.
+
+

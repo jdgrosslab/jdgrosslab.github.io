@@ -1,5 +1,5 @@
-name: "Frost Lab"
-description: "The New Homepage for the Frost Lab at UCSF"
+name: "JD Gross Lab"
+description: "JD Gross Lab at UCSF"
 baseurl: ""
 gems: [jekyll-paginate]
 paginate: 10

@@ -1,80 +1,63 @@
-- name: "**[Dr. Adam Frost](https://www.youtube.com/watch?v=JyAW7KRfSNE)**"
-  image: /static/img/people/frost.jpg
-  position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
-  email: occams.mustache (at) gmail.com
-  cv: /static/pdf/AdamFrost-MasterCV-2018.01.pdf
+- name: John Gross, PhD
+  image: /static/img/people/jdg-new.jpg
+  position: Professor, Principal Investigator
+  email: jdgross@cgl.ucsf.edu
+  interest: Protein-protein and protein-nucleic acid interactions in the control of eukaryotic gene expression and HIV infection.
 
-- name: Loan Doan
-  image: /static/img/people/Doan.jpg
-  position: Laboratory Assistant
-  email: loan.doan (at) ucsf.edu
+- name: Victor Lam
+  image: /static/img/people/victor.jpg
+  position: Graduate Student <br> **[Tetrad Program](https://tetrad.ucsf.edu)**
+  email: victor.lam@ucsf.edu
+  interest: Biochemical studies of host-virus protein interactions.
+  background: BA, UT Austin. RNAi in C. elegans.
 
-- name: Raghav Kalia
-  image: /static/img/people/kalia.jpg
-  position: "**[Biological Chemistry](http://www.bioscience.utah.edu/biological-chemistry/)** <br> Graduate Student"
-  email: raghav.kalia (at) biochem.utah.edu
+- name: Yen-Li Li, PhD
+  image: /static/img/people/yenli.jpg
+  position: Postdoctoral Scholar
+  email: yen-li.li@ucsf.edu
+  interest: Structural studies of host-virus protein interactions.
+  background: PhD, University of Utah. Biochemical and structural studies of host-virus protein interactions.
 
-- name: Dr. Mingyu Gu
-  image: /static/img/people/gu.jpg
-  position: "Postdoctoral Scholar <br> from the **[University of Utah](http://biologylabs.utah.edu/jorgensen/index.html)**"
-  email: mingyu.gu (at) biochem.utah.edu
+- name: Xi Liu, PhD
+  image: /static/img/people/xi.jpg
+  position: Postdoctoral Scholar
+  email: xi.liu@ucsf.edu
+  interest: Structural studies of host-virus protein interactions.
+  background: PhD, Tsinghua University. Structural biology of cytokine and receptor complex.
 
-- name: Nathaniel Talledge
-  image: /static/img/people/talledge.jpg
-  position: "**[Biological Chemistry](http://www.bioscience.utah.edu/biological-chemistry/)** <br> Graduate Student"
-  email: n.talledge (at) biochem.utah.edu
+- name: Joe Lobel
+  image: /static/img/people/joe.jpg
+  position: Graduate Student <br> **[Chemistry & Chemical Biology](https://ccb.ucsf.edu)**
+  email: joseph.lobel@ucsf.edu
+  interest: Mechanisms of 5’-3’ mRNA decay.
+  background: BA, Hamilton College, NY.
 
-- name: Valentine Romanov
-  image: /static/img/people/romanov.jpg
-  position: "**[Mechanical Engineering](http://mech.utah.edu/academics/grads/current-students/) <br> Graduate Student ...and [noted artist](https://directorsblog.nih.gov/2016/09/29/snapshots-of-life-a-flare-for-the-dramatic/) <br> (Joint with [Dr. Bruce Gale](http://mech.utah.edu/faculty/bruce-gale/)**)"
-  email: vromanovaus (at) gmail.com
+- name: Jeff Mugridge, PhD
+  image: /static/img/people/jeff.jpg
+  position: Postdoctoral Scholar
+  email: jeffrey.mugridge@ucsf.edu
+  interest: Structural mechanisms of mRNA decay and quality control.
+  background: PhD, UC Berkeley. Supramolecular host-guest interactions, dynamics, and structure.
 
-- name: Lakshmi Miller-Vedam
-  image: /static/img/people/millervedam.png
-  position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
-  email: lmillervedam (at) gmail.com
+- name: Jessica Peters, PhD
+  image: /static/img/people/jessie.jpg
+  position: Postdoctoral Scholar
+  email: jessica.peters@ucsf.edu
+  interest: Host-virus protein interactions.
+  background: PhD, UC San Diego. Structural and functional studies of RNA splicing.
 
-- name: Lillian Kenner
-  image: /static/img/people/kenner.png
-  position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
-  email: lillian.kenner (at) ucsf.edu
+- name: Serena Sanulli, PhD
+  image: /static/img/people/serena.jpg
+  position: Postdoctoral Scholar
+  email: serena.sanulli@ucsf.edu
+  interest: Chromatin dynamics and silencing.
+  background: PhD, Institut Curie. Regulation of the PRC2 complex by cofactors.
 
-- name: Dr. Henry Nguyen
-  image: /static/img/people/nguyen.png
-  position: "Postdoctoral Scholar <br> from **[Yale University](https://medicine.yale.edu/lab/xiong/)**"
-  email: nguyen.henry.c (at) gmail.com
+- name: Ryan Tibble
+  image: /static/img/people/ryan.jpg
+  position: Graduate Student <br> **[Chemistry & Chemical Biology](https://ccb.ucsf.edu)**
+  email: ryan.tibble@ucsf.edu
+  interest: Mechanisms of 5’-3’ mRNA decay.
+  background: BA/MS, Dartmouth College. Structural and functional studies of kinesin-like proteins.
 
-- name: Dr. Alexander Von Appen
-  image: /static/img/people/vonappen.png
-  position: "Postdoctoral Scholar <br> from **[EMBL](http://becklab.net/)**"
-  email: alexandervonappen (at) gmx.de
 
-- name: Isabel Johnson
-  image: /static/img/people/johnson.png
-  position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
-  email: isabel.johnson93 (at) gmail.com
-  
-- name: Conor Howard
-  image: /static/img/people/howard.png
-  position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
-  email: conor.howard (at) ucsf.edu
-
-- name: Paul Thomas
-  image: /static/img/people/thomas.png
-  position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
-  email: paul.thomas (at) ucsf.edu
-
-- name: Dr. Halil Aydin
-  image: /static/img/people/aydin.png
-  position: "Postdoctoral Scholar <br> from the **[University of Toronto](https://leelab-utoronto.com/)**"
-  email: halil.aydin (at) ucsf.edu
-  
-- name: Dr. Ming Sun
-  image: /static/img/people/sun.png
-  position: "Postdoctoral Scholar <br> from **[Columbia University](http://franklab.cpmc.columbia.edu/franklab/)**"
-  email: ming.sun (at) ucsf.edu
-
-- name: Dr. Rachael Di Santo
-  image: /static/img/people/DiSanto.jpg
-  position: "Postdoctoral Scholar <br> from the **[University of Dundee](http://www.lifesci.dundee.ac.uk/groups/mike_stark/)**"
-  email: rachael.disanto (at) ucsf.edu

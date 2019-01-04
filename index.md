@@ -1,10 +1,41 @@
 ---
-title: Frost Lab<br>@<br>UCSF
+title: JD Gross Lab<br>@<br>UCSF
 layout: parallaxbanner
-banner: '/static/img/san_francisco_2.jpg'
+banner: '/static/img/sfbay2.jpg'
 group: home
 ---
 
-#### Welcome to the Frost lab of the **[University of California, San Francisco](http://www.ucsf.edu/)**
 
-##### Our work is connected by a common vision: to see macromolecules *get together and come to life*. We seek to understand how fuel-driven biological machines work--especailly those that are too fragile to purify to homogeneity, too large or too flexible to crystallize, or that depend on lipids for their form and function. To derive unique insights into cell biology and human disease, we integrate atomic structure determination by cryoEM with genetics, biochemistry, and other imaging techniques. We work within the department of **[Biochemistry and Biophysics](http://biochemistry.ucsf.edu/)** the **[Macromolecular Structure Group](http://www.msg.ucsf.edu/)** and the **[Quantitative Biosciences Institute](https://qbi.ucsf.edu/)**.
+
+<br>
+#### Welcome to the JD Gross lab at the **[University of California, San Francisco](http://www.ucsf.edu/)**    
+<br>
+#### <i> Our lab studies the molecular structure of human and viral proteins to understand how they interact, control cellular function, and cause disease. </i>
+<br>
+
+
+
+
+<div class="center">
+<br>
+<a class="twitter-timeline" data-chrome="nofooter noborders" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/JDGrossLab?ref_src=twsrc%5Etfw">Tweets by JDGrossLab</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br><br>
+</div>
+
+
+<div class="divider"></div>
+
+<div class="row member">
+
+<div class="col s6 m6 center">
+<img class="home-logo" src='/static/img/UCSFlogo.png' alt="UCSF">
+<br> **[Department of Pharmaceutical Chemistry](https://pharmchem.ucsf.edu/)** 
+</div>
+
+<div class="col s6 m6 center">
+<img class="home-logo" src='/static/img/HARC.gif' alt="HARC"> 
+<br> **[HIV Asccesory & Regulatory Complexes Center](https://harc.ucsf.edu/)** 
+</div>
+
+</div>

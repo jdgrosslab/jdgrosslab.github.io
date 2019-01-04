@@ -1,0 +1,26 @@
+---
+title: Publications
+layout: parallaxbanner
+banner: /static/img/ubassay.jpg
+group: publications
+---
+<br>
+
+
+{% for publication in site.data.publications  %}
+{% capture thecycle %}{% cycle 'left', 'right' %}{% endcapture %} 
+
+<div class="publication section">
+
+<div id="bloc1" style="font-size: 130% !important; float:left"> {{publication.num}}. </div>
+
+<div id="bloc2" style="font-size: 130% !important; margin-left:35px"> <a class="cyan-text lighten-1" href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}">{{publication.title}}.</a> </div>
+
+<!-- <div style="font-size: 130% !important;"> {{publication.num}}. <a class="cyan-text lighten-1" href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}">{{publication.title}}</a> </div> -->
+
+<div style="font-size: 120% !important; margin-left:35px">   {{publication.authors}}. <b> {{publication.journal}} </b> </div>
+
+</div>
+<div class="divider" style="clear: both;"></div>
+{% endfor %}
+

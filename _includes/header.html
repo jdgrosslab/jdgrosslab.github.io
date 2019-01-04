@@ -5,8 +5,8 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
   <title>{{ page.title | replace: "<br>"," "}}</title>
-  <meta name="description" content="Frost Lab at UCSF">
-  <meta name="author" content="Ben Barad @benjaminbarad">
+  <meta name="description" content="JD Gross Lab at UCSF">
+  <meta name="author" content="code by Ben Barad @benjaminbarad; modified by Jeff Mugridge @jeffmugridge">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -23,9 +23,9 @@
 
 </head>
 <body>
-  <nav class="indigo lighten-4" role="navigation">
+  <nav class="black" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo">Frost Lab</a>
+      <a id="logo-container" href="#" class="brand-logo">JD Gross Lab</a>
       <ul class="right hide-on-med-and-down">
         {% for link in site.data.navbar %}
           {% if page.group == link.group %}
@@ -51,3 +51,5 @@
       {% endif %}
     {% endfor %}
   </ul>
+
+

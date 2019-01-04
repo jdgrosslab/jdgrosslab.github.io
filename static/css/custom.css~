@@ -1,0 +1,138 @@
+
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+/*
+img.banner-img{
+  max-width: 100%;
+  height: auto;
+}*/
+
+
+.research-section {
+vertical-align: middle;
+}
+
+.research-text {
+vertical-align: middle;
+padding: 10% 0;
+}
+
+img.research-img {
+  width: 450px;
+  max-width: 100%;
+  padding: 10px;
+}
+
+img.home-logo {
+  width: 175px;
+  padding: 10px;
+}
+
+
+img.member-photo {
+  width: 100px;
+  
+  -webkit-filter: grayscale(0%); 
+  filter: grayscale(0%);
+}
+
+p {
+  line-height: 2rem;
+}
+
+
+
+.parallax-container {
+  
+  min-height: 420px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {`
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+
+.icon-block {
+  padding: 0 15px;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+
+ul.side-nav li.logo {
+  text-align: center;
+  margin-top: 32px;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #ddd; }
+  ul.side-nav li.logo:hover {
+    background-color: transparent; }
+
+#logo-container {
+  height: 89px;
+  margin-bottom: 32px; }
+
+#front-page-logo {
+  display: inline-block;
+  height: 100%;
+  pointer-events: none; }
+
+.parallax-header {
+  font-weight: 500;
+  font-size: 80px;
+}
+
+@media only screen and (min-width: 600px) {
+  .member {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center; }
+  }
+}
+
+
+.pagination li {
+  float: none;
+  font-size: 1.2rem;
+  padding: 0 10px;
+  line-height: 30px;
+  border-radius: 2px;
+  text-align: center; }
+  .pagination li a {
+    color: #444; }
+  .pagination li.active a {
+    color: #fff; }
+  .pagination li.active {
+    background-color: #ee6e73; }
+  .pagination li.disabled span {
+    cursor: default;
+    color: #999; }
+  .pagination li i {
+    font-size: 2rem; }
+.pagination li.pages ul li {
+  display: inline-block;
+  float: none; }

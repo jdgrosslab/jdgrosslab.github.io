@@ -2,13 +2,13 @@
   link: "/"
   group: home
 
-- name: papers
-  link: "/publications"
-  group: publications
-
 - name: research
   link: "/research"
   group: research
+
+- name: publications
+  link: "/publications"
+  group: publications
 
 - name: members
   link: "/members"
@@ -17,4 +17,8 @@
 - name: contact
   link: "/contact"
   group: contact
+
+- name: opportunities
+  link: "/opportunities"
+  group: opportunities
   

@@ -1,0 +1,8 @@
+<div id="index-banner" class="parallax-container valign-wrapper">
+    <div class="container">
+      <div class="row center">
+        <h1 class="header col s10 parallax-header">{{page.title}}</h1>
+      </div>
+    </div>
+  <div class="parallax"><img src={{site.baseurl}}{{page.banner}} class="banner-img" alt="Banner Image"></div>
+</div>

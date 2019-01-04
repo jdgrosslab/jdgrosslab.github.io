@@ -13,20 +13,32 @@ img.banner-img{
 }*/
 
 
+.research-section {
+vertical-align: middle;
+}
 
+.research-text {
+vertical-align: middle;
+padding: 5% 0;
+}
 
-img.publication-img {
+img.research-img {
   width: 450px;
   max-width: 100%;
   padding: 10px;
 }
 
+img.home-logo {
+  width: 175px;
+  padding: 10px;
+}
+
 
 img.member-photo {
-  width: 90px;
+  width: 100px;
   
-  -webkit-filter: grayscale(100%); 
-  filter: grayscale(100%);
+  -webkit-filter: grayscale(0%); 
+  filter: grayscale(0%);
 }
 
 p {

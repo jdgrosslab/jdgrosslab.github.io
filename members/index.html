@@ -1,29 +1,31 @@
 ---
-title: Our Team
+title: Lab Members
 layout: parallaxbanner
-banner: /static/img/genentechexterior.jpg
+banner: /static/img/grosslab_group_pic_full2.jpg
 group: members
 ---
 <h2 class="center"> Current Members </h2>
 {% for person in site.data.members %}
-<!-- TODO -->
+
 <div class="divider"></div>
 <div id="{{person.name}}" class="section">
   <div class="row member">
-    <div class="col s6 m3 center">
-      <img class="circle member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
+    <div class="col s6 m2 center">
+      <img class="member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
     </div>
     <div class="col s6 m3 center">
-      <div class="valign"><strong>{{person.name | markdownify}}</strong></div>
-      {% if person.cv %}
-      <div class="valign"><a href="{{site.baseurl}}{{person.cv}}" style="color:black;"><strong>CV</strong></a></div>
-      {% endif %}
+      <div ><strong>{{person.name | markdownify}}</strong></div>
+   
+      <div ><a href="mailto: {{person.email}}">{{person.email}}</a></div>
+  
     </div>
     <div class="col s6 m3 center ">
-      <div class="grey-text">{{person.position | markdownify}}</div>
+      <div class="valign">{{person.position | markdownify}}</div>
+ 
     </div>
-    <div class="col s6 offset-s6 m3 center ">
-      <div>{{person.email}}</div>
+    <div class="col s6 offset-s6 m4 left ">
+      <div>{{person.interest}}</div>
+      <div class="grey-text">{{person.background}}</div>
     </div>
   </div>
 </div>
@@ -31,24 +33,22 @@ group: members
 
 
 
-<h2 class="center"> Alumni </h2>
+<h2 class="center"> Lab Alumni </h2>
 
 {% for person in site.data.alumni %}
-<!-- TODO -->
+
 <div class="divider"></div>
 <div id="{{person.name}}" class="section">
   <div class="row member">
-    <div class="col s6 m3 center">
-      <img class="responsive-img circle member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
-    </div>
+    
     <div class="col s6 m3 center">
       <div class="valign"><strong>{{person.name | markdownify}}</strong></div>
     </div>
     <div class="col s6 m3 center ">
-      <div class="grey-text">{{person.new_position | markdownify}}</div>
+      <div class="grey-text">{{person.position | markdownify}}</div>
     </div>
-    <div class="col s6 offset-s6 m3 center ">
-      <div>{{person.new_location | markdownify}}</div>
+    <div class="col s6 offset-s6 m6 center ">
+      <div>{{person.new_position | markdownify}}</div>
     </div>
   </div>
 </div>

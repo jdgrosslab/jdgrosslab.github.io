@@ -1,0 +1,13 @@
+name: "JD Gross Lab"
+description: "The New Homepage for the JD Gross Lab at UCSF"
+baseurl: ""
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "blog/page:num"
+excerpt_separator: <!--more-->
+exclude: [vendor]
+permalink: pretty
+highlighter: rouge
+markdown: kramdown
+kramdown: 
+  parse_block_html: true
