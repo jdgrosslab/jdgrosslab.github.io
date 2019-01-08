@@ -1,5 +1,5 @@
-# new
-New Website for the Gross Lab - built on Jekyll for Github Pages and modelled off of the website of the [Frost Lab](http://frostlab.org) and [Fraser Lab](http://fraserlab.com).
+# New JD Gross lab website
+New website for the Gross Lab at UCSF - built on Jekyll for Github Pages and modeled off of the [Frost Lab](http://frostlab.org) and [Fraser Lab](http://fraserlab.com) websites.
 
-Developed by Benjamin Barad
+Code developed by Benjamin Barad @benbarad. Modified by Jeff Mugridge @jeffmugridge.
 # jdgrosslab.github.io
