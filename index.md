@@ -1,7 +1,7 @@
 ---
 title: JD Gross Lab<br>@<br>UCSF
 layout: parallaxbanner
-banner: '/static/img/collage_v2b.png'
+banner: '/static/img/collage_v2bw.jpg'
 group: home
 ---
 
