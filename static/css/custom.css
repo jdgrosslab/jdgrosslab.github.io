@@ -24,7 +24,7 @@ padding: 5% 0;
 
 img.research-img {
   width: 450px;
-  height: 500px;
+  min-height: 500px;
   max-width: 100%;
   padding: 10px;
 }
