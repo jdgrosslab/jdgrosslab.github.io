@@ -1,0 +1,22 @@
+---
+title: Research - mRNA decapping
+layout: parallaxbanner
+banner: /static/img/infectivity2.jpg
+group: decapping
+---
+
+
+
+{% for decapping in site.data.decapping %}
+
+<div id="flex-container">
+
+	<div class="flex-box1"> <img class="research-img responsive-img" src = "{{site.baseurl}}{{decapping.image}}" alt = "Dcp2 Descriptive Figure"> <br> <p>{{decapping.caption | markdownify}}</p> </div>
+
+	<div class="flex-box2"> <p>{{decapping.body | markdownify}}</p> </div>
+
+</div>
+
+{% endfor %}
+
+

@@ -12,6 +12,35 @@ img.banner-img{
   height: auto;
 }*/
 
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 10px auto;
+}
+
+
+img.researchflex-img {
+  padding: 10px;
+  vertical-align: middle;
+}
+
+.flex-item1 {
+    width: 50%;
+    margin: 10px;
+    vertical-align: middle;
+    text-align: justify;
+}
+
+.flex-item2 {
+    width: 50%;
+    margin: 20px;
+    text-align: justify;
+    vertical-align: middle;
+}
+
 
 .research-section {
 vertical-align: middle;
@@ -25,7 +54,7 @@ padding: 5% 0;
 img.research-img {
   width: 450px;
   max-width: 100%;
-  padding: 10px;
+  padding: 40px;
 }
 
 img.home-logo {

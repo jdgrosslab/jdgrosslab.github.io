@@ -19,12 +19,17 @@ group: research
 {% capture thecycle %}{% cycle 'left', 'right' %}{% endcapture %}
 
 <div class="research-section">
-  <img class="research-img {{thecycle}} responsive-img" src = "{{site.baseurl}}{{research.image}}" alt = "Descriptive Figure">
+
+<img class="research-img {{thecycle}} responsive-img" src = "{{site.baseurl}}{{research.image}}" alt = "Descriptive Figure">
+
+<div class="research-text">
+
   <h5 class="header"><a class="cyan-text lighten-1">{{research.title}}</a></h5>
   <p>{{research.body | markdownify}}</p> 
 
-
 </div>
+</div>
+
 <div class="divider" style="clear: both;"></div>
 {% endfor %}
 
