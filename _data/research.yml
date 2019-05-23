@@ -6,10 +6,11 @@
     <br>
   image: /static/img/decapping_cartoon2.png
 
-- title: Structural biology of HIV-host protein complexes
+- title: Host-pathogen conflicts
   
   body: |
-    Many viral pathogens co-evolve with host organisms to persist in spite of host immune defenses. As part of the HARC Center at UCSF, our lab is studying how viral HIV proteins interact with human host proteins to cause infection and disease. We are deconstructing the intermolecular interactions between viral immunomodulatory proteins and host proteins at the molecular level to improve our understanding of both host immunity and viral pathogenesis, and to aid in the development of new classes of antiviral therapeutics. **[Learn more](HIV)** 
+    We are interested in how viruses suppress innate immunity and how hosts escape suppression during evolution. By combining biochemistry, structural biophysics and viral genetics we seek to bridge the gap between how subtle changes in primary sequence effect protein interactions that determine whether host or virus survives.  This work is significant because it could inform upon antiviral therapies and explain how viruses cross species giving rise to pandemics such as AIDS.
+ **[Learn more](HIV)** 
     <br>
     <br>
   image: /static/img/JM-vif-img.png
