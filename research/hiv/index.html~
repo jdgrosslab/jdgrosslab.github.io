@@ -1,0 +1,24 @@
+---
+title: Research
+layout: parallaxbanner
+banner: /static/img/infectivity2.jpg
+group: decapping
+---
+
+
+
+{% for decapping in site.data.decapping %}
+
+
+
+<div id="flex-container">
+
+	<div class="flex-item1"> <img class="researchflex-img responsive-img" src = "{{site.baseurl}}{{decapping.image}}" alt = "Dcp2 Descriptive Figure"> <br> <i>{{decapping.caption | markdownify}}</i> </div>
+
+	<div class="flex-item2"> <h5 class="header"><a class="cyan-text lighten-1">{{decapping.title}}</a></h5> <p style="text-indent:40px">{{decapping.body | markdownify}}</p> </div>
+
+</div>
+
+{% endfor %}
+
+

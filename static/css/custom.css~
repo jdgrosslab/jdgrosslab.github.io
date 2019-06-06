@@ -54,7 +54,7 @@ padding: 5% 0;
 img.research-img {
   width: 450px;
   max-width: 100%;
-  padding: 20px;
+  padding: 40px;
 }
 
 img.home-logo {
@@ -64,7 +64,7 @@ img.home-logo {
 
 
 img.member-photo {
-  width: 100px;
+  width: 200px;
   
   -webkit-filter: grayscale(0%); 
   filter: grayscale(0%);
