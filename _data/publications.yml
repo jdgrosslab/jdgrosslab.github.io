@@ -1,6 +1,12 @@
+- title: HP1 reshapes the nucleosome core to promote phase separation of heterochromatin
+  authors: Sanulli S, Trnka MJ, Dharmarajan V, Tibble RW, Burlingame AL, Griffin PR, Gross JD, Narlikar GJ
+  journal: Nature, accepted
+  num: 66
+  
 - title: ARIH2 is a Vif-dependent regulator of CUL5-mediated APOBEC3G degradation in HIV infection
   authors: Huttenhain R, Xu J, Burton LA, Gordon D, Hultquist JF, Johnson JR, Satkamp L, Hiatt J, Rhee DY, Baek K, Crosby DC, Frankel   AD, Marson A, Harper WJ, Alpi AF, Schulman BA, Gross JD, Krogan NJ
-  journal: Cell Host and Microbe, in press
+  journal: Cell Host and Microbe, 2019
+  pmid: 31253590
   num: 65
   
 - title: Conformational dynamics of the HIV-Vif protein complex
