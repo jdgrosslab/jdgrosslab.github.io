@@ -1,16 +1,34 @@
+- title: Biomolecular condensates amplify mRNA decapping by couplings protein interactions with conformational changes in Dcp1/Dcp2
+  authors: Tibble RW, Depaix A, Kowalska J, Jemielity J, Gross JD
+  journal: bioRxiv doi: https://doi.org/10.1101/2020.07.09.195057, 2020
+  num: 71
+- title: Pat1 increases the range of decay factors and RNA bound by the Lsm1-7 complex
+  authors: Lobel JH, Gross JD
+  journal: RNA, 2020
+  pmid: 325136655
+  num: 70
+- title: Biophysical Properties of HP1-Mediated Heterochromatin
+  authors: Sanulli S, Gross JD, Narlikar GJ
+  journal: Cold Spring Harbor Symposia on Quantitative Biology, 2019
+  pmid: 32493764
+  num: 69
+  
 - title: Structural basis for a species-specific determinant of an SIV Vif protein towards hominid APOBEC3G antagonism
   authors: Binning J, Chesarino N, Emerman M, Gross JD
-  journal: Cell Host and Microbe, in press
+  journal: Cell Host and Microbe, 2019 
+  pmid: 31830442
   num: 68
   
 - title: Pat1 activates late steps in mRNA decay by multiple mechanisms
   authors: Lobel J, Tibble RW, Gross JD
-  journal: Proceedings of the National Academy of Sciences, in press
+  journal: Proceedings of the National Academy of Sciences, 2019
+  pmid: 31690658
   num: 67
   
 - title: HP1 reshapes the nucleosome core to promote phase separation of heterochromatin
   authors: Sanulli S, Trnka MJ, Dharmarajan V, Tibble RW, Burlingame AL, Griffin PR, Gross JD, Narlikar GJ
-  journal: Nature, in press
+  journal: Nature, 2019
+  pmid: 31618757
   num: 66
   
 - title: ARIH2 is a Vif-dependent regulator of CUL5-mediated APOBEC3G degradation in HIV infection
