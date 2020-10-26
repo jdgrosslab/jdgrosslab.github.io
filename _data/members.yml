@@ -25,12 +25,12 @@
   interest: Structural studies of host-virus protein interactions.
   background: PhD, Tsinghua University. Structural biology of cytokine and receptor complex.
 
-- name: Joe Lobel
-  image: /static/img/people/joe.jpg
+- name: Leandrew Dailey
+  image: /static/img/people/Leandrew.jpg
   position: Graduate Student <br> **[Chemistry & Chemical Biology](https://ccb.ucsf.edu)**
-  email: joseph.lobel@ucsf.edu
-  interest: Mechanisms of 5’-3’ mRNA decay.
-  background: BA, Hamilton College, NY.
+  email: Leandrew.Dailey@ucsf.edu
+  interest: Mechanisms of primate lentivirus cross-species transmision.
+  background: BS, Chemistry-Biochemistry concentration, Fort Lewis College.
 
 - name: Jessica Peters, PhD
   image: /static/img/people/jessie.jpg
@@ -38,13 +38,6 @@
   email: jessica.peters@ucsf.edu
   interest: Host-virus protein interactions.
   background: PhD, UC San Diego. Structural and functional studies of RNA splicing.
-
-- name: Serena Sanulli, PhD
-  image: /static/img/people/serena-2.jpg
-  position: Postdoctoral Scholar
-  email: serena.sanulli@ucsf.edu
-  interest: Chromatin dynamics and silencing.
-  background: PhD, Institut Curie. Regulation of the PRC2 complex by cofactors.
 
 - name: Ryan Tibble
   image: /static/img/people/ryan.jpg
