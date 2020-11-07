@@ -13,7 +13,7 @@
     <br>
     <br>
   image: /static/img/RCM_Graphical_Abstract_v2h.jpg
-
+        height: 500px
 - title: Nucleosome dynamics 
   
   body: |
