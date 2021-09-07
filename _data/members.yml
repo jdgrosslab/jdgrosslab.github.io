@@ -3,6 +3,20 @@
   position: Professor, Principal Investigator
   email: jdgross@cgl.ucsf.edu
   interest: Protein-protein and protein-nucleic acid interactions in the control of eukaryotic gene expression and HIV infection.
+  
+- name: Trase Aguigam
+  image: /static/img/people/trase.jpg
+  position: Graduate Student <br> **[Tetrad Program](https://tetrad.ucsf.edu)**
+  email: Trase.Aguigam@ucsf.edu
+  interest: Chromatin, RNA and biological condensates.
+  background: BS, UC Los Angeles. Chromatin and transcriptional regulation.
+
+- name: Leandrew Dailey
+  image: /static/img/people/leandrew.jpg
+  position: Graduate Student <br> **[Chemistry & Chemical Biology](https://ccb.ucsf.edu)**
+  email: Leandrew.Dailey@ucsf.edu
+  interest: Mechanisms of primate lentivirus cross-species transmision.
+  background: BS, Chemistry-Biochemistry concentration, Fort Lewis College.
 
 - name: Victor Lam
   image: /static/img/people/victor.jpg
@@ -25,13 +39,6 @@
   interest: Structural studies of host-virus protein interactions.
   background: PhD, Tsinghua University. Structural biology of cytokine and receptor complex.
 
-- name: Leandrew Dailey
-  image: /static/img/people/leandrew.jpg
-  position: Graduate Student <br> **[Chemistry & Chemical Biology](https://ccb.ucsf.edu)**
-  email: Leandrew.Dailey@ucsf.edu
-  interest: Mechanisms of primate lentivirus cross-species transmision.
-  background: BS, Chemistry-Biochemistry concentration, Fort Lewis College.
-
 - name: Jessica Peters, PhD
   image: /static/img/people/jessie.jpg
   position: Postdoctoral Scholar
@@ -39,14 +46,6 @@
   interest: Host-virus protein interactions.
   background: PhD, UC San Diego. Structural and functional studies of RNA splicing.
   
-- name: Trase Aguigam
-  image: /static/img/people/trase.jpg
-  position: Graduate Student <br> **[Tetrad Program](https://tetrad.ucsf.edu)**
-  email: Trase.Aguigam@ucsf.edu
-  interest: Chromatin, RNA and biological condensates.
-  background: BS, UC Los Angeles. Chromatin and transcriptional regulation.
-
-
 - name: Ryan Tibble
   image: /static/img/people/ryan.jpg
   position: Graduate Student <br> **[Chemistry & Chemical Biology](https://ccb.ucsf.edu)**
