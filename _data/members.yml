@@ -38,6 +38,13 @@
   email: jessica.peters@ucsf.edu
   interest: Host-virus protein interactions.
   background: PhD, UC San Diego. Structural and functional studies of RNA splicing.
+  
+ - name: Trase Aguigam
+  image: /static/img/people/trase.jpg
+  position:  Graduate Student <br> **[Tetrad Program](https://tetrad.ucsf.edu)**
+  email: trase.Aguigam@ucsf.edu
+  interest: Chromatin, mRNA decay and biological condensates.
+  background: B.S., University of California, Los Angeles. Chromatin and transcriptional regulation.
 
 - name: Ryan Tibble
   image: /static/img/people/ryan.jpg
