@@ -10,6 +10,13 @@
   email: Trase.Aguigam@ucsf.edu
   interest: Chromatin, RNA and biological condensates.
   background: BS, UC Los Angeles. Chromatin and transcriptional regulation.
+  
+- name: Gabriel Braun
+  image: /static/img/people/gabriel.jpg
+  position: Graduate Student <br> **[Chemistry & Chemical Biology](https://ccb.ucsf.edu)**
+  email: Gabriel.Braun@ucsf.edu
+  interest: RNA processing and biological condensates
+  background: BS, Haverford College, Biochemical and biophysical studies of protein and peptide self-assembly
 
 - name: Leandrew Dailey
   image: /static/img/people/leandrew.jpg
@@ -29,15 +36,22 @@
   image: /static/img/people/yenli.jpg
   position: Postdoctoral Scholar
   email: yen-li.li@ucsf.edu
-  interest: Structural studies of host-virus protein interactions.
+  interest: HIV Vif and APOBEC3.
   background: PhD, University of Utah. Biochemical and structural studies of host-virus protein interactions.
 
 - name: Xi Liu, PhD
   image: /static/img/people/xi.jpg
   position: Postdoctoral Scholar
   email: xi.liu@ucsf.edu
-  interest: Structural studies of host-virus protein interactions.
+  interest: Innate Immunity.
   background: PhD, Tsinghua University. Structural biology of cytokine and receptor complex.
+  
+- name: Estelle Ronayne
+  image: /static/img/people/estelle.jpg
+  position: Graduate Student <br> **[Biophysics](https://biophysics.ucsf.edu)**
+  email: Estelle.Ronayne@ucsf.edu
+  interest: Pathogens and hijack of the ubiquitin proteolysis pathway.
+  background: BS/BA, Western Washington University, Structural characterization of factor VIII and an antibody inhibitor
   
 
 
