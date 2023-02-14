@@ -1,6 +1,31 @@
+- title: The structural basis of HIV-1 Vif antagonism of human APOBEC3G.
+  authors: Li YL, Langley CA, Azumaya CM, Echeverria I, Chesarino NM, Emerman M, Cheng Y, Gross JD
+  journal: Nature, 2023
+  pmid: 36754086
+  num: 77
+  
+- title: A call to order: Examining structured domains in biomolecular condensates.
+  authors: Tibble RW, Gross JD
+  journal: Journal of Magnetic Resonance, 2023
+  pmid: 36657879
+  num: 76
+  
+- title: SIRT5 is a proviral factor that interacts with SARS-CoV-2 Nsp14 protein.
+  authors: Walter M, Chen IP, Vallejo-Gracia A, Kim IJ, Bielska O, Lam VL, Hayashi JM, Cruz A, Shah S, Soveg FW, Gross JD, Krogan NJ, Jerome KR, Schilling B, Ott M, Verdin E
+  journal: PLoS Pathogens, 2022
+  pmid: 36095012
+  num: 75
+  
+- title: Fluorescence-Based Activity Screening Assay Reveals Small Molecule Inhibitors of Vaccinia Virus mRNA Decapping Enzyme D9.
+  authors: Bednarczyk M, Peters JK, Kasprzyk R, Starek J, Warminski M, Spiewla T, Mugridge JS, Gross JD, Jemielity J, Kowalska J
+  journal: ACS Chemical Biology, 2022
+  pmid: 35576528
+  num: 74
+  
 - title: Structure of the poxvirus decapping enzyme D9 reveals its mechanism of cap recognition and catalysis
   authors: Peters JK, Tibble RW, Warminski M, Jemielity J, Gross JD
-  journal: Structure, in press
+  journal: Structure, 2022
+  pmid: 35290794
   num: 73
   
 - title: Biomolecular condensates amplify mRNA decapping by biasing enzyme conformation
