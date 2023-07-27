@@ -14,10 +14,10 @@ group: opportunities
 <br>
 ### Postdoctoral Positions
 
-##### <a class="cyan-text lighten-1">Position in host-virus interactions </a>
-We seek to understand the structural basis of how viruses suppress host innate immunity and how these interactions change over evolutionary time. Systems of interest include pox viruses and primate lentiviruses such as HIV. Applicants will have expertise in heterologous protein expression in eukaryotic cells, protein purification and either X-ray crystallography or electron microscopy. Our lab is part of the NIH funded **[HARC center](https://harc.ucsf.edu/)** and the **[UCSF Macromolecular Structure Group](http://www.msg.ucsf.edu/)**. The opportunity to integrate evolutionary analysis with structure, biochemistry, and molecular virology is strong.
+##### <a class="cyan-text lighten-1">Position to study regulation of enzymes in biological condensates </a>
+A post-doctoral position is available to study how molecular composition affects rates of enzyme-catalyzed reactions in biological condensates.  Questions of ongoing interest are: 1-how does liquid-liquid phase separation repress enzyme activity, contrary to popular models of local concentration effects? 2- how do intrinsically disordered regions and their binding proteins re-wire condensates from a repressed to an active state? 3-how does the transfer of short linear interaction motifs during evolution from yeast to humans impact condensate function? 4-how condensate interactions occur on the mesoscale coupled to enzyme active site geometry at the Angstrom scale?    Candidates should have or expect a Ph.D. and should have demonstrated achievements in the biophysics of proteins and RNA. Expertise using NMR spectroscopy or X-ray crystallography to study the dynamics and structure of proteins is desirable.  
 
-Applications materials, including CV and contact information for three references should be sent to:
+Applications materials, including CV and contact information for three references, should be sent to:
 
 jdgrosslab@gmail.com
 
