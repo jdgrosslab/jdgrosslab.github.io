@@ -1,25 +1,22 @@
-- title: Control of mRNA stability by protein-protein interactions
+- title: Resolving the ancient origins of HIV-1
   
   body: |
-    The regulation of eukaryotic mRNA degradation plays a crucial role in many biological processes such as development, stress response, and gene expression. One major pathway used to control cellular mRNA stability is 5’-to-3’ mRNA decay, which requires removal of the protective 5’-terminal N7-methyl-guanosine (m7G) cap found on all eukaryotic mRNA. Hydrolysis of the m7G cap is catalyzed by the decapping enzyme Dcp2, in complex with the essential activator Dcp1 and decapping coactivators such as Edc1-4, Pat1/Lsm1-7, and Dhh1. Protein-protein interactions with coactivators modulate decapping activity and target the dynamic, multiprotein decapping complex to specific mRNA features and mRNA decay pathways. The decapping complex plays a key role in the control of RNA stability during deadenylation-dependent decay, nonsense-mediated decay, and microRNA-mediated decay. However, we lack a structure-level understanding of how decapping coactivators tune decapping activity on RNA and link decapping to cellular processes like 3’ deadenylation and translation by the ribosome. 
-   
-  image: /static/img/Figure1-decay-pathway.png
+    APOBEC3 family members are powerful restriction factors that dominantly block retroviral replicaiton by hyperediting cDNA as it synthesized by reverse-transcription. Primate lentiviral Vif targets APOBEC3 family members for degradation by the 26S proteasome.  Over millions of years of primate evolution, APOBEC3 family members undergo diversifying selection to escape antagonism by Vif, thereby limiting the host range of primate lentiviruses. However, lentiviral Vif adapts to re-establish infection. Our lab is interested in how these molecular arms races play out at the molecular level and we combine biochemistry and structural biology with viral genetics and evolutionary analysis to better understand the physical manifestation of genetic conflicts.
+  image: /static/img/HIV-1-origins.png
 
   width: 400px
 
-  caption: Major steps in the 5’-3’ RNA decay pathway.
+  caption: APOBEC3 family members act as barriers to cross-species transmission of primate lentiviruses.
 
 
 - title: 
   
   body: |
-    Our lab combines a broad selection of experimental techniques that include NMR spectroscopy, X-ray crystallography, small-angle X-ray scattering, fluorescence anisotropy, in vitro decapping kinetics, and yeast genetics, in order to understand the links between the structure and conformation of the decapping complex with its cellular functions. Recent work in the Gross Lab has shown how Dcp2 uses a composite active site to bind and recognize the 5’ cap substrate and how Edc1-like coactivators accelerate catalysis by stabilizing the active conformation of the decapping complex (**[Mugridge et al Nat. Commun. 2018](https://doi.org/10.1038/s41467-018-03536-x)**). We have also recently shown that the disordered C-terminal tail of yeast Dcp2 contains motifs that autoinhibit decapping activity and that decapping coactivators that bind within the C-terminal tail can alleviate this autoinhibition to turn on decapping (**[Paquette et al Nucleic Acids Res. 2018](https://doi.org/10.1093/nar/gky233)**). We propose a model for regulation of mRNA decapping activity in which: (1) the Dcp1/Dcp2 decapping complex exists in an inactive, autoinhibited conformation in the absence of coactivators and substrate; (2) coactivators engage the decapping complex to alleviate autoinhbition and recruit the active decapping complex to target mRNA transcripts; and (3) coactivators promote conformational change into the active conformation of Dcp2 that uses a composite active site to catalyze cap cleavage. Building on this model, we are currently working to understand the structural and molecular mechanisms that link activation of 5’ end decapping to 3’ end deadenylation.
-   
-  image: /static/img/Figure5-decapping-overview.png
+    Vif hijacks a ubiquitin E3 ligase to antagonize APOBEC3 family members. We have recently determined a 2.8 Angstrom resolution cryoEM structure of human APOBEC3G bound to HIV-1 Vif.  Unexpectedly, we discovered an RNA molecule acts as a molecular glue for the Vif-A3G interaction. An essential step for retroviral restriction is binding to genomic RNA for encapsidation, so that APOBEC3 can be near cDNA as it emerges from the reverse transcription complex.  We hypothesize that HIV-1 Vif antagonizes APOBEC3G in its most dangerous form for the virus: 
+  image: /static/img/Vif-A3G-cryoEM.png
 
   width: 500px
 
-  caption: (a) Structure of the Edc1-Dcp1-Dcp2-Edc3 decapping complex in the active conformation with 5’ cap analog bound in the composite active site. (b) Coactivator Edc1 generates a 4-way protein-protein interaction to stabilize the active conformation and accelerate decapping. (c) Coactivators engage the disordered C-terminus of Dcp2 to alleviate autoinhibition and promote decapping.
-
+  caption: cryoEM structure of A3G and RNA bound to Vif and host proteins CBFbeta, Elongin B and Elongin C 
 
 
