@@ -1,12 +1,12 @@
 - title: The molecular arms race between primate APOBEC3G and lentiviral Vif
   
-  body: APOBEC3 family members are powerful restriction factors that dominantly block retroviral replication by hyperediting cDNA as it synthesized by reverse-transcription. Primate lentiviral Vif targets APOBEC3 family members for degradation by the 26S proteasome.  Over millions of years of primate evolution, APOBEC3 family members undergo diversifying selection to escape antagonism by Vif, thereby limiting the host range of primate lentiviruses. However, lentiviral Vif adapts to re-establish infection. Our lab is interested in how these molecular arms races play out at the molecular level and we combine biochemistry and structural biology with viral genetics and evolutionary analysis to better understand the physical manifestation of genetic conflicts.
+  body: 
     
   image: /static/img/Vif-A3G-cartoon.png
 
-  width: 500px
+  width: 1000px
 
-  caption: Model for viral restriction by A3G and antagonism by HIV Vif hijack of ubiquitin proteasome system.
+  caption: Model for viral restriction by A3G and antagonism by HIV Vif hijack of ubiquitin proteasome system. APOBEC3 family members are powerful restriction factors that dominantly block retroviral replication by hyperediting cDNA as it synthesized by reverse-transcription. Primate lentiviral Vif targets APOBEC3 family members for degradation by the 26S proteasome.  Over millions of years of primate evolution, APOBEC3 family members undergo diversifying selection to escape antagonism by Vif, thereby limiting the host range of primate lentiviruses. However, lentiviral Vif adapts to re-establish infection. Our lab is interested in how these molecular arms races play out at the molecular level and we combine biochemistry and structural biology with viral genetics and evolutionary analysis to better understand the physical manifestation of genetic conflicts.
 
 
 - title: 
