@@ -1,7 +1,7 @@
 - title: The molecular arms race between primate APOBEC3G and lentiviral Vif
   
   body: |
-    APOBEC3 family members are powerful restriction factors that dominantly block retroviral replicaiton by hyperediting cDNA as it synthesized by reverse-transcription. Primate lentiviral Vif targets APOBEC3 family members for degradation by the 26S proteasome.  Over millions of years of primate evolution, APOBEC3 family members undergo diversifying selection to escape antagonism by Vif, thereby limiting the host range of primate lentiviruses. However, lentiviral Vif adapts to re-establish infection. Our lab is interested in how these molecular arms races play out at the molecular level and we combine biochemistry and structural biology with viral genetics and evolutionary analysis to better understand the physical manifestation of genetic conflicts.
+    APOBEC3 family members are powerful restriction factors that dominantly block retroviral replication by hyperediting cDNA as it synthesized by reverse-transcription. Primate lentiviral Vif targets APOBEC3 family members for degradation by the 26S proteasome.  Over millions of years of primate evolution, APOBEC3 family members undergo diversifying selection to escape antagonism by Vif, thereby limiting the host range of primate lentiviruses. However, lentiviral Vif adapts to re-establish infection. Our lab is interested in how these molecular arms races play out at the molecular level and we combine biochemistry and structural biology with viral genetics and evolutionary analysis to better understand the physical manifestation of genetic conflicts.
   image: /static/img/Vif-A3G-cartoon.png
 
   width: 400px
@@ -12,7 +12,7 @@
 - title: 
   
   body: |
-    Vif hijacks a ubiquitin E3 ligase to antagonize APOBEC3 family members. We have recently determined a 2.8 Angstrom resolution cryoEM structure of human APOBEC3G bound to HIV-1 Vif.  Unexpectedly, we discovered an RNA molecule acts as a molecular glue for the Vif-A3G interaction. An essential step for retroviral restriction is binding to genomic RNA for encapsidation, so that APOBEC3 can be near cDNA as it emerges from the reverse transcription complex.  We hypothesize that HIV-1 Vif antagonizes APOBEC3G in its most dangerous form for the virus: 
+    Vif hijacks a ubiquitin E3 ligase to antagonize APOBEC3 family members. We have recently determined a 2.8 Angstrom resolution cryoEM structure of human APOBEC3G bound to HIV-1 Vif.  Unexpectedly, we discovered an RNA molecule acts as a molecular glue for the Vif-A3G interaction. An essential step for retroviral restriction is binding to genomic RNA for encapsidation, so that APOBEC3 can be near cDNA as it emerges from the reverse transcription complex.  We hypothesize that HIV-1 Vif antagonizes APOBEC3G in its most dangerous form for the virus. 
   image: /static/img/Vif-A3G-cryoEM.png
 
   width: 500px
