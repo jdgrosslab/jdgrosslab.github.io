@@ -2,11 +2,11 @@
   
   body: |
     APOBEC3 family members are powerful restriction factors that dominantly block retroviral replicaiton by hyperediting cDNA as it synthesized by reverse-transcription. Primate lentiviral Vif targets APOBEC3 family members for degradation by the 26S proteasome.  Over millions of years of primate evolution, APOBEC3 family members undergo diversifying selection to escape antagonism by Vif, thereby limiting the host range of primate lentiviruses. However, lentiviral Vif adapts to re-establish infection. Our lab is interested in how these molecular arms races play out at the molecular level and we combine biochemistry and structural biology with viral genetics and evolutionary analysis to better understand the physical manifestation of genetic conflicts.
-  image: /static/img/HIV-1-origins.png
+  image: /static/img/Vif-A3G-cartoon.png
 
   width: 400px
 
-  caption: APOBEC3 family members act as barriers to cross-species transmission of primate lentiviruses.
+  caption: Model for viral restriction by A3G and antagonism by HIV Vif hijack of ubiquitin proteasome system.
 
 
 - title: 
