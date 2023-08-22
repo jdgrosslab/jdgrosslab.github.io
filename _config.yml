@@ -1,7 +1,7 @@
 name: "JD Gross Lab"
 description: "JD Gross Lab at UCSF"
 baseurl: ""
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 10
 paginate_path: "blog/page:num"
 excerpt_separator: <!--more-->
