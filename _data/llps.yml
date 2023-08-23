@@ -3,7 +3,7 @@
   body: |
     The regulation of eukaryotic mRNA degradation plays a crucial role in many biological processes such as development, stress response, and gene expression. One major pathway used to control cellular mRNA stability is 5’-to-3’ mRNA decay, which requires removal of the protective 5’-terminal N7-methyl-guanosine (m7G) cap found on all eukaryotic mRNA. Hydrolysis of the m7G cap is catalyzed by the decapping enzyme Dcp2, in complex with the essential activator Dcp1 and decapping coactivators such as Edc1-4, Pat1/Lsm1-7, and Dhh1. Protein-protein interactions with coactivators modulate decapping activity and target the dynamic, multiprotein decapping complex to specific mRNA features and mRNA decay pathways. The decapping complex plays a key role in the control of RNA stability during deadenylation-dependent decay, nonsense-mediated decay, and microRNA-mediated decay. However, we lack a structure-level understanding of how decapping coactivators tune decapping activity on RNA and link decapping to cellular processes like 3’ deadenylation and translation by the ribosome. 
    
-  image: /static/img/llps-graph-abstract.webp
+  image: /static/img/llps-graphic.webp
   width: 400px
 
   caption:  Model of how liquid-liquid phase separation imparts emergent biological properties by conformational selection.
