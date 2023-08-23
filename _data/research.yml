@@ -1,25 +1,27 @@
-   - title: mRNA decapping
+- title: Resolving the ancient origins of HIV-1
   
   body: |
-    The regulated destruction of mRNA transcripts plays an important role in controlling cellular gene expression. A critcal step in the 5'-3' mRNA decay pathway is removal of the protective 5' cap by the dynamic, multiprotein decapping complex, which commits the transcript to rapid degradation. Our lab is developing a structural-level understanding of how the decapping complex catalyzes mRNA cap cleavage and how decapping activity is activated and regulated by protein-protein interactions to control mRNA stability. **[Learn more](decapping)** 
+    We are interested in how viruses suppress innate immunity and how hosts escape suppression during evolution. By combining biochemistry, structural biophysics and viral genetics we seek to bridge the gap between how subtle changes in primary sequence affect protein interactions that determine whether host or virus survives. We study the host-pathogen conflict between the lentiviral protein Vif and host antiviral APOBEC3 family members.  This work is significant because it could inform upon antiviral therapies and explain how viruses cross species giving rise to pandemics such as AIDS. **[Learn more](hiv)** 
+    <br>
+    <br>
+  image: /static/img/HIV-1-origins3.png
+  
+- title: Regulation of 5'-3' mRNA decay
+  
+  body: |
+    The regulated destruction of mRNA transcripts plays an important role in controlling cellular gene expression. Like protein degradation, RNA decay pathways are hijacked during viral infection. A critcal step in the 5'-3' mRNA decay pathway is removal of the protective 5' cap by the dynamic, multiprotein decapping complex, which commits the transcript to rapid degradation. Our lab is developing a **[structural-level understanding](decapping)** of how the decapping complex catalyzes mRNA cap cleavage ; how decapping activity is regulated by protein-protein interactions; and how 5'-3' decay pathways is hijacked by viruses. Additionally, we are investigating how liquid-liquid phase separation provides an additional layer of regulation. **[Learn more](llps)**
     <br>
     <br>
   image: /static/img/Parker-fig1.webp
   
-   - title: Resolving the ancient origins of HIV-1
-  
-  body: |
-    We are interested in how viruses suppress innate immunity and how hosts escape suppression during evolution. By combining biochemistry, structural biophysics and viral genetics we seek to bridge the gap between how subtle changes in primary sequence affect protein interactions that determine whether host or virus survives. We study the host-pathogen conflict between the lentiviral protein Vif and host antiviral APOBEC3 family members.  This work is significant because it could inform upon antiviral therapies and explain how viruses cross species giving rise to pandemics such as AIDS. **[Learn more](hiv)**
-    <br>
-    <br>
-  image: /static/img/HIV-1-origins.png
+
        
-- title: Nucleosome dynamics 
+#- title: Nucleosome dynamics 
   
-  body: |
-    Until recently, long-standing models for chromatin structure described histones as rigid Lego blocks that fit together within the nucleosome core. Recent observations from the Gross and Narlikar laboratories have challenged this paradigm, suggesting that the nucleosome core is more plastic than previously proposed. In collaboration with the Narlikar lab we are exploring the dynamics and conformational changes of the nucleosome core particle to understand how chromatin interacting proteins affect nucleosome structure and dynamics to control gene expression. Learn more - coming soon. 
-    <br>
-    <br>
-  image: /static/img/JM-nuc-img.jpg
+ # body: |
+  #  Until recently, long-standing models for chromatin structure described histones as rigid Lego blocks that fit together within the nucleosome core. Recent observations from the Gross and Narlikar laboratories have challenged this paradigm, suggesting that the nucleosome core is more plastic than previously proposed. In collaboration with the Narlikar lab we are exploring the dynamics and conformational changes of the nucleosome core particle to understand how chromatin interacting proteins affect nucleosome structure and dynamics to control gene expression. Learn more - coming soon. 
+  #  <br>
+  #  <br>
+  #image: /static/img/JM-nuc-img.jpg
    
 

@@ -1,0 +1,29 @@
+---
+title: Research - mRNA decapping
+layout: parallaxbanner
+banner: /static/img/infectivity2.jpg
+group: decapping
+---
+
+
+
+{% for decapping in site.data.decapping %}
+{% capture thecycle %}{% cycle 'left', 'right' %}{% endcapture %}
+
+<div class="research-section">
+
+<img class="research-img {{thecycle}} responsive-img" src = "{{site.baseurl}}{{decapping.image}}" alt = "Dcp2 Descriptive Figure">
+
+
+<div class="research-text">
+
+  <h5 class="header"><a class="cyan-text lighten-1">{{decapping.title}}</a></h5>
+  <p>{{decapping.body | markdownify}}</p> 
+
+</div>
+</div>
+
+<div class="divider" style="clear: both;"></div>
+{% endfor %}
+
+
