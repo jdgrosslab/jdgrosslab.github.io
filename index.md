@@ -10,7 +10,7 @@ group: home
 <br>
 #### Welcome to the JD Gross lab at the **[University of California, San Francisco](http://www.ucsf.edu/)**    
 <br>
-#### <i> Our lab studies the molecular structure and dynamics of human and viral proteins to understand how they interact, control cellular function, and cause disease. </i>
+#### <i> We study the biochemistry and biophysics of RNA, ubiquitin and viruses. </i>
 <br>
 
 
