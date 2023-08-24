@@ -10,7 +10,7 @@ group: home
 <br>
 #### Welcome to the JD Gross lab at the **[University of California, San Francisco](http://www.ucsf.edu/)**    
 <br>
-#### <i> We study the biochemistry and biophysics of RNA, ubiquitin and viruses. </i>
+#### <i> We study intersections of RNA, ubiquitin and viruses. </i>
 <br>
 
 
