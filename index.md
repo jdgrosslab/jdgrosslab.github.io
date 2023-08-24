@@ -10,7 +10,7 @@ group: home
 <br>
 #### Welcome to the JD Gross lab at the **[University of California, San Francisco](http://www.ucsf.edu/)**    
 <br>
-#### <i> Our lab uses tools from structural biology, biophysics, and biochemistry to understand how protein-protein and protein-nucleic acid interactions control cellular function and cause disease. </i>
+#### <i> Our lab studies the molecular structure and dynamics of human and viral proteins to understand how they interact, control cellular function, and cause disease. </i>
 <br>
 
 

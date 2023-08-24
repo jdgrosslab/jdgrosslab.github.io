@@ -9,10 +9,11 @@
 - title: Regulation of 5'-3' mRNA decay
   
   body: |
-    The regulated destruction of mRNA transcripts plays an important role in controlling cellular gene expression. Like protein degradation, RNA decay pathways are hijacked during viral infection. A critcal step in the 5'-3' mRNA decay pathway is removal of the protective 5' cap by the dynamic, multiprotein decapping complex, which commits the transcript to rapid degradation. Our lab is developing a **[structural-level understanding](decapping)** of how the decapping complex catalyzes mRNA cap cleavage ; how decapping activity is regulated by protein-protein interactions; and how 5'-3' decay pathways is hijacked by viruses. Additionally, we are investigating how liquid-liquid phase separation provides an additional layer of regulation. **[Learn more](llps)**
+    The regulated destruction of mRNA transcripts plays an important role in controlling cellular gene expression. Like protein degradation, RNA decay pathways are hijacked during viral infection. A critcal step in the 5'-3' mRNA decay pathway is removal of the protective 5' cap by the dynamic, multiprotein decapping complex, which commits the transcript to rapid degradation. Our lab is developing a **[structural-level understanding](decapping)** of how the decapping complex catalyzes mRNA cap cleavage ; how decapping activity is regulated by protein-protein interactions; and how 5'-3' decay pathways are hijacked by viruses. We are also investigating how liquid-liquid phase separation provides an additional layer of regulation. **[Learn more](llps)**
     <br>
     <br>
-  image: /static/img/Parker-fig1.webp
+  image: /static/img/Parker-fig1-credit.webp
+ 
   
 
        
