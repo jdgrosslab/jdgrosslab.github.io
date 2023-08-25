@@ -1,24 +1,24 @@
 ---
-title: Research - mRNA decapping
+title: Research
 layout: parallaxbanner
 banner: /static/img/infectivity2.jpg
-group: decapping
+group: llps
 ---
 
 
 
-{% for decapping in site.data.decapping %}
+{% for llps in site.data.llps %}
 {% capture thecycle %}{% cycle 'left', 'right' %}{% endcapture %}
 
 <div class="research-section">
 
-<img class="research-img {{thecycle}} responsive-img" src = "{{site.baseurl}}{{decapping.image}}" alt = "Dcp2 Descriptive Figure">
+<img class="research-img {{thecycle}} responsive-img" src = "{{site.baseurl}}{{llps.image}}" alt = "llps Descriptive Figure">
 
 
 <div class="research-text">
 
-  <h5 class="header"><a class="cyan-text lighten-1">{{decapping.title}}</a></h5>
-  <p>{{decapping.body | markdownify}}</p> 
+  <h5 class="header"><a class="cyan-text lighten-1">{{llps.title}}</a></h5>
+  <p>{{llps.body | markdownify}}</p> 
 
 </div>
 </div>

@@ -16,12 +16,6 @@ group: home
 
 
 
-<div class="center">
-<br>
-<a class="twitter-timeline" data-chrome="nofooter noborders" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/JDGrossLab?ref_src=twsrc%5Etfw">Tweets by JDGrossLab</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br><br>
-</div>
 
 
 <div class="divider"></div>
