@@ -1,0 +1,12 @@
+title: news
+layout: parallaxbanner
+banner: /static/img/UCSF_GHstairs.jpg
+group: news
+---
+
+<div class="center">
+<br>
+<a class="twitter-timeline" data-chrome="nofooter noborders" data-width="600" data-height="600" data-theme="light" href="https://twitter.com/JDGrossLab?ref_src=twsrc%5Etfw">Tweets by JDGrossLab</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br><br>
+</div>
