@@ -29,7 +29,7 @@ group: home
 
 <div class="col s6 m6 center">
 <img class="home-logo" src='/static/img/HARC.gif' alt="HARC"> 
-<br> **[HIV Asccesory & Regulatory Complexes Center](https://harc.ucsf.edu/)** 
+<br> **[HIV Accessory & Regulatory Complexes Center](https://harc.ucsf.edu/)** 
 </div>
 
 </div>
