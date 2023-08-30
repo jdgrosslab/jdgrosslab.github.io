@@ -1,7 +1,7 @@
 ---
 title: JD Gross Lab<br>@<br>UCSF
 layout: parallaxbanner
-banner: '/static/img/UCSF_MBsunrise.jpg'
+banner: '/static/img/HIVanimation-A3mutations.png'
 group: home
 ---
 
