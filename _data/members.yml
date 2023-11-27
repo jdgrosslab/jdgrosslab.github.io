@@ -50,14 +50,14 @@
   image: /static/img/people/Rachel.jpg
   position: SRA2, lab manager
   email: Rachel.Nealon@ucsf.edu
-  interest: Biochemistry and biophysics RNP assemblies.
+  interest: Biochemistry and biophysics of RNP assemblies.
   background: B.A., Bowdoin College. Time-resolved emission spectroscopy of proton transfer in condensed phases
   
 - name: Yange Niu, PhD
   image: /static/img/people/Yange.jpg
   position: Postdoctoral Scholar
   email: yange.niu@ucsf.edu
-  interest: HIV Vif and APOBEC3
+  interest: HIV Vif and APOBEC3.
   background: PhD, Peking University. Structural biology and mechanism of SGLT2 inhibitors.
 
 - name: Estelle Ronayne
