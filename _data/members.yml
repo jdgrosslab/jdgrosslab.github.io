@@ -6,7 +6,7 @@
   
 - name: Trase Aguigam
   image: /static/img/people/trase.jpg
-  position: Graduate Student <br> **[Tetrad Program](https://tetrad.ucsf.edu)**
+  position: Graduate Student (joint with Geeta Narlikar) <br> **[Tetrad Program](https://tetrad.ucsf.edu)**
   email: Trase.Aguigam@ucsf.edu
   interest: Chromatin, RNA and biological condensates.
   background: BS, UC Los Angeles. Chromatin and transcriptional regulation.
@@ -48,7 +48,7 @@
 
 - name: Rachel Nealon
   image: /static/img/people/Rachel.jpg
-  position: SRA2, lab manager
+  position: Scientific Research Associate
   email: Rachel.Nealon@ucsf.edu
   interest: Biochemistry and biophysics of RNP assemblies.
   background: B.A., Bowdoin College. Time-resolved emission spectroscopy of proton transfer in condensed phases
