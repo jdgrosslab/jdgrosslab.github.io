@@ -25,19 +25,12 @@
   interest: Enzymology of protein ubiquitination by HIV accessory proteins.
   background: BS, Chemistry-Biochemistry concentration, Fort Lewis College.
 
-- name: Victor Lam
-  image: /static/img/people/victor.jpg
-  position: Graduate Student <br> **[Tetrad Program](https://tetrad.ucsf.edu)**
-  email: victor.lam@ucsf.edu
+- name: Gracie Bitting
+  image: /static/img/people/GracieBitting.jpeg
+  position: QBI Intern
+  email: Gracie.Bitting@ucsf.edu
   interest: Biochemical mechanisms of cross-species transmission of primate lentiviruses.
-  background: BA, UT Austin. RNAi in C. elegans.
-
-- name: Yen-Li Li, PhD
-  image: /static/img/people/yenli.jpg
-  position: Postdoctoral Scholar
-  email: yen-li.li@ucsf.edu
-  interest: HIV Vif and APOBEC3.
-  background: PhD, University of Utah. Biochemical and structural studies of host-virus protein interactions.
+  background: Biophysics Major, UCLA
 
 - name: Xi Liu, PhD
   image: /static/img/people/xi.jpg
