@@ -44,7 +44,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 This is a team-based class where students work in small groups develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the [2017](/courses/methods_2017/),  [2018](/courses/methods_2018/), [2019](/courses/methods_2019), [2020](/courses/methods_2020) editions are available online.
 
-*Course expectations*: This course will likely be different from most other courses you have taken before. Our expectation is that you will maximize your learning by being an active participant - there is significant out of class work required to enable this. Many learning opportunities will arise if you are willing to take advantage of the hands on experience and from those taking time to show you interesting aspects of the various methods. Data analysis will not follow a linear path - our expectation is that you start to become confortable with unknowns and messy results. It is likely that you will encounter issues using the various scientific software required for the course - while we will help troubleshoot, navigating these challenges effectively is a core expectation that we want to see students build towrads during the course.
+*Course expectations*: This course will likely be different from most other courses you have taken before. Our expectation is that you will maximize your learning by being an active participant - there is significant out-of-class work required to enable this. Many learning opportunities will arise if you are willing to take advantage of the hands on experience and from those taking time to show you interesting aspects of the various methods. Data analysis will not follow a linear path - our expectation is that you start to become confortable with unknowns and messy results. It is likely that you will encounter issues using the various scientific software required for the course - while we will help troubleshoot, navigating these challenges effectively is a core expectation that we want to see students build towards during the course.
 
 *Ethics*: This course is more than a training experience; data analysis is part of ongoing active research projects, the results of which will be published to the broader scientific community. The community must be able to understand our work, replicate it, and have confidence in its findings. We must therefore ensure the integrity of the information we disseminate. To do so, it is essential that students perform and document their experiments and analyses as faithfully as possible. Mistakes and oversights are normal and to be expected, but they must not be ignored, concealed, or disguised. 
 
@@ -54,7 +54,7 @@ This is a team-based class where students work in small groups develop their own
 
 *Commitment to Diversity, Equity and Inclusion*: The course instructors and teaching assistants value the contributions, ideas and perspective of all students. It is our intent that students from diverse backgrounds be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. However, we also acknowledge that many of the literature examples used in this course were authored in an environment that marginalized many groups. Integrating a diverse set of experiences is important for a more comprehensive understanding of science and we strive towards that goal. Although the instructors are committed to continuous improvement of our practices and our learning environment, we value input from students and your suggestions are encouraged and appreciated. Please let the course director or program leadership know ways to improve the effectiveness of the course for you personally, or for other students or student groups. (modeled after CCB and [Brown University's Diversity & Inclusion Syllabus Statements](https://www.brown.edu/sheridan/teaching-learning-resources/inclusive-teaching/statements))
 
-## 2023 schedule
+## 2024 schedule
 
 ## TEAM ASSIGNMENTS
 
@@ -99,10 +99,10 @@ This is a team-based class where students work in small groups develop their own
 # Journal Club assignments
 - [Link](https://ucsf.box.com/s/d0wax9tfdjmvzgxqgw3425nhg1b49pnz)
 
-# Jan 8-10 - Class intro
+# Jan 6-8 - Class intro
 
-## Monday January 8
-- Course overview (AM)
+## Monday January 6
+- Course overview (JG)
 	- Introduction to instructors and TAs
  	- Structure of the class - timeline, topics covered, self-assessments
  	- Journal clubs
@@ -110,11 +110,11 @@ This is a team-based class where students work in small groups develop their own
   	- Auditing
   	- Relationship to Macro mini-quals
   	- Final writeups
-- [High-level review of thermodynamics and kinetics](https://ucsf.box.com/s/mjqxgkoi14jm51nwst54kkld9a43m85q) (AM)
-- Why study methods in biophysics? (AM)
+- Why study methods in biophysics? (JG)
+- [High-level review of thermodynamics and kinetics](https://ucsf.box.com/s/mjqxgkoi14jm51nwst54kkld9a43m85q) (JG)
 - Few minute introduction to techniques covered 
-	- Cryo-EM (KV)
-	- X-ray Crystallography (AM)
+	- Cryo-EM (DS)
+	- ML-based Structure Prediction (TG)
 	- NMR (JG)
  
 - Out of class assignment (required!)
@@ -125,15 +125,13 @@ This is a team-based class where students work in small groups develop their own
  		- [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
  		- [PyMOL]()
  		- NMRBox
-	- Signup for beamline:
- 		- Signup for [ALSHub account](https://alshub.als.lbl.gov/)
- 		- Fill out information on Google doc (link via email!)
+	
    
 - Out of class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 
 
-## Tuesday January 9
-- [An intuitive understanding of the Fourier Transform](https://docs.google.com/presentation/d/13-tG0L3H70MA232TBcsvv3pkHsm3K2sVot4vDs9Xl5E/edit#slide=id.g10a62644d57_1_0) (AM)
+## Tuesday January 7
+- [An intuitive understanding of the Fourier Transform](https://docs.google.com/presentation/d/13-tG0L3H70MA232TBcsvv3pkHsm3K2sVot4vDs9Xl5E/edit#slide=id.g10a62644d57_1_0) (JG)
 	- Waves: amplitude/intensity, phase, frequency/wavelength (and in multiple dimensions: direction/index)
 	- How to sum sine waves together: weights/amplitude - can make any periodic function!
 	- Intuitively decomposing a complex function into sine waves (Fourier transform!)
@@ -147,9 +145,6 @@ This is a team-based class where students work in small groups develop their own
  	- Understanding NMR signals as frequency domain information 
 
 - Software check the following:
-	 - coot
-	 - phenix
-	 - ccp4
 	 - chimerax
 	 - pymol
 	 - EMAN2
@@ -161,22 +156,22 @@ This is a team-based class where students work in small groups develop their own
 
 
 
-## Wednesday January 10
+## Wednesday January 8
 - [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
 	- Some past tutorials:
 		- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 		- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
 
 
-# Jan 16-24 - CryoEM - Lectures Yifan Cheng, Tutorials Klim Verba
+# Jan 13-21 - Machine-Learning based structure prediction - Tom Goddard
 
-## Monday January 15
-MLK DAY - HOLIDAY
+## Monday January 13
+###TOPIC
 
-## Tuesday January 16 
+## Tuesday January 14 
 ### [9-11: Lecture 1 from Yifan Cheng](https://ucsf.app.box.com/s/i9d1bov4b8w3x7bxac0g9wl5lupp3bgu/file/1424671681577) 
 
-## Wednesday January 17
+## Wednesday January 15
 ### Hands on practical day with David Bulkley on cryo-EM grid freezing
 - 9:00-9:10AM: Journal club 
 Meet in Genentech Hall S101 at your team's specified time.
@@ -184,7 +179,7 @@ Meet in Genentech Hall S101 at your team's specified time.
 - 9:45-10:15 AM: Teams 3&4
 - 10:20-10:50 AM: Team 5
 
-## Monday January 22 
+## Monday January 21 
 ### Hands on practical day with Klim and David on negative stain
 - 40 minutes per team
 - Upstairs is Genentech S416 with Klim Verba; Downstairs is Genentech S101 with David Bulkley
@@ -192,13 +187,11 @@ Meet in Genentech Hall S101 at your team's specified time.
 - 9:40-10:20: Team 3 with David and Team 4 with Klim
 - 10:20-11:00: Team 5 with Klim
 
-## Tuesday January 23
-### [9-11: Lecture 2 from Yifan Cheng](https://ucsf.app.box.com/s/i9d1bov4b8w3x7bxac0g9wl5lupp3bgu/file/1424668244483)
-
-## Wednesday January 24
-### KV talk about resolution metrics/validation 9-10:30, catch up on processing 10:30-11.
-
-## Reading on rigor and reproducibility in EM:
+## Tuesday January 22
+### Group Work Topic
+## Wednesday January 27
+### Group Work, Topic
+## Reading on ML-Based Structure Prediction:
 - [cisTEM paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
 - [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
 - [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
