@@ -99,7 +99,7 @@ This is a team-based class where students work in small groups develop their own
 # Journal Club assignments
 - [Link](https://ucsf.box.com/s/d0wax9tfdjmvzgxqgw3425nhg1b49pnz)
 
-# Jan 6-8 - Class intro
+# Jan 6 Class intro
 
 ## Monday January 6
 - Course overview (JG)
@@ -116,183 +116,67 @@ This is a team-based class where students work in small groups develop their own
 	- Cryo-EM (DS)
 	- ML-based Structure Prediction (TG)
 	- NMR (JG)
- 
-- Out of class assignment (required!)
-	- Watch: [A visual introduction to the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
- 	- Self assessment on [Fourier Transform and Fourier Series](https://ucsf.co1.qualtrics.com/jfe/form/SV_559sgS910WkdoN0)
-	- Software installation:
- 		- [CCP4/Phenix/ADXV/EMan2 download tutorial](https://docs.google.com/document/d/1pRA-pERFvX05yrGZcZjfugxiV5YDyrFsX64yHhcyOmw/edit#)
- 		- [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
- 		- [PyMOL]()
- 		- NMRBox
-	
-   
+	   
 - Out of class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 
 
 ## Tuesday January 7
-- [An intuitive understanding of the Fourier Transform](https://docs.google.com/presentation/d/13-tG0L3H70MA232TBcsvv3pkHsm3K2sVot4vDs9Xl5E/edit#slide=id.g10a62644d57_1_0) (JG)
-	- Waves: amplitude/intensity, phase, frequency/wavelength (and in multiple dimensions: direction/index)
-	- How to sum sine waves together: weights/amplitude - can make any periodic function!
-	- Intuitively decomposing a complex function into sine waves (Fourier transform!)
-	- [interactive website used in class for demo](http://www.jezzamon.com/fourier/) 
-	- [sin wave grapher](https://www.desmos.com/calculator/w9jrdpvsmk)	
-	- [another cool fourier thing](https://www.tomasboril.cz/fourierseries3d/en/)
-- [Fourier transform lecture](https://ucsf.box.com/s/q5mpecz93q7x0dn4s1rbgba2s50zo9l7) (JG)
-- Fourier transform in the different methods (JG/AM/KV)
-	- [Resolution](https://bl831.als.lbl.gov/~jamesh/movies/resolution.mpeg): start thinking about 3D objects like an X-ray or EM map, building intuition of more waves measured giving higher resolution
-	- Building up the MTZ (index = frequency and direction, amplitude/intensity, phase) and the concept of Nyquist frequency (why pixel size, changing values across pixels, and maximum resolution are related in EM)
- 	- Understanding NMR signals as frequency domain information 
-
-- Software check the following:
-	 - chimerax
-	 - pymol
-	 - EMAN2
-	 - NMRBox
-
-- Out of class suggested material:
-	- [Fourier Transform from Grant Jensen](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-), especially videos 14-19, focusing on the 2D and 3D Fourier Tranform ones!
-	- [Andrea Thorn intro to Crystallography series](https://www.youtube.com/watch?v=mDbmfyOGLIM&list=PLHHBmgJ8vFm6xZPlWlRGuBaoOM3OGlN5T) 
-
-
-
-## Wednesday January 8
-- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
+### 9:00-11:00am Visualizing and comparing atomic models with ChimeraX (Tom Goddard)
+	- NMR chemical shift mapping onto protein solvent accessible surface
+ 	- Please have ChimeraX 1.9 of daily build installed on your laptops
+  	- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
 	- Some past tutorials:
 		- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 		- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
-
-
-# Jan 13-21 - Machine-Learning based structure prediction - Tom Goddard
-
+## Wednesday January 8
+### 9:00-11:00am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
+	-Students, make sure you have a Wynton Account
 ## Monday January 13
-###TOPIC
+### Building atomic models in cryoEM maps using ISOLDE (Tom Goddard)
 
 ## Tuesday January 14 
-### [9-11: Lecture 1 from Yifan Cheng](https://ucsf.app.box.com/s/i9d1bov4b8w3x7bxac0g9wl5lupp3bgu/file/1424671681577) 
-
+### Deep mutational scans (Willow Coyote-Maestas)
+	-Theory
 ## Wednesday January 15
-### Hands on practical day with David Bulkley on cryo-EM grid freezing
-- 9:00-9:10AM: Journal club 
-Meet in Genentech Hall S101 at your team's specified time.
-- 9:10-9:40 AM: Teams 1&2
-- 9:45-10:15 AM: Teams 3&4
-- 10:20-10:50 AM: Team 5
+### Deep-mutational-scanning (Willow Coyote-Maestas)
+	-Exploring data sets
 
-## Monday January 21 
-### Hands on practical day with Klim and David on negative stain
-- 40 minutes per team
-- Upstairs is Genentech S416 with Klim Verba; Downstairs is Genentech S101 with David Bulkley
-- 9:00-9:40: Team 1 with Daivd and Team 2 with Klim)
-- 9:40-10:20: Team 3 with David and Team 4 with Klim
-- 10:20-11:00: Team 5 with Klim
+## Monday January 21-22, 27 independent projects related to visualization and computing protein structures
 
-## Tuesday January 22
+
+## Tuesday January 21
 ### Group Work Topic
+
+## Tuesday January 21
+### Group Work Topic
+
 ## Wednesday January 27
 ### Group Work, Topic
-## Reading on ML-Based Structure Prediction:
-- [cisTEM paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
-- [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
-- [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
-- Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](http://cdn.fraserlab.com/publications/2015_barad.pdf))
 
-# Jan 29-Feb 7  X-ray Crystallography - Lectures Bob Stroud, Tutorials Aashish Manglik
-
-## Monday January 29th
-### 9-1030: Lecture 1 from Bob Stroud
-### 10:30-11: [Tutorial 1: What's the deal with the spots](https://docs.google.com/document/d/1-VUVeneU7NfJ6dS2AX3mqhU5JAXt8Tom6V6dQvylWkM/edit?usp=sharing)
-- What is the system?
-- Examine diffraction data in adxv
-
-## Tuesday January 30th
-### Beamline trip/X-ray facility tour 
-- [Beamline trip logistics](https://docs.google.com/document/d/1_V7trQhxQCsUCHTDE7CipoKazJgy_h95SWVNk_rA5M4/edit?usp=sharing)
-- If not going to beamline, please meet Violla Bassim in X-ray facility (Genentech S127) at 9AM
-
-## Wednesday January 31st
-### Beamline trip/X-ray facility tour 
-- [Beamline trip logistics](https://docs.google.com/document/d/1_V7trQhxQCsUCHTDE7CipoKazJgy_h95SWVNk_rA5M4/edit?usp=sharing)
-- If not going to beamline, please meet Violla Bassim in X-ray facility (Genentech S127) at 9AM
-  
-## Monday February 5 
-### 9-10:30: Lecture 2 from Bob Stroud
-### 10:30-11: [Tutorial 2: Data Reduction](https://docs.google.com/document/d/1-VUVeneU7NfJ6dS2AX3mqhU5JAXt8Tom6V6dQvylWkM/edit#bookmark=kix.if962aravtol)
-- Use xia2 to process diffraction data
-- Understand various metrics for data reduction
-- What do we have at the end? MTZ files!
-- [XRayView Download](https://www.phillipslab.org/downloads)
-
-## Tuesday February 6 
-### 9-10:30: Lecture 3 from Bob Stroud
-### [Tutorial 3: Molecular Replacement](https://docs.google.com/document/d/1-VUVeneU7NfJ6dS2AX3mqhU5JAXt8Tom6V6dQvylWkM/edit#bookmark=id.snbyu3mveba6)
-
-### [Tutorial 4: Model Refinement](https://docs.google.com/document/d/1-VUVeneU7NfJ6dS2AX3mqhU5JAXt8Tom6V6dQvylWkM/edit#bookmark=id.m85sdq3icnmn)
-
-- File formats and contents
-	- MTZ file format
-	- PDB file as text
-- Refinement as minimizing Fo-Fc residual
-	- Where do the phases come from?
-		- Molecular replacement
-		- Iterative phase improvement
-		- ASU vs. unit cell vs. monomer
-	- 2Fo-Fc map
-	- Fo-Fc map
-	- Iterative phase improvement affects density everywhere
-	- R-free
-	- B-factors
-	- The curse of high resolution!!!
-		- Model building
-		- Fixing stuff in real space
-		- Real space vs. reciprocal space refinment
-		- Prior knowledge (chemistry/physics) vs. Data in minimizing residual
-	- Water placement in Phenix or Coot
-	- Alternative conformations and partial occupancy
-		- conformational vs. compositional heterogeneity
-- Team 1+2
-	- Occupancy refinement
-- Team 3-5
-	- Alternative conformations of loops
-	- Occupancy refinement
-	- A/B conformations
-	- mutually exclusive
-
-## Wednesday February 7 
-### 9-10:30: Lecture 4 from Bob Stroud
-### Continue Model Refinement and [Tutorial 5: Model Analysis](https://docs.google.com/document/d/1-VUVeneU7NfJ6dS2AX3mqhU5JAXt8Tom6V6dQvylWkM/edit#bookmark=kix.z40bd2t29nx4)
-## Reading on rigor and reproducibility in Crystallography:
-- [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
-- [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
-- [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
-- [Protein crystallography for non‐crystallographers, or how to get the best (but not more) from published macromolecular structures](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/j.1742-4658.2007.06178.x)
-
-# Feb 12-Feb 21  NMR - Lectures John Gross, Tutorials Amy Guo and Catherine Kuhn
-## Monday February 12
+# Jan 28-February 5  NMR - Lectures John Gross, Practicals Dominic Grisingher and Catherine Kuhn
+## Monday Jan 28
 ### [Lecture 1 from John Gross, Introduction to Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
 - intro to the system (nanobodies)
 - demonstration of NMR data processing, John Gross
 - [from FID to 2D](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl) (John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
-## Tuesday February 13
+## Tuesday January 29
 ### [Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
 - process 15N HSQC and 13C HSQC data with teams (Allie Born and John Gross)
 
-## Wednesday February 14
+## Wednesday February 3
 ### [Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE3.pdf)
 -  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
 -  [CcpNMR tutorial](http://cdn.fraserlab.com/courses/ccpNMR_Tutorial.pdf)
 -  As an alternative to CcpNMR, you may  use [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
 -  Supplemental reading: [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
-## Monday February 19
-Presidents Day - HOLIDAY
 
-## Tuesday February 20
+## Tuesday February 4
 ### [Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE4.pdf)
 
-## Wednesday February 21
+## Wednesday February 5
 ### Lecture 5 from John Gross, Measuring ns-ps dynamics in proteins
 - process mNb6:RBD 15N and 13C HSQC spectra, overlay with mNb6. Cross-peak bookkeeping with teams (Allie Born and John Gross)
 
@@ -309,28 +193,9 @@ Presidents Day - HOLIDAY
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
 
+## Feb 10-12 Independent Analysis Project, NMR
 
-
-# Final write up due: one per team - Feb 26
-- EM: which of the 12 sequences/structure is your sample? Explain how you processed your data and identified which one it is? How can you quantify whether you are correct?
-	- Piezo1
-	- Spliceosome
- 	- Apoferritin
-	- HSP104
-	- Cas9
- 	- PEAK3/14-3-3 complex 
-	- GroEL
-	- E. Coli Ribosome
-	- 20S Proteosome
-	- LKB1-StradA-Mo25 complex
-	- TRPV1
- 	- Her2/Her3 complex
-	- Glutamine Synthetase
-	- SARS-CoV-2 Spike
- 	- SARS CoV2 Nsp2
-	- BRAF:MEK:14-3-3 Complex
-- X-ray: Introduce the problem you are trying to answer. Give a summary of data processing and refinement statistics ([Table 1 type information](https://phenix-online.org/documentation/reference/table_one.html)). Provide results and interpretation of the ligand modeling excercise. How does the density in the binding site compare across your datasets? What roadblocks did you encounter, what did you try, how would you ideally model this? If you were successful in modeling the data, how did you quantify your data (presence/absence/occupancy of ligands)? If you weren't successful, what is your interpretation? What conclusions can you draw about the forces driving ligand binding at the atomistic level? What would you do next?
-- NMR: What is the NMR evidence that the nano bodies are undergoing conformational exchange in solution?  Is the conformational change local or global? (Hint: where do the isoleucines in Nb6 and mNb6 map onto the structure?). Can you infer any differences between the dynamics of  ancestral and mature Nb6  based on the NMR data? How does binding to Spike RBD change the dynamics?  You may simply use the 13C HSQC on ILVMA labelled nanobodies to answer these questions though there is complementary information in the 15N HSQC spectra you may call on to support.
+# Feb 18-26 Electron Microscopy (Dan Southworth), Practicals Max Tucker, Alex Long, Greg Merz, Eric Tse and Arthur Melo
 
 # Supplemental material and tutorial videos
 
