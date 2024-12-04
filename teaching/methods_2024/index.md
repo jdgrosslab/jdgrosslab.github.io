@@ -130,25 +130,25 @@ This is a team-based class where students work in small groups develop their own
 		- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
 ## Wednesday January 8
 ### 9:00-11:00am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
-	-Students, make sure you have a Wynton Account
+	- Students, make sure you have a Wynton Account
 ## Monday January 13
 ### Building atomic models in cryoEM maps using ISOLDE (Tom Goddard)
 
 ## Tuesday January 14 
 ### Deep mutational scans (Willow Coyote-Maestas)
-	-Theory
+	- Theory
 ## Wednesday January 15
 ### Deep-mutational-scanning (Willow Coyote-Maestas)
-	-Exploring data sets
+	- Exploring data sets
 
 ## Monday January 21-22, 27 independent projects related to visualization and computing protein structures
 
 
 ## Tuesday January 21
-### Group Work Topic
+### Group Work, Topic
 
 ## Tuesday January 21
-### Group Work Topic
+### Group Work, Topic
 
 ## Wednesday January 27
 ### Group Work, Topic
@@ -163,14 +163,14 @@ This is a team-based class where students work in small groups develop their own
 
 ## Tuesday January 29
 ### [Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
-- process 15N HSQC and 13C HSQC data with teams (Allie Born and John Gross)
+- process 15N HSQC and 13C HSQC data with teams (John Gross)
 
 ## Wednesday February 3
 ### [Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE3.pdf)
--  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
+-  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by John Gross)
 -  [CcpNMR tutorial](http://cdn.fraserlab.com/courses/ccpNMR_Tutorial.pdf)
 -  As an alternative to CcpNMR, you may  use [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
--  Supplemental reading: [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
+-  Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 
 ## Tuesday February 4
