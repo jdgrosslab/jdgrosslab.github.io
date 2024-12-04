@@ -202,30 +202,30 @@ This is a team-based class where students work in small groups develop their own
 -9:30-11:00, Hands-on sample preparation and vitrification. Team 1: GH S101, Team 2-3, Sandler Neuroscience Building 3rd Floor, Southworth Laboratory 
 -Homework: [Grant Jenson Lectures on Sample Preparation Part 1 and Part4](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 ## Wednesday, February 19
-###Cryo-EM Data Collection
--9:00 AM: Team 1: Meet in GH S101; Team 2-3: Meet in Sandler Lobby
--9:10-10:20: Hands-on microscope operation and data collection
--10:30-11:00: 2D Processing Setup and CryoSPARC tutorial
--Homework: [Grant Jenson Lectures on Particle Picking and 2D processing Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
+### Cryo-EM Data Collection
+- 9:00 AM: Team 1: Meet in GH S101; Team 2-3: Meet in Sandler Lobby
+- 9:10-10:20: Hands-on microscope operation and data collection
+- 10:30-11:00: 2D Processing Setup and CryoSPARC tutorial
+- Homework: [Grant Jenson Lectures on Particle Picking and 2D processing Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 ## Monday, February 24
-###3D Classification and Refinement
--Meet in Genentech Hall S416
--9:00-9:30AM Introduction
--9:30-11 Practical: 3D Classification and Heterogenius Refinement
--Homework: [3D Data Processing; Grant Jenson Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
+### 3D Classification and Refinement
+- Meet in Genentech Hall S416
+- 9:00-9:30AM Introduction
+- 9:30-11 Practical: 3D Classification and Heterogenius Refinement
+- Homework: [3D Data Processing; Grant Jenson Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 ## Tuesday, February 25
-###Analyses of 3D classes and refinement
--Meet in Genentech Hall S416
--9:00-9:30AM Questiion and Answer Catch Up
--9:30-10:30 Analysis of 3D Classes (particle count, angular sampling, and resolution using cryoSPARC and ChimeraX)
--10:30-11:00 Tutorial-homogeneous refinement FSC resolution, sharpening/B factor adjustment
--Homework: 3D Refinement, Presentation Prep
+### Analyses of 3D classes and refinement
+- Meet in Genentech Hall S416
+- 9:00-9:30AM Questiion and Answer Catch Up
+- 9:30-10:30 Analysis of 3D Classes (particle count, angular sampling, and resolution using cryoSPARC and ChimeraX)
+- 10:30-11:00 Tutorial-homogeneous refinement FSC resolution, sharpening/B factor adjustment
+- Homework: 3D Refinement, Presentation Prep
 ## Wednesday, February 26
 ### Fitting and refinement
--Meet in Genentech Hall S416
--9:00-9:30AM Question and Answer Catch Up
--9:30-10:30 Model Fitting and Refinement with ISOLDE
--10:30-11:00 AM: Group presentations, 10min each
+- Meet in Genentech Hall S416
+- 9:00-9:30AM Question and Answer Catch Up
+- 9:30-10:30 Model Fitting and Refinement with ISOLDE
+- 10:30-11:00 AM: Group presentations, 10min each
 
 # Supplemental material and tutorial videos
 
