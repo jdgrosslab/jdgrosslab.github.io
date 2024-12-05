@@ -60,7 +60,7 @@ This is a team-based class where students work in small groups develop their own
 	- Garrison Asper
 	- Keana Davis
    	- Yagmur Doruk Polcyn
-        - Gyuna Kim
+   	- Gyuna Kim
 - Team name: 2
         - Isabella Glenn
    	- Nikhil Gupta
