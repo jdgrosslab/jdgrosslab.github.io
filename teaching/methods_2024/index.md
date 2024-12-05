@@ -94,7 +94,7 @@ This is a team-based class where students work in small groups develop their own
 	- ML-based Structure Prediction (TG)
 	- NMR (JG)
 	   
-- Out of class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
+- Out-of-class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 
 
 ## Tuesday January 7
