@@ -26,10 +26,8 @@ group: courses
 **Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Tom Goddard](mailto:goddard@sonic.net), [Dan Southworth](mailto:Dan.Southworth@ucsf.edu)
 
 **TAs:**
-- Kevin.Delgado-Cunningham@ucsf.edu
-- Tracy.Lou@ucsf.edu
-- Henry.Scott@ucsf.edu
-- Yisheng.Zheng@ucsf.edu
+- [Angelica Lam](angelica.lam@ucsf.edu)
+- [Le Mihn](mihn.le4@ucsf.edu)
 
 **Lecturers/Facilitators:**
 
@@ -58,44 +56,23 @@ This is a team-based class where students work in small groups develop their own
 
 ## TEAM ASSIGNMENTS
 
-- Team name: A
-	- Gysasu Bajracharya
-	- Jules Brunello
-	- Hunter Carrell
-	- Yifei Chen
-	- Maple Chen
-	- Karson Chrispens
-- Team name: B
-	- Zoey Dingman
-	- Kevin Alexander Estrada Alamo
-	- Haoyu Fan
-	- Amy Flis
-	- David Gomez Siu
-	- Katherine Hansen
-- Team name: C 
-	- William Ho
-	- Javarcia Ivory
-	- Jasmine Keyes
-	- Divya Kranthi
-	- Sean Myers
-	- Ever O'Donnell
-   	- Sang Le
-- Team name: D 
-	- Angelica Lam
-	- Andreas Langen
-	- Ashley Lasko
-	- Mihn Le
-	- Kyrellos Ibrahim
-	- Luke Jaskowski
- - Team name: E 
-	- Zack Mawaldi
-	- Katie Holland
-	- Dru Myerscough
-	- Mingcheng Li
-	- Sruthi Raguveer
-	- Patrick Grimes
-	- Luke Villarma
-
+- Team name: 1
+	- Garrison Asper
+	- Keana Davis
+   	- Yagmur Doruk Polcyn
+        - Gyuna Kim
+- Team name: 2
+        - Isabella Glenn
+   	- Nikhil Gupta
+   	- Yulia Gutierrez
+   	- Isaiah Hazelwood
+   	- Rachel Munitz
+   	
+- Team name: 3
+	- Harshu Musunuri
+   	- Sophie-Chris Porak
+   	- Justin Sim
+   	- Craig Soares
 # Journal Club assignments
 - [Link](https://ucsf.box.com/s/d0wax9tfdjmvzgxqgw3425nhg1b49pnz)
 
