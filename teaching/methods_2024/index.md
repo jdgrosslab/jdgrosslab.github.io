@@ -99,12 +99,13 @@ This is a team-based class where students work in small groups develop their own
 
 ## Tuesday January 7
 ### 9:00-11:00am Visualizing and comparing atomic models with ChimeraX (Tom Goddard)
-	- NMR chemical shift mapping onto protein solvent accessible surface
- 	- Please have ChimeraX 1.9 of daily build installed on your laptops
-  	- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
-	- Some past tutorials:
-		- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
-		- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
+- NMR chemical shift mapping onto protein solvent accessible surface
+- Please have ChimeraX 1.9 of daily build installed on your laptops
+- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
+- Some past tutorials:
+- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
+- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
+  
 ## Wednesday January 8
 ### 9:00-11:00am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
 	- Students, make sure you have a Wynton Account
