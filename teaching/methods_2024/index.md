@@ -26,8 +26,8 @@ group: courses
 **Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Tom Goddard](mailto:goddard@sonic.net), [Dan Southworth](mailto:Dan.Southworth@ucsf.edu)
 
 **TAs:**
-- [Angelica Lam](angelica.lam@ucsf.edu)
-- [Le Mihn](mihn.le4@ucsf.edu)
+- [Angelica Lam](mailto:angelica.lam@ucsf.edu)
+- [Le Mihn](mailto:mihn.le4@ucsf.edu)
 
 **Lecturers/Facilitators:**
 
