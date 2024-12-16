@@ -99,6 +99,14 @@ This is a team-based class where students work in small groups develop their own
 	- ML-based Structure Prediction (TG)
 	- NMR (JG)
  - Software check, ChimeraX, NMRBox, Wynton accounts
+ - Installation and registration:
+ 		- [CCP4/Phenix/ADXV/EMan2 download tutorial](https://docs.google.com/document/d/1pRA-pERFvX05yrGZcZjfugxiV5YDyrFsX64yHhcyOmw/edit#)
+ 		- [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
+ 		- [Register for Wynton Account](https://wynton.ucsf.edu/hpc/about/join.html)
+ 		- [Register for NMRBox](https://nmrbox.nmrhub.org/events)
+     		- [Join Methods Course using link on NMRBox](https://nmrbox.nmrhub.org/events)
+     		- [Download vncViewer](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=MM0wp9QQlt4jK&lai_sr=5-9&lai_sl=l&lai_p=1)
+     	
 ## Wednesday January 8
 ### 9:00-11:00am Visualizing and comparing atomic models with ChimeraX (Tom Goddard)
 - NMR chemical shift mapping onto protein solvent accessible surface
