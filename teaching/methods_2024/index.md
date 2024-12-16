@@ -108,16 +108,16 @@ This is a team-based class where students work in small groups develop their own
   
 ## Wednesday January 8
 ### 9:00-11:00am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
-	- Students, make sure you have a Wynton Account
+- Students, make sure you have a Wynton Account
 ## Monday January 13
 ### Building atomic models in cryoEM maps using ISOLDE (Tom Goddard)
 
 ## Tuesday January 14 
 ### Deep mutational scans (Willow Coyote-Maestas)
-	- Theory
+- Theory
 ## Wednesday January 15
 ### Deep-mutational-scanning (Willow Coyote-Maestas)
-	- Exploring data sets
+- Exploring data sets
 
 ## Monday January 21-22, 27 independent projects related to visualization and computing protein structures
 
@@ -125,10 +125,10 @@ This is a team-based class where students work in small groups develop their own
 ## Tuesday January 21
 ### Group Work, Topic
 
-## Tuesday January 21
+## Wednesday January 22
 ### Group Work, Topic
 
-## Wednesday January 27
+## Monday January 27
 ### Group Work, Topic
 
 # Jan 28-February 5  NMR - Lectures John Gross, Practicals Dominic Grisingher and Catherine Kuhn
