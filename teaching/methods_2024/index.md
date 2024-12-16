@@ -140,11 +140,11 @@ This is a team-based class where students work in small groups develop their own
 - [from FID to 2D](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl) (John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
-## Tuesday January 28
+## Wednesday January 29
 ### [Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
 - process 15N HSQC and 13C HSQC data with teams (John Gross)
 
-## Wednesday January 29
+## Monday Feb 3
 ### [Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE3.pdf)
 -  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by John Gross)
 -  [CcpNMR tutorial](http://cdn.fraserlab.com/courses/ccpNMR_Tutorial.pdf)
@@ -152,16 +152,13 @@ This is a team-based class where students work in small groups develop their own
 -  Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 
-## Monday February 3
+## Tuesday February 4
 ### [Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE4.pdf)
 
-## Tuesday February 4
+## Wednesday February 5
 ### Lecture 5 from John Gross, Measuring ns-ps dynamics in proteins
 - process mNb6:RBD 15N and 13C HSQC spectra, overlay with mNb6. Cross-peak bookkeeping with teams (Allie Born and John Gross)
 
-## Wednesday February 5
-### Molecular Rulers: NMR, EPR, FRET and SAXS
-- Lecture on molecular rulers
   
 ## How to setup and process HSQCs on the 800 MHz spectrometer
 - [Acquiring_2D_15N-HSQC_in_TopSpin](https://ucsf.box.com/s/tc0dg14opvz3bfdht92r6pn56h3i7fg4)
