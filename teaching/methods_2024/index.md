@@ -89,15 +89,17 @@ This is a team-based class where students work in small groups develop their own
   	- Final writeups
 - Why study methods in biophysics? (JG)
 - [High-level review of thermodynamics and kinetics](https://ucsf.box.com/s/mjqxgkoi14jm51nwst54kkld9a43m85q) (JG)
+
+	   
+- Out-of-class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
+
+## Tuesday January 7 Intro to Methods and Software Check
 - Few minute introduction to techniques covered 
 	- Cryo-EM (DS)
 	- ML-based Structure Prediction (TG)
 	- NMR (JG)
-	   
-- Out-of-class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
-
-
-## Tuesday January 7
+ - Software check, ChimeraX, NMRBox, Wynton accounts
+## Wednesday January 8
 ### 9:00-11:00am Visualizing and comparing atomic models with ChimeraX (Tom Goddard)
 - NMR chemical shift mapping onto protein solvent accessible surface
 - Please have ChimeraX 1.9 of daily build installed on your laptops
@@ -106,28 +108,26 @@ This is a team-based class where students work in small groups develop their own
 - [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 - [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
   
-## Wednesday January 8
+## Monday January 13
 ### 9:00-11:00am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
 - Students, make sure you have a Wynton Account
-## Monday January 13
+## Tuesday January 14
 ### Building atomic models in cryoEM maps using ISOLDE (Tom Goddard)
 
-## Tuesday January 14 
-### Deep mutational scans (Willow Coyote-Maestas)
-- Theory
+##January 15,21,22  independent projects related to visualization and computing protein structures
+
 ## Wednesday January 15
-### Deep-mutational-scanning (Willow Coyote-Maestas)
-- Exploring data sets
+### Group Work, Topic
 
-## Monday January 20th, No Class,  MLK Day
+## Monday January 20, No Class,  MLK Day
 
-##January 21-22, 27 independent projects related to visualization and computing protein structures
 
-## Tuesday January 21
+## Tuesday January 21,
 ### Group Work, Topic
 
 ## Wednesday January 22
 ### Group Work, Topic
+
 
 ## Monday January 27
 ### Group Work, Topic
@@ -217,4 +217,12 @@ This is a team-based class where students work in small groups develop their own
 - [Protein Dynamics by NMR- Dorothee Kern](https://www.youtube.com/watch?v=fzM5V0bbybM)
 - [Ligand binding and drug design-Dorothee Kern](https://www.youtube.com/watch?v=7MuBsYNrypg&t=659s)
 - [NMR Theory Course , James Keeler](https://www.youtube.com/watch?v=nM7jQFhrvR0&index=1&list=PLE20foNk9J6L1dh9X27RaPiaul8_7wrAY)
+
+
+  ## Monday March 3 
+### Deep mutational scans (Willow Coyote-Maestas)
+- Theory
+## Tuesday March 4
+### Deep-mutational-scanning (Willow Coyote-Maestas)
+- Exploring data sets
 
