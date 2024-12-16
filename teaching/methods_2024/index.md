@@ -230,7 +230,7 @@ This is a team-based class where students work in small groups develop their own
 - [NMR Theory Course , James Keeler](https://www.youtube.com/watch?v=nM7jQFhrvR0&index=1&list=PLE20foNk9J6L1dh9X27RaPiaul8_7wrAY)
 
 
-  ## Monday March 3 
+## Monday March 3-4 High-throughput methods and integration with macromolecular structure
 ### Deep mutational scans (Willow Coyote-Maestas)
 - Theory
 ## Tuesday March 4
