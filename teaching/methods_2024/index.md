@@ -175,7 +175,7 @@ This is a team-based class where students work in small groups develop their own
 
 ## Feb 10-12 Independent Analysis Project, NMR
 
-## February 17, Presidents Day, no class
+## Monday February 17, Presidents' Day, no class
 
 # Feb 18-26 Electron Microscopy (Dan Southworth), Practicals Max Tucker, Alex Long, Greg Merz, Eric Tse and Arthur Melo
 ## Tuesday, February 18
