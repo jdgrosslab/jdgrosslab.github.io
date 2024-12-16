@@ -119,8 +119,9 @@ This is a team-based class where students work in small groups develop their own
 ### Deep-mutational-scanning (Willow Coyote-Maestas)
 - Exploring data sets
 
-## Monday January 21-22, 27 independent projects related to visualization and computing protein structures
+## Monday January 20th, No Class,  MLK Day
 
+##January 21-22, 27 independent projects related to visualization and computing protein structures
 
 ## Tuesday January 21
 ### Group Work, Topic
