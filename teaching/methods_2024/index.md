@@ -94,7 +94,7 @@ This is a team-based class where students work in small groups develop their own
 - Out-of-class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 
 ## Tuesday January 7 Intro to Methods and Software Check
-- Few minute introduction to techniques covered 
+- 15 minute introduction to techniques covered 
 	- Cryo-EM (DS)
 	- ML-based Structure Prediction (TG)
 	- NMR (JG)
@@ -137,8 +137,11 @@ This is a team-based class where students work in small groups develop their own
 ### Group Work, Topic
 
 
-## Monday January 27
-### Group Work, Topic
+## Monday January 27, Introduction to the Fourier Transform, JDG
+- Out of class assignment (required!)
+	- Watch: [A visual introduction to the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
+ 	- Self assessment on [Fourier Transform and Fourier Series](https://ucsf.co1.qualtrics.com/jfe/form/SV_559sgS910WkdoN0)
+    	- Lecture Notes
 
 # Jan 28-February 5  NMR - Lectures John Gross, Practicals Dominic Grisingher and Catherine Kuhn
 ## Tuesday Jan 28
