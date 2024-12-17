@@ -73,6 +73,7 @@ This is a team-based class where students work in small groups develop their own
    	- Sophie-Chris Porak
    	- Justin Sim
    	- Craig Soares
+
 # Journal Club assignments
 - [Link](https://ucsf.box.com/s/d0wax9tfdjmvzgxqgw3425nhg1b49pnz)
 
@@ -119,10 +120,13 @@ This is a team-based class where students work in small groups develop their own
 ## Monday January 13
 ### 9:00-11:00am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
 - Students, make sure you have a Wynton Account
+- [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
+
 ## Tuesday January 14
 ### Building atomic models in cryoEM maps using ISOLDE (Tom Goddard)
-
-##January 15,21,22  independent projects related to visualization and computing protein structures
+- [Introduction to ISOLDE](https://tristanic.github.io/isolde/static/isolde/doc/tutorials/intro/cryo_intro/cryo_intro.html)
+  
+## January 15,21,22  independent projects related to visualization and computing protein structures
 
 ## Wednesday January 15
 ### Group Work, Topic
