@@ -184,7 +184,12 @@ This is a team-based class where students work in small groups develop their own
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
 
-## Feb 10-12 Independent Analysis Project, NMR
+## Feb 10-11 Independent Analysis Project, NMR
+## Feb 12, Presentations, 15 minutes + 5 min Q&A
+- 9:00-9:20  Group  1
+- 9:20-9:40  Group 2
+- 9:40-10:00 Group 3
+
 
 ## Monday February 17, Presidents' Day, no class
 
