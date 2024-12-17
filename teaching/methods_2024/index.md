@@ -74,10 +74,7 @@ This is a team-based class where students work in small groups develop their own
    	- Justin Sim
    	- Craig Soares
 
-# Journal Club assignments
-- [Link](https://ucsf.box.com/s/d0wax9tfdjmvzgxqgw3425nhg1b49pnz)
-
-# Jan 6 Class intro
+# Jan 6-7 Introduction
 
 ## Monday January 6
 - Course overview (JG)
@@ -141,11 +138,12 @@ This is a team-based class where students work in small groups develop their own
 ### Group Work, Topic
 
 
-## Monday January 27, Introduction to the Fourier Transform, JDG
+# Monday January 27,  The Fourier Transform in Structural Biology, JDG
 - Out of class assignment (required!)
 	- Watch: [A visual introduction to the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
  	- Self assessment on [Fourier Transform and Fourier Series](https://ucsf.co1.qualtrics.com/jfe/form/SV_559sgS910WkdoN0)
-    	- Lecture Notes
+    	- [Introduction to the FT](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk)
+       	- [FT Examples](https://ucsf.box.com/s/o7f8qe6n0ytzpde4ap5wtx0ek5ckbkji)
 
 # Jan 28-February 5  NMR - Lectures John Gross, Practicals Dominic Grisingher and Catherine Kuhn
 ## Tuesday Jan 28
