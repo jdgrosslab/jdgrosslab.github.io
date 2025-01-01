@@ -131,17 +131,19 @@ This is a team-based class where students work in small groups develop their own
 ## January 15,21,22  independent projects related to visualization and computing protein structures
 
 ## Wednesday January 15
-### Group Work, Topic
+### Group Work, Ligand Screening with AF3
 
 ## Monday January 20, No Class,  MLK Day
 
 
 ## Tuesday January 21,
-### Group Work, Topic
+### Group Work, Ligand Screening with AF3
 
 ## Wednesday January 22
-### Group Work, Topic
-
+### Group Presentations, 15 minutes + 5 min Q&A
+- 9:00-9:20  Group  1
+- 9:20-9:40  Group 2
+- 9:40-10:00 Group 3
 
 # Monday January 27,  The Fourier Transform in Structural Biology, JDG
 - Out of class assignment (required!)
