@@ -76,8 +76,6 @@ This is a team-based class where students work in small groups develop their own
  
 ## JOURNAL CLUB ASSIGNMENTS
 [Link](https://ucsf.box.com/s/54lzotplqwi1t5nxy7e5fp600d47kvg5)
-
-
 # Jan 6-7 Introduction
 
 
