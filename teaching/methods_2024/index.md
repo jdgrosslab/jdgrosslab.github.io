@@ -89,7 +89,7 @@ This is a team-based class where students work in small groups develop their own
   	- Relationship to Macro mini-quals
   	- Final writeups
 - Why study methods in biophysics? (JG)
-- [High-level review of thermodynamics and kinetics](https://ucsf.box.com/s/mjqxgkoi14jm51nwst54kkld9a43m85q) (JG)
+- [High-level review of thermodynamics and kinetics](https://ucsf.box.com/s/4gnx8w0p7lj2qlved55ne149ibolwpq7)(JG)
 
 	   
 - Out-of-class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
