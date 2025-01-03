@@ -122,7 +122,7 @@ This is a team-based class where students work in small groups develop their own
 ### 9:00-11:00am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
 - Students, make sure you have a Wynton Account
 - [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
-- [Optional-AF3 code on github in case you want to look under the hood](https://github.com/google-deepmind/alphafold3)
+- [Optional-View AF3 code on github in case you want to look under the hood](https://github.com/google-deepmind/alphafold3)
 
 ## Tuesday January 14
 ### Building atomic models in cryoEM maps using ISOLDE (Tom Goddard)
