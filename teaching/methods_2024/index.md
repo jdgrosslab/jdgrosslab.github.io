@@ -103,7 +103,6 @@ This is a team-based class where students work in small groups develop their own
 - Installation and registration:
 - [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
 - [Register for Wynton Account](https://wynton.ucsf.edu/hpc/about/join.html)
-- [Public Distribution of AF3](https://github.com/google-deepmind/alphafold3)
 - [AF3 parameter request form](https://forms.gle/svvpY4u2jsHEwWYS6)
 - [Register for NMRBox](https://nmrbox.nmrhub.org/events)
 - [Join Methods Course using link on NMRBox](https://nmrbox.nmrhub.org/events)
@@ -123,6 +122,7 @@ This is a team-based class where students work in small groups develop their own
 ### 9:00-11:00am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
 - Students, make sure you have a Wynton Account
 - [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
+- [Optional-AF3 code on github in case you want to look under the hood](https://github.com/google-deepmind/alphafold3)
 
 ## Tuesday January 14
 ### Building atomic models in cryoEM maps using ISOLDE (Tom Goddard)
