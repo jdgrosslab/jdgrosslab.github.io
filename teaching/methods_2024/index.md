@@ -154,36 +154,44 @@ This is a team-based class where students work in small groups develop their own
 
 # Jan 28-February 5  NMR - Lectures John Gross, Practicals Dominic Grisingher and Catherine Kuhn
 ## Tuesday Jan 28
-### [Lecture 1 from John Gross, Introduction to Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
+### [Lecture 1 from John Gross Review of Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
 - intro to the system (nanobodies)
-- demonstration of NMR data processing, John Gross
-- [from FID to 2D](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl) (John Gross)
+- [Tutorial, from FIDs to 2D spectrum](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl) (JG)
+- 10am break
+- 10:10am students from team 1 go to NMR lab; students from teams 2 and 3 remain in teaching lab
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 ## Wednesday January 29
-### [Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
-- process 15N HSQC and 13C HSQC data with teams (John Gross)
+### [Lecture 2 from John Gross Review of Detecting Ligand and Protein Interactions by NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
+- process 15N HSQC and 13C HSQC data with teams (JG)
+- 10am break
+- 10:10am students from team 2 go to NMR lab, teams 1 and 3 remain in teaching lab 
+
+## How to setup and process HSQCs on the 800 MHz spectrometer
+- [Acquiring_2D_15N-HSQC_in_TopSpin](https://ucsf.box.com/s/tc0dg14opvz3bfdht92r6pn56h3i7fg4)
+- [Processing_Data_in_TopSpin](https://ucsf.box.com/s/6jznx75m14b24xf84ot8cgporudfkf8i)
+- [Topspin_Commands](https://ucsf.box.com/s/7gss7koit3a9v0iccm0arukojzkf8u9l)
+
 
 ## Monday Feb 3
-### [Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE3.pdf)
+### [Lecture 3 from John Gross Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE3.pdf)
 -  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by John Gross)
 -  [CcpNMR tutorial](http://cdn.fraserlab.com/courses/ccpNMR_Tutorial.pdf)
 -  As an alternative to CcpNMR, you may  use [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
+-  10am break
+-  10:10am students from team 3 go to NMR lab, teams 1 and 2 remain in teaching lab
 -  Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 
 ## Tuesday February 4
 ### [Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE4.pdf)
+- process mNb6:RBD 15N and 13C HSQC spectra, overlay with mNb6 (JG)
+
 
 ## Wednesday February 5
 ### Lecture 5 from John Gross, Measuring ns-ps dynamics in proteins
-- process mNb6:RBD 15N and 13C HSQC spectra, overlay with mNb6. Cross-peak bookkeeping with teams (Allie Born and John Gross)
+-  Cross-peak bookkeeping with teams, quantification of CSPs , data interpretation
 
-  
-## How to setup and process HSQCs on the 800 MHz spectrometer
-- [Acquiring_2D_15N-HSQC_in_TopSpin](https://ucsf.box.com/s/tc0dg14opvz3bfdht92r6pn56h3i7fg4)
-- [Processing_Data_in_TopSpin](https://ucsf.box.com/s/6jznx75m14b24xf84ot8cgporudfkf8i)
-- [Topspin_Commands](https://ucsf.box.com/s/7gss7koit3a9v0iccm0arukojzkf8u9l)
 
 ## Materials for TA Office Hours
 - [1-an example  13C HSQC of Nb6 , 2-Nb6 and mNb sequences, 3-Sparky tutorial](https://ucsf.box.com/s/boxmdnws7xbg04p812agth005b7augu5)
@@ -193,7 +201,7 @@ This is a team-based class where students work in small groups develop their own
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
 
-## Feb 10-11 Independent Analysis Project, NMR
+## Feb 10-11 Wrap up data processing and prepare for final presentations, 
 ## Feb 12, Presentations, 15 minutes + 5 min Q&A
 - 9:00-9:20  Group  1
 - 9:20-9:40  Group 2
