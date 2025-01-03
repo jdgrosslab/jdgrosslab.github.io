@@ -130,7 +130,7 @@ This is a team-based class where students work in small groups develop their own
 
 ## Wednesday January 15
 ### Group Work, Ligand Screening with AF3
-
+- [Tutorial](https://www.rbvi.ucsf.edu/chimerax/data/af3-drugs-dec2024/af3_drugs.html)
 ## Monday January 20, No Class,  MLK Day
 
 
@@ -236,7 +236,6 @@ This is a team-based class where students work in small groups develop their own
 
 - [Getting started in CryoEM - Grant Jensen lectures](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
 - [LMB EM Course](https://www2.mrc-lmb.cam.ac.uk/research/scientific-training/electron-microscopy/)
-- 
 - [Protein Dynamics by NMR- Dorothee Kern](https://www.youtube.com/watch?v=fzM5V0bbybM)
 - [Ligand binding and drug design-Dorothee Kern](https://www.youtube.com/watch?v=7MuBsYNrypg&t=659s)
 - [NMR Theory Course , James Keeler](https://www.youtube.com/watch?v=nM7jQFhrvR0&index=1&list=PLE20foNk9J6L1dh9X27RaPiaul8_7wrAY)
