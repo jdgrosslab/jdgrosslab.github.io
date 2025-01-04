@@ -152,45 +152,51 @@ This is a team-based class where students work in small groups develop their own
     	- [Introduction to the FT](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk)
        	- [FT Examples](https://ucsf.box.com/s/o7f8qe6n0ytzpde4ap5wtx0ek5ckbkji)
 
-# Jan 28-February 5  NMR - Lectures John Gross, Practicals Dominic Grisingher and Catherine Kuhn
+# Jan 28-February 5  Protein NMR - Data Processing John Gross, Acquisition Dominic Grisingher and Catherine Kuhn
 ## Tuesday Jan 28
-### [Lecture 1 from John Gross Review of Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
-- intro to the system (nanobodies)
+### Introduction to acquisition and data processing
+- Converting Bruker to NMRPipe format
+- Introduction to elementary 1D data processing commands, apodization, zero filling, Fourier transform and phasing using NMRPipe
+- Introduction to 2D data processing with NMRPipe
+- Displaying data using NMRDraw
 - [Tutorial, from FIDs to 2D spectrum](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl) (JG)
-- 10am break
+- 10 am break
 - 10:10am students from team 1 go to NMR lab; students from teams 2 and 3 remain in teaching lab
-- Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
-
-## Wednesday January 29
-### [Lecture 2 from John Gross Review of Detecting Ligand and Protein Interactions by NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
-- process 15N HSQC and 13C HSQC data with teams (JG)
-- 10am break
-- 10:10am students from team 2 go to NMR lab, teams 1 and 3 remain in teaching lab 
 
 ## How to setup and process HSQCs on the 800 MHz spectrometer
 - [Acquiring_2D_15N-HSQC_in_TopSpin](https://ucsf.box.com/s/tc0dg14opvz3bfdht92r6pn56h3i7fg4)
 - [Processing_Data_in_TopSpin](https://ucsf.box.com/s/6jznx75m14b24xf84ot8cgporudfkf8i)
 - [Topspin_Commands](https://ucsf.box.com/s/7gss7koit3a9v0iccm0arukojzkf8u9l)
 
+- Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
+  [Review of Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf
+  
+## Wednesday January 29
+### Process 15N HSQCs of nanobodies
+- Process Nb6 and mNB6 data
+- 10am break
+- 10:10am students from team 2 go to NMR lab, teams 1 and 3 remain in teaching lab
+- [Review of Detecting Ligand and Protein Interactions by NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
+
 
 ## Monday Feb 3
-### [Lecture 3 from John Gross Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE3.pdf)
--  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by John Gross)
--  [CcpNMR tutorial](http://cdn.fraserlab.com/courses/ccpNMR_Tutorial.pdf)
--  As an alternative to CcpNMR, you may  use [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
+### [Lecture from John Gross Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE3.pdf)
+-  Process 13C HSQCs of ILV labeled Nanobodies
 -  10am break
 -  10:10am students from team 3 go to NMR lab, teams 1 and 2 remain in teaching lab
 -  Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
-
+  
 
 ## Tuesday February 4
-### [Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE4.pdf)
-- process mNb6:RBD 15N and 13C HSQC spectra, overlay with mNb6 (JG)
+### [Lecture from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE4.pdf)
+-  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by John Gross)
+-  [CcpNMR tutorial](http://cdn.fraserlab.com/courses/ccpNMR_Tutorial.pdf)
+-  As an alternative to CcpNMR, you may  use [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
 
 
 ## Wednesday February 5
 ### Lecture 5 from John Gross, Measuring ns-ps dynamics in proteins
--  Cross-peak bookkeeping with teams, quantification of CSPs , data interpretation
+-  Cross-peak bookkeeping with teams, quantification of CSPs in sparky, data interpretation
 
 
 ## Materials for TA Office Hours
