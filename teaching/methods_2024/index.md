@@ -141,9 +141,9 @@ This is a team-based class where students work in small groups develop their own
 
 ## Wednesday January 22
 ### Group Presentations, 15 minutes + 5 min Q&A
-- 9:00-9:20  Group  1
-- 9:20-9:40  Group 2
-- 9:40-10:00 Group 3
+- 9:00-9:20  Team 1
+- 9:20-9:40  Team 2
+- 9:40-10:00 Tea  3
 
 # Monday January 27,  The Fourier Transform in Structural Biology, JDG
 - Out of class assignment (required!)
@@ -152,9 +152,9 @@ This is a team-based class where students work in small groups develop their own
     	- [Introduction to the FT](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk)
        	- [FT Examples](https://ucsf.box.com/s/o7f8qe6n0ytzpde4ap5wtx0ek5ckbkji)
 
-# Jan 28-February 5  Protein NMR - Data Processing John Gross, Acquisition Dominic Grisingher and Catherine Kuhn
+# Jan 28-February 5  Protein NMR - John Gross, Dominic Grisingher and Catherine Kuhn
 ## Tuesday Jan 28
-### Introduction to acquisition and data processing
+### Introduction to acquisition and data processing (John Gross)
 - Converting Bruker to NMRPipe format
 - Introduction to elementary 1D data processing commands, apodization, zero filling, Fourier transform and phasing using NMRPipe
 - Introduction to 2D data processing with NMRPipe
@@ -163,7 +163,7 @@ This is a team-based class where students work in small groups develop their own
 - 10 am break
 - 10:10am students from team 1 go to NMR lab; students from teams 2 and 3 remain in teaching lab
 
-## How to setup and process HSQCs on the 800 MHz spectrometer
+## How to setup and process HSQCs on the 800 MHz spectrometer (Dominic Grisingher and Catherine Kuhn)
 - [Acquiring_2D_15N-HSQC_in_TopSpin](https://ucsf.box.com/s/tc0dg14opvz3bfdht92r6pn56h3i7fg4)
 - [Processing_Data_in_TopSpin](https://ucsf.box.com/s/6jznx75m14b24xf84ot8cgporudfkf8i)
 - [Topspin_Commands](https://ucsf.box.com/s/7gss7koit3a9v0iccm0arukojzkf8u9l)
@@ -172,7 +172,7 @@ This is a team-based class where students work in small groups develop their own
   [Review of Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf
   
 ## Wednesday January 29
-### Process 15N HSQCs of nanobodies
+### Process 15N HSQCs of nanobodies (John Gross)
 - Process Nb6 and mNB6 data
 - 10am break
 - 10:10am students from team 2 go to NMR lab, teams 1 and 3 remain in teaching lab
@@ -184,15 +184,17 @@ This is a team-based class where students work in small groups develop their own
 -  Process 13C HSQCs of ILV labeled Nanobodies
 -  10am break
 -  10:10am students from team 3 go to NMR lab, teams 1 and 2 remain in teaching lab
--  Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
+
   
 
 ## Tuesday February 4
 ### [Lecture from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE4.pdf)
--  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by John Gross)
+- 10am, break
+- 10:10am, all teams return to teaching lab
+-  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo (JG)
 -  [CcpNMR tutorial](http://cdn.fraserlab.com/courses/ccpNMR_Tutorial.pdf)
 -  As an alternative to CcpNMR, you may  use [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
-
+-  Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 ## Wednesday February 5
 ### Lecture 5 from John Gross, Measuring ns-ps dynamics in proteins
@@ -209,9 +211,9 @@ This is a team-based class where students work in small groups develop their own
 
 ## Feb 10-11 Wrap up data processing and prepare for final presentations, 
 ## Feb 12, Presentations, 15 minutes + 5 min Q&A
-- 9:00-9:20  Group  1
-- 9:20-9:40  Group 2
-- 9:40-10:00 Group 3
+- 9:00-9:20  Team 1
+- 9:20-9:40  Team 2
+- 9:40-10:00 Team 3
 
 
 ## Monday February 17, Presidents' Day, no class
@@ -237,7 +239,7 @@ This is a team-based class where students work in small groups develop their own
 ## Tuesday, February 25
 ### Analyses of 3D classes and refinement
 - Meet in Genentech Hall S416
-- 9:00-9:30AM Questiion and Answer Catch Up
+- 9:00-9:30AM Question and Answer Catch Up
 - 9:30-10:30 Analysis of 3D Classes (particle count, angular sampling, and resolution using cryoSPARC and ChimeraX)
 - 10:30-11:00 Tutorial-homogeneous refinement FSC resolution, sharpening/B factor adjustment
 - Homework: 3D Refinement, Presentation Prep
