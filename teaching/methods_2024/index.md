@@ -110,8 +110,8 @@ This is a team-based class where students work in small groups develop their own
 - [Download vncViewer](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=MM0wp9QQlt4jK&lai_sr=5-9&lai_sl=l&lai_p=1)
 - [CCP4/Phenix/ADXV/EMan2 download tutorial](https://docs.google.com/document/d/1pRA-pERFvX05yrGZcZjfugxiV5YDyrFsX64yHhcyOmw/edit#)
      	
-## Wednesday January 8
-### 9:00-11:00am Visualizing and comparing atomic models with ChimeraX (Tom Goddard)
+## Thursday January 9 
+### 9:00-11:30am Visualizing and comparing atomic models with ChimeraX (Tom Goddard)
 - NMR chemical shift mapping onto protein solvent accessible surface
 - Please have ChimeraX 1.9 of daily build installed on your laptops
 - [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
@@ -119,28 +119,20 @@ This is a team-based class where students work in small groups develop their own
 - [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 - [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
   
-## Monday January 13
-### 9:00-11:00am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
+## Tuesday January 14
+### 9:00-10:30am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
 - Students, make sure you have a Wynton Account
 - [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
 - [Optional-View AF3 code on GitHub](https://github.com/google-deepmind/alphafold3)
 
-## Tuesday January 14
-### Building atomic models in cryoEM maps using ISOLDE (Tom Goddard)
-- [Introduction to ISOLDE](https://tristanic.github.io/isolde/static/isolde/doc/tutorials/intro/cryo_intro/cryo_intro.html)
-  
-## January 15,21,22  independent projects related to visualization and computing protein structures
 
-## Wednesday January 15
+## Thursday January 16
 ### Group Work, Ligand Screening with AF3
 - [Tutorial](https://www.rbvi.ucsf.edu/chimerax/data/af3-drugs-dec2024/af3_drugs.html)
-## Monday January 20, No Class,  MLK Day
 
 
 ## Tuesday January 21,
-### Group Work, Ligand Screening with AF3
 
-## Wednesday January 22
 ### Group Presentations, 15 minutes + 5 min Q&A
 - 9:00-9:20  Team 1
 - 9:20-9:40  Team 2
