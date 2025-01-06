@@ -127,44 +127,53 @@ This is a team-based class where students work in small groups develop their own
 
 
 # Jan 23-February 4  Protein NMR - John Gross, Dominic Grisingher and Catherine Kuhn
-## Thursday, Jan 23 Data collection (Dominic Grisingher and Catherine Kuhn)
+## Thursday, Jan 23, The Fourier Transform and NMR Data processing
+- 9:00-10:00, [Theory](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk) (JG)
+- 10-11:30, [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl) (JG)
+- [Before class, review Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf
+- Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
+
+## Tuesday, Jan 28th, group work
+- 9:00-10:30 am, Process 15N HSQC of nanobodies alone and bound to SARS-CoV-2 Spike RBD.
+
+## Thursday, Jan 30th Data collection (Dominic Grisingher and Catherine Kuhn)
 ### 9:00-11:30am Acquiring and processing 15N HSQC Data
 
-- 9:00-10:00 Team 1, NMR Lab, Teams 2 and 3 process 15N HSQCs  
-- 10:00-11:00 Team 2, NMR Lab, Teams 1 and 3 process 15N HSQCs
-- 11:00-noon 	Team 3, NMR Lab, Teams 1 and 2 process 15N HSQCs
+- 9:00-10:00 Team 1, NMR Lab, Teams 2 and 3 finish processing 15N HSQCs  
+- 10:00-11:00 Team 2, NMR Lab, Teams 1 and 3 finish processing 15N HSQCs
+- 11:00-noon 	Team 3, NMR Lab, Teams 1 and 2 finish processing 15N HSQCs
 
 - [Acquiring_2D_15N-HSQC_in_TopSpin](https://ucsf.box.com/s/tc0dg14opvz3bfdht92r6pn56h3i7fg4)
 - [Processing_Data_in_TopSpin](https://ucsf.box.com/s/6jznx75m14b24xf84ot8cgporudfkf8i)
 - [Topspin_Commands](https://ucsf.box.com/s/7gss7koit3a9v0iccm0arukojzkf8u9l)
-- [Tutorial for processing offline with NMRPipe, from FIDs to 2D spectrum](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl)
-- Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
-- [Review of Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf
-  
 
-## Tuesday Jan 28
+
+## Tuesday Feb 4th
 ### Introduction to ILV labeling of proteins for methyl group NMR
-- 9:00-10:30am Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
+- 9:00 Background
+- 9:30-10:30 am Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
 
+## Wednesday, Feb 5, Note special time
+- 11am-noon wrap up 13C HSQC processing
 
-  
-
-## Thursday, January 30th
-### Spectral overlays and  CSP analyses 
+## Thursday, Feb 6th
+### Chemical shift perturbation (CSP) mapping 
 - 9-10am, tutorial on overlay spectra for chemical shift perturbation analysis using Sparky. 
-- 10-11:30am, overlay HSQC spectra, cross-peak bookkeeping analysis, mapping CPS onto structures
+- 10-11:30am, overlay HSQC spectra, cross-peak bookkeeping analysis, mapping CSPs onto structures
 - [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
 - Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown] (http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
-## Tuesday February 4
+
+## Materials for TA Office Hours
+- [1-an example  13C HSQC of Nb6 , 2-Nb6 and mNb sequences, 3-Sparky tutorial](https://ucsf.box.com/s/boxmdnws7xbg04p812agth005b7augu5)
+
+
+## Tuesday February 11
 ### Final Presentations NMR, 20 minutes + 10 min Q&A
 - 9:00-9:30  Team 1
 - 9:30-10:00  Team 2
 - 10:00-10:30 Team 3
 
-
-## Materials for TA Office Hours
-- [1-an example  13C HSQC of Nb6 , 2-Nb6 and mNb sequences, 3-Sparky tutorial](https://ucsf.box.com/s/boxmdnws7xbg04p812agth005b7augu5)
 
 ## Reading on rigor and reproducibility in NMR:
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
