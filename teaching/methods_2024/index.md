@@ -54,31 +54,33 @@ This is a team-based class where students work in small groups develop their own
 
 ## 2024 schedule
 
+<iframe src="https://calendar.google.com/calendar/embed?src=614f5399b8fd4cdd6d7a3ba269f53070443f24c83ae4b67e425271cd9b092b51%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## TEAM ASSIGNMENTS
 
 - Team name: 1
-	- Garrison Asper
-	- Keana Davis
-   	- Yagmur Doruk Polcyn
-   	- Gyuna Kim
+    - Garrison Asper
+    - Keana Davis
+    - Yagmur Doruk Polcyn
+    - Gyuna Kim
 - Team name: 2
-        - Isabella Glenn
-   	- Nikhil Gupta
-   	- Yulia Gutierrez
-   	- Isaiah Hazelwood
-   	- Rachel Munitz
-   	
+    - Isabella Glenn
+    - Nikhil Gupta
+    - Yulia Gutierrez
+    - Isaiah Hazelwood
+    - Rachel Munitz
 - Team name: 3
-	- Harshu Musunuri
-   	- Sophie-Chris Porak
-   	- Justin Sim
-   	- Craig Soares
+    - Harshu Musunuri
+    - Sophie-Chris Porak
+    - Justin Sim
+    - Craig Soares
  
 ## JOURNAL CLUB ASSIGNMENTS
 [Link](https://ucsf.box.com/s/54lzotplqwi1t5nxy7e5fp600d47kvg5)
+
 # Jan 6-7 Introduction
 
-
+<a name="Jan6"></a>
 ## Monday January 6
 - Course overview (JG)
 	- Introduction to instructors and TAs
