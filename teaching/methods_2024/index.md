@@ -13,11 +13,11 @@ group: courses
 
 **Course Title:** Methods in Macromolecular Structure
 
-**Course Format:** 6 hours of lecture/group work per week in class, substantial group work outside of class hours
+**Course Format:** 4 hours of lecture/group work per week in class, substantial group work outside of class hours
 
-**Location and Date/Hours:** Monday, Tuesday, Wednesday - 9AM-11AM in Genentech Hall 227
+**Location and Date/Hours:** Tuesday, 9:00-10:30AM , Thursday 9AM-11:30AM in Genentech Hall 227
 
-**Prerequisites:** All incoming first year BP graduate students are required to enroll in this course.
+**Prerequisites:** All incoming first-year BP graduate students are required to enroll in this course.
 
 **Grading:** Letter grade
 
@@ -36,13 +36,13 @@ John Gross, Tom Goddard, Dan Southworth
 
 **Background:**
 
-Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating  “Macromolecular Methods”, a class that places emphasis on playing with data. We have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that, in non-pandemic years, they have collected. The goal of this course is to provide students sufficient exposure to major methods in biophysics to enable them to pursue these more fully in their independent research.
+Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating  “Macromolecular Methods”, a class that places emphasis on playing with data. We have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that, in non-pandemic years, they have collected. The goal of this course is to provide students with sufficient exposure to major methods in biophysics to enable them to pursue these more fully in their independent research.
 
 **Course Description:**
 
 This is a team-based class where students work in small groups develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the [2017](/courses/methods_2017/),  [2018](/courses/methods_2018/), [2019](/courses/methods_2019), [2020](/courses/methods_2020) editions are available online.
 
-*Course expectations*: This course will likely be different from most other courses you have taken before. Our expectation is that you will maximize your learning by being an active participant - there is significant out-of-class work required to enable this. Many learning opportunities will arise if you are willing to take advantage of the hands on experience and from those taking time to show you interesting aspects of the various methods. Data analysis will not follow a linear path - our expectation is that you start to become confortable with unknowns and messy results. It is likely that you will encounter issues using the various scientific software required for the course - while we will help troubleshoot, navigating these challenges effectively is a core expectation that we want to see students build towards during the course.
+*Course expectations*: This course will likely be different from most other courses you have taken before. Our expectation is that you will maximize your learning by being an active participant - there is significant out-of-class work required to enable this. Many learning opportunities will arise if you are willing to take advantage of the hands on experience and from those taking time to show you interesting aspects of the various methods. Data analysis will not follow a linear path - our expectation is that you start to become comfortable with unknowns and messy results. It is likely that you will encounter issues using the various scientific software required for the course - while we will help troubleshoot, navigating these challenges effectively is a core expectation that we want to see students build towards during the course.
 
 *Ethics*: This course is more than a training experience; data analysis is part of ongoing active research projects, the results of which will be published to the broader scientific community. The community must be able to understand our work, replicate it, and have confidence in its findings. We must therefore ensure the integrity of the information we disseminate. To do so, it is essential that students perform and document their experiments and analyses as faithfully as possible. Mistakes and oversights are normal and to be expected, but they must not be ignored, concealed, or disguised. 
 
@@ -50,7 +50,7 @@ This is a team-based class where students work in small groups develop their own
 
 *Accommodations for students with disabilities*: The Graduate Division embraces all students, including students with documented disabilities. UCSF is committed to providing all students equal access to all of its programs, services, and activities. Student Disability Services (SDS) is the campus office that works with students who have disabilities to determine and coordinate reasonable accommodations. Students who have, or think they may have, a disability are invited to contact SDS (StudentDisability@ucsf.edu); or 415-476-6595) for a confidential discussion and to review the process for requesting accommodations in classroom and clinical settings. More information is available online at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students are encouraged to register with Student Disability Services (http://sds.ucsf.edu/) as soon as they begin their programs. UCSF encourages students to engage in support seeking behavior via all of the resources available through Student Life, for consistent support and access to their programs.
 
-*Commitment to Diversity, Equity and Inclusion*: The course instructors and teaching assistants value the contributions, ideas and perspective of all students. It is our intent that students from diverse backgrounds be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. However, we also acknowledge that many of the literature examples used in this course were authored in an environment that marginalized many groups. Integrating a diverse set of experiences is important for a more comprehensive understanding of science and we strive towards that goal. Although the instructors are committed to continuous improvement of our practices and our learning environment, we value input from students and your suggestions are encouraged and appreciated. Please let the course director or program leadership know ways to improve the effectiveness of the course for you personally, or for other students or student groups. (modeled after CCB and [Brown University's Diversity & Inclusion Syllabus Statements](https://www.brown.edu/sheridan/teaching-learning-resources/inclusive-teaching/statements))
+*Commitment to Diversity, Equity and Inclusion*: The course instructors and teaching assistants value the contributions, ideas and perspectives of all students. It is our intent that students from diverse backgrounds be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. However, we also acknowledge that many of the literature examples used in this course were authored in an environment that marginalized many groups. Integrating a diverse set of experiences is important for a more comprehensive understanding of science and we strive towards that goal. Although the instructors are committed to continuous improvement of our practices and our learning environment, we value input from students and your suggestions are encouraged and appreciated. Please let the course director or program leadership know ways to improve the effectiveness of the course for you personally, or for other students or student groups. (modeled after CCB and [Brown University's Diversity & Inclusion Syllabus Statements](https://www.brown.edu/sheridan/teaching-learning-resources/inclusive-teaching/statements))
 
 ## 2024 schedule
 
@@ -78,24 +78,9 @@ This is a team-based class where students work in small groups develop their own
 ## JOURNAL CLUB ASSIGNMENTS
 [Link](https://ucsf.box.com/s/54lzotplqwi1t5nxy7e5fp600d47kvg5)
 
-# Jan 6-7 Introduction
 
-<a name="Jan6"></a>
-## Monday January 6
-- Course overview (JG)
-	- Introduction to instructors and TAs
- 	- Structure of the class - timeline, topics covered, self-assessments
- 	- Journal clubs
- 	- Participation - teams and work-together recommendations/expectations
-  	- Auditing
-  	- Relationship to Macro mini-quals
-- Why study methods in biophysics? (JG)
-- [High-level review of thermodynamics and kinetics](https://ucsf.box.com/s/4gnx8w0p7lj2qlved55ne149ibolwpq7)(JG)
 
-	   
-- Out-of-class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
-
-## Tuesday January 7 Intro to Methods and Software Check
+# Tuesday, January 7 Introduction to the Course and Software Check
 - 15 minute introduction to techniques covered 
 	- Cryo-EM (DS)
 	- ML-based Structure Prediction (TG)
