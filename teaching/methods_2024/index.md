@@ -161,7 +161,7 @@ This is a team-based class where students work in small groups develop their own
 - 9-10am, tutorial on overlay spectra for chemical shift perturbation analysis using Sparky. 
 - 10-11:30am, overlay HSQC spectra, cross-peak bookkeeping analysis, mapping CSPs onto structures
 - [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
-- Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown] (http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
+
 
 
 ## Materials for TA Office Hours
