@@ -120,10 +120,10 @@ This is a team-based class where students work in small groups develop their own
 
 ## Tuesday January 21,
 
-### Group Presentations, 15 minutes + 5 min Q&A
-- 9:00-9:20am  Team 1
-- 9:20-9:40  Team 2
-- 9:40-10:00 Tea  3
+### Group Presentations, 20 minutes + 10 min Q&A
+- 9:00-9:30am  Team 1
+- 9:30-10:00  Team 2
+- 10:00-10:30 Team  3
 
 
 # Jan 23-February 4  Protein NMR - John Gross, Dominic Grisingher and Catherine Kuhn
@@ -151,16 +151,16 @@ This is a team-based class where students work in small groups develop their own
 
 ## Thursday, January 30th
 ### Spectral overlays and  CSP analyses 
-- 9-10am, tutorial on overlay spectra for chemical shift perturbation analysis using sparky. 
-- 10-11:30am, overlay HSQC spectra, cross-peak book keeping analysis, mapping CPS onto structures
+- 9-10am, tutorial on overlay spectra for chemical shift perturbation analysis using Sparky. 
+- 10-11:30am, overlay HSQC spectra, cross-peak bookkeeping analysis, mapping CPS onto structures
 - [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
 - Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown] (http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 ## Tuesday February 4
-### Final Presentations NMR, 15 minutes + 5 min Q&A
-- 9:00-9:20  Team 1
-- 9:20-9:40  Team 2
-- 9:40-10:00 Team 3
+### Final Presentations NMR, 20 minutes + 10 min Q&A
+- 9:00-9:30  Team 1
+- 9:30-10:00  Team 2
+- 10:00-10:30 Team 3
 
 
 ## Materials for TA Office Hours
