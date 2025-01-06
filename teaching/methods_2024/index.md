@@ -80,7 +80,9 @@ This is a team-based class where students work in small groups develop their own
 
 
 
-# Tuesday, January 7 Introduction to the Course and Software Check
+## Tuesday, January 7 
+### 9:00-10:30am Introduction to the Course and Software Check
+- Course overview, philosophy, introductions
 - 15 minute introduction to techniques covered 
 	- Cryo-EM (DS)
 	- ML-based Structure Prediction (TG)
