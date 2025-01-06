@@ -27,7 +27,7 @@ group: courses
 
 **TAs:**
 - [Angelica Lam](mailto:angelica.lam@ucsf.edu)
-- [Le Mihn](mailto:mihn.le4@ucsf.edu)
+- [Le Minh](mailto:minh.le4@ucsf.edu)
 
 **Lecturers/Facilitators:**
 
