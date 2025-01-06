@@ -150,9 +150,9 @@ This is a team-based class where students work in small groups develop their own
   
 
 ## Thursday, January 30th
-### [Lecture from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE4.pdf)
+### Spectral overlays and  CSP analyses 
 - 9-10am, tutorial on overlay spectra for chemical shift perturbation analysis using sparky. 
-- 10-11:30am, overlay HSQC spectra, cross-peak book keeping analysis
+- 10-11:30am, overlay HSQC spectra, cross-peak book keeping analysis, mapping CPS onto structures
 - [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
 - Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown] (http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
