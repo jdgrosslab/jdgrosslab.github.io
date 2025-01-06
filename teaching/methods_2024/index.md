@@ -154,7 +154,7 @@ This is a team-based class where students work in small groups develop their own
 - 9:30-10:30 am Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
 
 ## Wednesday, Feb 5, Note special time
-- 11am-noon wrap up 13C HSQC processing
+- 11am-noon wrap up 13C HSQC processing, TAs or JG will be present
 
 ## Thursday, Feb 6th
 ### Chemical shift perturbation (CSP) mapping 
