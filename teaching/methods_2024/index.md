@@ -121,7 +121,7 @@ This is a team-based class where students work in small groups develop their own
 ## Tuesday January 21,
 
 ### Group Presentations, 20 minutes + 10 min Q&A
-- 9:00-9:30am  Team 1
+- 9:00-9:30  Team 1
 - 9:30-10:00  Team 2
 - 10:00-10:30 Team  3
 
@@ -130,7 +130,7 @@ This is a team-based class where students work in small groups develop their own
 ## Thursday, Jan 23, The Fourier Transform and NMR Data processing
 - 9:00-10:00, [Theory](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk) (JG)
 - 10-11:30, [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl) (JG)
-- [Before class, review Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf
+- [Before class, review Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 ## Tuesday, Jan 28th, group work
