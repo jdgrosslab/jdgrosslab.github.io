@@ -83,10 +83,6 @@ This is a team-based class where students work in small groups develop their own
 ## Tuesday, January 7 
 ### 9:00-10:30am Introduction to the Course and Software Check
 - Course overview, philosophy, introductions
-- 15 minute introduction to techniques covered 
-	- Cryo-EM (DS)
-	- ML-based Structure Prediction (TG)
-	- NMR (JG)
 - Software check, ChimeraX, NMRBox, Wynton accounts
 - Installation and registration:
 - [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
@@ -100,8 +96,9 @@ This is a team-based class where students work in small groups develop their own
 <a name="Jan9"></a>
 ## Thursday January 9 
 ### 9:00-11:30am Visualizing and comparing atomic models with ChimeraX (Tom Goddard)
+- 9:00-9:15, Journal Club
+- 9:15-11:30 ChimeraX tutorials, please have ChimeraX 1.9 of daily build installed on your laptops
 - NMR chemical shift mapping onto protein solvent accessible surface
-- Please have ChimeraX 1.9 of daily build installed on your laptops
 - [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
 - Some past tutorials:
 - [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
@@ -110,7 +107,8 @@ This is a team-based class where students work in small groups develop their own
 <a name="Jan14"></a>
 ## Tuesday January 14
 ### 9:00-10:30am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
-- Students, make sure you have a Wynton Account
+- 9:00-9:15, Journal Club
+- 9:15-10:30, Tutorials, students please make sure you have a Wynton Account and AF3 parameters
 - [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
 - [Optional-View AF3 code on GitHub](https://github.com/google-deepmind/alphafold3)
 
@@ -155,8 +153,8 @@ This is a team-based class where students work in small groups develop their own
 <a name="Feb4"></a>
 ## Tuesday Feb 4th
 ### Introduction to ILV labeling of proteins for methyl group NMR
-- 9:00 Background
-- 9:30-10:30 am Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
+- 9:00-9:15, Journal Club 
+- 9:15-10:30 Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
 
 <a name="Feb5"></a>
 ## Wednesday, Feb 5, Note special time
@@ -165,8 +163,9 @@ This is a team-based class where students work in small groups develop their own
 <a name="Feb6"></a>
 ## Thursday, Feb 6th
 ### Chemical shift perturbation (CSP) mapping 
-- 9-10am, tutorial on overlay spectra for chemical shift perturbation analysis using Sparky. 
-- 10-11:30am, overlay HSQC spectra, cross-peak bookkeeping analysis, mapping CSPs onto structures
+- 9:00-9:15, Journal Club
+- 9:15-10:00, tutorial on overlay spectra for chemical shift perturbation analysis using Sparky. 
+- 10-11:30, overlay HSQC spectra, cross-peak bookkeeping analysis, mapping CSPs onto structures
 - [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
 
 
