@@ -130,7 +130,7 @@ This is a team-based class where students work in small groups develop their own
 ## Thursday, Jan 23 Data collection (Dominic Grisingher and Catherine Kuhn)
 ### 9:00-11:30am Acquiring and processing 15N HSQC Data
 
-- 9:00-10:00 Team 1, NMR Lab , Teams 2 and 3 process 15N HSQCs  
+- 9:00-10:00 Team 1, NMR Lab, Teams 2 and 3 process 15N HSQCs  
 - 10:00-11:00 Team 2, NMR Lab, Teams 1 and 3 process 15N HSQCs
 - 11:00-noon 	Team 3, NMR Lab, Teams 1 and 2 process 15N HSQCs
 
@@ -152,9 +152,9 @@ This is a team-based class where students work in small groups develop their own
 ## Thursday, January 30th
 ### [Lecture from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE4.pdf)
 - 9-10am, tutorial on overlay spectra for chemical shift perturbation analysis using sparky. 
-- 10-11:30am, overlay HSQC spectra
+- 10-11:30am, overlay HSQC spectra, cross-peak book keeping analysis
 - [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
-- Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
+- Supplemental reading: [CSP mapping by NMR when resonance assignments of the bound state are unknown] (http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 ## Tuesday February 4
 ### Final Presentations NMR, 15 minutes + 5 min Q&A
