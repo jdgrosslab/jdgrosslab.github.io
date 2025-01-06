@@ -87,7 +87,6 @@ This is a team-based class where students work in small groups develop their own
  	- Participation - teams and work-together recommendations/expectations
   	- Auditing
   	- Relationship to Macro mini-quals
-  	- Final writeups
 - Why study methods in biophysics? (JG)
 - [High-level review of thermodynamics and kinetics](https://ucsf.box.com/s/4gnx8w0p7lj2qlved55ne149ibolwpq7)(JG)
 
