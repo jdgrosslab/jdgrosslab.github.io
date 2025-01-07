@@ -58,18 +58,18 @@ This is a team-based class where students work in small groups develop their own
 
 ## TEAM ASSIGNMENTS
 
-- **Team name: 1**
+**Team name: 1**
    - Garrison Asper
    - Keana Davis
    - Yagmur Doruk Polcyn
    - Gyuna Kim
-- **Team name: 2**
+**Team name: 2**
    - Isabella Glenn
    - Nikhil Gupta
    - Yulia Gutierrez
    - Isaiah Hazelwood
    - Rachel Munitz
-- **Team name: 3**
+**Team name: 3**
    - Harshu Musunuri
    - Sophie-Chris Porak
    - Justin Sim
@@ -125,6 +125,7 @@ This is a team-based class where students work in small groups develop their own
 ## Tuesday January 21,
 
 ### Group Presentations, 20 minutes + 10 min Q&A
+
 - 9:00-9:30  Team 1
 - 9:30-10:00  Team 2
 - 10:00-10:30 Team  3
@@ -192,6 +193,7 @@ This is a team-based class where students work in small groups develop their own
 
 
 ## Reading on rigor and reproducibility in NMR:
+
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
@@ -260,6 +262,7 @@ This is a team-based class where students work in small groups develop their own
 
 ## High-throughput methods and integration with macromolecular structure
 ### Tuesday, March 18 Deep mutational scans (Willow Coyote-Maestas)
+
 - 9-10:30 Theory
 
 <a name="Mar20"></a>
