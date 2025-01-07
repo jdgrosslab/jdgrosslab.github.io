@@ -63,12 +63,14 @@ This is a team-based class where students work in small groups develop their own
    - Keana Davis
    - Yagmur Doruk Polcyn
    - Gyuna Kim
+
 **Team name: 2**
    - Isabella Glenn
    - Nikhil Gupta
    - Yulia Gutierrez
    - Isaiah Hazelwood
    - Rachel Munitz
+
 **Team name: 3**
    - Harshu Musunuri
    - Sophie-Chris Porak
