@@ -168,7 +168,7 @@ This is a team-based class where students work in small groups develop their own
 <a name="Feb5"></a>
 ## Wednesday, Feb 5, Note special time
 
-- 11am-noon wrap up 13C HSQC processing, TAs or JG will be present
+- noon-1pm wrap up 13C HSQC processing, TAs or JG will be present in teaching lab
 
 <a name="Feb6"></a>
 ## Thursday, Feb 6th
