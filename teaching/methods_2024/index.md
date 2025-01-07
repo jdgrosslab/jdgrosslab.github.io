@@ -150,10 +150,10 @@ This is a team-based class where students work in small groups develop their own
 <a name="Jan30"></a>
 ## Thursday, Jan 30th Data collection (Dominic Grisingher and Catherine Kuhn)
 ### 9:00-11:30am Acquiring and processing 15N HSQC Data
-
-- 9:00-10:00 Team 1, NMR Lab, Teams 2 and 3 finish processing 15N HSQCs  
-- 10:00-11:00 Team 2, NMR Lab, Teams 1 and 3 finish processing 15N HSQCs
-- 11:00-noon 	Team 3, NMR Lab, Teams 1 and 2 finish processing 15N HSQCs
+### Note special location: groups will meet in NMRLAB GH S106 for data acquisition or Mission Hall 2105 for processing
+- 9:00-10:00 Team 1, NMR Lab, Teams 2 and 3 finish processing 15N HSQCs in MH 2105 
+- 10:00-11:00 Team 2, NMR Lab, Teams 1 and 3 finish processing 15N HSQCs in MH 2105
+- 11:00-noon 	Team 3, NMR Lab, Teams 1 and 2 finish processing 15N HSQCs in MH 2015
 
 - [Acquiring_2D_15N-HSQC_in_TopSpin](https://ucsf.box.com/s/tc0dg14opvz3bfdht92r6pn56h3i7fg4)
 - [Processing_Data_in_TopSpin](https://ucsf.box.com/s/6jznx75m14b24xf84ot8cgporudfkf8i)
