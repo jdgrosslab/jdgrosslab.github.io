@@ -76,6 +76,7 @@ This is a team-based class where students work in small groups develop their own
    - Sophie-Chris Porak
    - Justin Sim
    - Craig Soares
+   - Rashad Reid
  
 ## JOURNAL CLUB ASSIGNMENTS
 [Link](https://ucsf.box.com/s/54lzotplqwi1t5nxy7e5fp600d47kvg5)
