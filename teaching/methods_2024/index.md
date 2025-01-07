@@ -59,21 +59,21 @@ This is a team-based class where students work in small groups develop their own
 ## TEAM ASSIGNMENTS
 
 - Team name: 1
-    	- Garrison Asper
-    	- Keana Davis
-    	- Yagmur Doruk Polcyn
-    	- Gyuna Kim
+    * Garrison Asper
+    * Keana Davis
+    * Yagmur Doruk Polcyn
+    * Gyuna Kim
 - Team name: 2
-    	- Isabella Glenn
-    	- Nikhil Gupta
-    	- Yulia Gutierrez
-    	- Isaiah Hazelwood
-    	- Rachel Munitz
+    * Isabella Glenn
+    * Nikhil Gupta
+    * Yulia Gutierrez
+    * Isaiah Hazelwood
+    * Rachel Munitz
 - Team name: 3
-    	- Harshu Musunuri
-    	- Sophie-Chris Porak
-    	- Justin Sim
-    	- Craig Soares
+    * Harshu Musunuri
+    * Sophie-Chris Porak
+    * Justin Sim
+    * Craig Soares
  
 ## JOURNAL CLUB ASSIGNMENTS
 [Link](https://ucsf.box.com/s/54lzotplqwi1t5nxy7e5fp600d47kvg5)
