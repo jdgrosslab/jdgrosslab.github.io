@@ -84,7 +84,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Jan7"></a>
 ## Tuesday, January 7 
-### 9:00-10:30am Introduction to the Course and Software Check
+#### 9:00-10:30am Introduction to the Course and Software Check
 
 - Software check, ChimeraX, NMRBox, Wynton accounts
 - Installation and registration:
@@ -98,7 +98,7 @@ This is a team-based class where students work in small groups develop their own
      	
 <a name="Jan9"></a>
 ## Thursday January 9 
-### 9:00-11:30am Visualizing and comparing atomic models with ChimeraX (Tom Goddard)
+#### 9:00-11:30am Visualizing and comparing atomic models with ChimeraX (Tom Goddard)
 
 - 9:00-9:15, Journal Club
 - 9:15-11:30 ChimeraX tutorials, please have ChimeraX 1.9 of daily build installed on your laptops
@@ -110,7 +110,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Jan14"></a>
 ## Tuesday January 14
-### 9:00-10:30am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
+#### 9:00-10:30am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
 
 - 9:00-9:15, Journal Club
 - 9:15-10:30, Tutorials, students please make sure you have a Wynton Account and AF3 parameters
@@ -119,7 +119,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Jan16"></a>
 ## Thursday January 16
-### Group Work, Ligand Screening with AF3
+#### Group Work, Ligand Screening with AF3
 
 - [Tutorial](https://www.rbvi.ucsf.edu/chimerax/data/af3-drugs-dec2024/af3_drugs.html)
 
@@ -127,7 +127,7 @@ This is a team-based class where students work in small groups develop their own
 <a name="Jan21"></a>
 ## Tuesday January 21,
 
-### Group Presentations, 20 minutes + 10 min Q&A
+#### Group Presentations, 20 minutes + 10 min Q&A
 
 - 9:00-9:30  Team 1
 - 9:30-10:00  Team 2
@@ -135,7 +135,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Jan23"></a>
 # Jan 23-February 4  Protein NMR - John Gross, Dominic Grisingher and Catherine Kuhn
-## Thursday, Jan 23, The Fourier Transform and NMR Data processing
+#### Thursday, Jan 23, The Fourier Transform and NMR Data processing
 
 - 9:00-10:00, [Theory](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk) (JG)
 - 10-11:30, [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl) (JG)
@@ -143,14 +143,14 @@ This is a team-based class where students work in small groups develop their own
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 <a name="Jan28"></a>
-## Tuesday, Jan 28th, group work
+#### Tuesday, Jan 28th, group work
 
 - 9:00-10:30 am, Process 15N HSQC of nanobodies alone and bound to SARS-CoV-2 Spike RBD.
 
 <a name="Jan30"></a>
 ## Thursday, Jan 30th Data collection (Dominic Grisingher and Catherine Kuhn)
-### 9:00-11:30am Acquiring and processing 15N HSQC Data
-### Note special location: groups will meet in NMRLAB GH S106 for data acquisition or Mission Hall 2105 for processing
+#### 9:00-11:30am Acquiring and processing 15N HSQC Data
+#### Note special location: groups will meet in NMRLAB GH S106 for data acquisition or Mission Hall 2105 for processing
 - 9:00-10:00 Team 1, NMR Lab, Teams 2 and 3 finish processing 15N HSQCs in MH 2105 
 - 10:00-11:00 Team 2, NMR Lab, Teams 1 and 3 finish processing 15N HSQCs in MH 2105
 - 11:00-noon 	Team 3, NMR Lab, Teams 1 and 2 finish processing 15N HSQCs in MH 2015
@@ -161,7 +161,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Feb4"></a>
 ## Tuesday Feb 4th
-### Introduction to ILV labeling of proteins for methyl group NMR
+#### Introduction to ILV labeling of proteins for methyl group NMR
 
 - 9:00-9:15, Journal Club 
 - 9:15-10:30 Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
@@ -173,7 +173,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Feb6"></a>
 ## Thursday, Feb 6th
-### Chemical shift perturbation (CSP) mapping 
+#### Chemical shift perturbation (CSP) mapping 
 
 - 9:00-9:15, Journal Club
 - 9:15-10:00, tutorial on overlay spectra for chemical shift perturbation analysis using Sparky. 
@@ -188,7 +188,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Feb11"></a>
 ## Tuesday February 11
-### Final Presentations NMR, 20 minutes + 10 min Q&A
+#### Final Presentations NMR, 20 minutes + 10 min Q&A
 
 - 9:00-9:30  Team 1
 - 9:30-10:00  Team 2
@@ -204,7 +204,7 @@ This is a team-based class where students work in small groups develop their own
 <a name="Feb13"></a>
 # Feb 13- Mar 4 Electron Microscopy (Dan Southworth), Practicals Max Tucker, Alex Long, Greg Merz, Eric Tse and Arthur Melo
 ## Thursday, February 13
-### Cryo-EM Sample Preparation (note special classrooms)
+#### Cryo-EM Sample Preparation (note special classrooms)
 
 - 9:00-9:30AM, Overview and Introduction to Vitrification (GH S416)
 - 9:30-11:30, Hands-on sample preparation and vitrification. Team 1: GH S101, Team 2-3, Sandler Neuroscience Building 3rd Floor, Southworth Laboratory 
@@ -212,7 +212,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Feb18"></a>
 ## Tuesday, February 18
-### Cryo-EM Data Collection
+#### Cryo-EM Data Collection
 
 - 9:00 AM: Team 1: Meet in GH S101; Team 2-3: Meet in Sandler Lobby
 - 9:10-10:30: Hands-on microscope operation and data collection
@@ -221,7 +221,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Feb20"></a>
 ## Thursday, February 20
-### 3D Classification and Refinement
+#### 3D Classification and Refinement
 
 - Meet in Genentech Hall S416
 - 9:00-9:30: 2D Processing Setup and CryoSPARC tutorial
@@ -231,7 +231,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Feb25"></a>
 ## Tuesday, February 25
-### Analyses of 3D classes and refinement
+#### Analyses of 3D classes and refinement
 
 - Meet in Genentech Hall S416
 - 9:00-10:00 Analysis of 3D Classes (particle count, angular sampling, and resolution using cryoSPARC and ChimeraX)
@@ -240,7 +240,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Feb27"></a>
 ## Thursday, February 27
-### Fitting and refinement
+#### Fitting and refinement
 
 - Meet in Genentech Hall S416
 - 9:00-9:30AM Question and Answer Catch Up
@@ -264,13 +264,13 @@ This is a team-based class where students work in small groups develop their own
 
 
 ## High-throughput methods and integration with macromolecular structure
-### Tuesday, March 18 Deep mutational scans (Willow Coyote-Maestas)
+#### Tuesday, March 18 Deep mutational scans (Willow Coyote-Maestas)
 
 - 9-10:30 Theory
 
 <a name="Mar20"></a>
 ## Thursday March 20
-### Deep-mutational-scanning (Willow Coyote-Maestas)
+#### Deep-mutational-scanning (Willow Coyote-Maestas)
 
 - 9-10:30 Exploring data sets
 
