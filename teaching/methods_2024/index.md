@@ -195,7 +195,7 @@ This is a team-based class where students work in small groups develop their own
 - 10:00-10:30 Team 3
 
 
-## Reading on rigor and reproducibility in NMR:
+### Reading on rigor and reproducibility in NMR:
 
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
