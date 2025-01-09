@@ -150,7 +150,7 @@ This is a team-based class where students work in small groups develop their own
 - Read before class: [An ultrapotent synthetic nanobody neutralizes SARS-CoV-2 by Stabilizing Inactive Spike](https://www.science.org/doi/pdf/10.1126/science.abe3255)
   
 <a name="Jan30"></a>
-### Thursday, Jan 30th Data collection (Dominic Grisingher and Catherine Kuhn)
+### Thursday, Jan 30th Hands-on Data collection (Dominic Grisingher and Catherine Kuhn)
 #### 9:00-11:30am Acquiring and processing 15N HSQC Data
 #### Note special location: groups will meet in NMRLAB GH S106 for data acquisition or Mission Hall 2105 for processing
 - 9:00-10:00 Team 1, NMR Lab, Teams 2 and 3 finish processing 15N HSQCs in MH 2105 
