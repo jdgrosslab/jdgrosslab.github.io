@@ -97,7 +97,7 @@ This is a team-based class where students work in small groups develop their own
 - [CCP4/Phenix/ADXV/EMan2 download tutorial](https://docs.google.com/document/d/1pRA-pERFvX05yrGZcZjfugxiV5YDyrFsX64yHhcyOmw/edit#)
      	
 <a name="Jan9"></a>
-## Jan 9-21 Machine Learning based structure prediction (Tom Goddard)
+## Jan 9-21 Structure Prediction and Drug Interaction Prospecting with AF3 (Tom Goddard)
 ### Thursday January 9 
 #### 9:00-11:30am Visualizing and comparing atomic models with ChimeraX 
 
@@ -262,7 +262,7 @@ This is a team-based class where students work in small groups develop their own
 - 9:30-10:00  Team 2
 - 10:00-10:30 Team 3
 
-# Supplemental material and tutorial videos
+## Supplemental material and tutorial videos
 
 - [Getting started in CryoEM - Grant Jensen lectures](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
 - [LMB EM Course](https://www2.mrc-lmb.cam.ac.uk/research/scientific-training/electron-microscopy/)
