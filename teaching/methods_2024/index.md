@@ -84,7 +84,7 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Jan7"></a>
 ### Tuesday, January 7 
-#### 9:00-10:30am Introduction to the Course and Software Check
+#### 9:00-10:30AM Introduction to the Course and Software Check
 
 - Software check, ChimeraX, NMRBox, Wynton accounts
 - Installation and registration:
@@ -99,7 +99,7 @@ This is a team-based class where students work in small groups develop their own
 <a name="Jan9"></a>
 ## Jan 9-21 Structure Prediction and Drug Interaction Prospecting with AF3 (Tom Goddard)
 ### Thursday January 9 
-#### 9:00-11:30am Visualizing and comparing atomic models with ChimeraX 
+#### 9:00-11:30AM Visualizing and comparing atomic models with ChimeraX 
 
 - 9:00-9:15, Journal Club
 - 9:15-11:30 ChimeraX tutorials, please have ChimeraX 1.9 of daily build installed on your laptops
@@ -111,9 +111,9 @@ This is a team-based class where students work in small groups develop their own
 
 <a name="Jan14"></a>
 ### Tuesday January 14
-#### 9:00-10:30am Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
+#### 9:00-10:30AM Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
 
-- 9:00-9:15, Journal Club
+- 9:00-9:15AM, Journal Club
 - 9:15-10:30, Tutorials, students please make sure you have a Wynton Account and AF3 parameters
 - [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
 - [Optional-View AF3 code on GitHub](https://github.com/google-deepmind/alphafold3)
@@ -130,24 +130,25 @@ This is a team-based class where students work in small groups develop their own
 
 #### Group Presentations, 20 minutes + 10 min Q&A
 
-- 9:00-9:30  Team 1
+- 9:00-9:30AM  Team 1
 - 9:30-10:00  Team 2
 - 10:00-10:30 Team  3
 
 <a name="Jan23"></a>
-## Jan 23-February 4  Protein NMR - John Gross, Dominic Grisingher and Catherine Kuhn
+## Jan 23-February 4  Protein NMR , Nanobodies for SARS-CoV-2 Spike- John Gross, Dominic Grisingher and Catherine Kuhn
 ### Thursday, Jan 23, The Fourier Transform and NMR Data processing
 
-- 9:00-10:00, [Theory](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk) (JG)
+- 9:00-10:00AM, [Theory](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk) (JG)
 - 10-11:30, [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl) (JG)
 - [Before class, review Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 <a name="Jan28"></a>
-### Tuesday, Jan 28th, group work
-
-- 9:00-10:30 am, Process 15N HSQC of nanobodies alone and bound to SARS-CoV-2 Spike RBD.
-
+### Tuesday, Jan 28th, Process 15N HSQC of nanobody and nanobody Spike complexes
+- 9:00-9:15AM, Introduction
+- 9:00-10:30, Work in Groups
+- Read before class: [An ultrapotent synthetic nanobody neutralizes SARS-CoV-2 by Stabilizing Inactive Spike](https://www.science.org/doi/pdf/10.1126/science.abe3255)
+  
 <a name="Jan30"></a>
 ### Thursday, Jan 30th Data collection (Dominic Grisingher and Catherine Kuhn)
 #### 9:00-11:30am Acquiring and processing 15N HSQC Data
@@ -167,11 +168,6 @@ This is a team-based class where students work in small groups develop their own
 - 9:00-9:15, Journal Club 
 - 9:15-10:30 Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
 
-<a name="Feb5"></a>
-### Wednesday, Feb 5, Note special time
-
-- noon-1pm wrap up 13C HSQC processing, TAs or JG will be present in teaching lab
-
 <a name="Feb6"></a>
 ### Thursday, Feb 6th
 #### Chemical shift perturbation (CSP) mapping 
@@ -181,19 +177,24 @@ This is a team-based class where students work in small groups develop their own
 - 10-11:30, overlay HSQC spectra, cross-peak bookkeeping analysis, mapping CSPs onto structures
 - [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
 
-
+<a name="Feb11"></a>
+### Tuesday, Feb 11, 
+-9:00-9:30am Question and Answer Catch-up
+- 9:30-10:30am wrap up 13C HSQC processing and CSP analysis 
 
 ### Materials for TA Office Hours
 
 - [1-an example  13C HSQC of Nb6 , 2-Nb6 and mNb sequences, 3-Sparky tutorial](https://ucsf.box.com/s/boxmdnws7xbg04p812agth005b7augu5)
 
-<a name="Feb11"></a>
-### Tuesday February 11
+<a name="Feb13"></a>
+### Thursday February 13
 #### Final Presentations NMR, 20 minutes + 10 min Q&A
+- 9:00-9:50am Finish Preparation for Final Presentations
+- 9:50-10:00  Break
+- 10:00-10:30 Final Presentation Team 1
+- 10:30-11:00 Final Presentation Team 2
+- 11:00-11:30 Final Presentation Team 3
 
-- 9:00-9:30  Team 1
-- 9:30-10:00  Team 2
-- 10:00-10:30 Team 3
 
 
 ### Reading on rigor and reproducibility in NMR:
