@@ -108,7 +108,8 @@ This is a team-based class where students work in small groups develop their own
 - Some past tutorials:
 - [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 - [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
-
+- [Exploring atomic models, NMR and cryoEM data, and Foldseek results with ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
+  
 <a name="Jan14"></a>
 ### Tuesday January 14
 #### 9:00-10:30AM Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
@@ -117,7 +118,8 @@ This is a team-based class where students work in small groups develop their own
 - 9:15-10:30, Tutorials, students please make sure you have a Wynton Account and AF3 parameters
 - [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
 - [Optional-View AF3 code on GitHub](https://github.com/google-deepmind/alphafold3)
-
+- [AlphaFold 3 drug screening](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/af3_drugs.html)
+  
 <a name="Jan16"></a>
 ### Thursday January 16
 #### Group Work, Ligand Screening with AF3
