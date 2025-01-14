@@ -108,7 +108,7 @@ This is a team-based class where students work in small groups develop their own
 - Some past tutorials:
 - [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 - [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
-- [Exploring atomic models, NMR and cryoEM data, and Foldseek results with Chimera](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
+- [Exploring atomic models, NMR, cryoEM data, Foldseek results with ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
   
 <a name="Jan14"></a>
 ### Tuesday January 14
