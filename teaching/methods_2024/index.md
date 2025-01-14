@@ -112,10 +112,10 @@ This is a team-based class where students work in small groups develop their own
 - [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
   
 <a name="Jan14"></a>
-### Tuesday January 14: Group 2,  [Abramson et al. (2024) Accurate structure prediction of biomolecular interactions with Alpha Fold 3](https://www.nature.com/articles/s41586-024-07487-w)
+### Tuesday January 14
 #### 9:00-10:30AM Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
 
-- 9:00-9:15AM, Journal Club
+- 9:00-9:15AM, Journal Club: Group 2,  [Abramson et al. (2024) Accurate structure prediction of biomolecular interactions with Alpha Fold 3](https://www.nature.com/articles/s41586-024-07487-w)
 - 9:15-10:30, Tutorials, students please make sure you have a Wynton Account and AF3 parameters
 - [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
 - [Optional-View AF3 code on GitHub](https://github.com/google-deepmind/alphafold3)
@@ -198,8 +198,6 @@ This is a team-based class where students work in small groups develop their own
 - 10:00-10:30 Final Presentation Team 1
 - 10:30-11:00 Final Presentation Team 2
 - 11:00-11:30 Final Presentation Team 3
-
-
 
 ### Reading on rigor and reproducibility in NMR:
 
