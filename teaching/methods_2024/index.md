@@ -117,9 +117,11 @@ This is a team-based class where students work in small groups develop their own
 
 - 9:00-9:15AM, Journal Club: Group 2,  [Abramson et al. (2024) Accurate structure prediction of biomolecular interactions with Alpha Fold 3](https://www.nature.com/articles/s41586-024-07487-w)
 - 9:15-10:30, Tutorials, students please make sure you have a Wynton Account and AF3 parameters
-- [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
-- [Optional-View AF3 code on GitHub](https://github.com/google-deepmind/alphafold3)
 - [AlphaFold 3 drug screening](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/af3_drugs.html)
+- [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
+
+Additional links
+- [Optional-View AF3 code on GitHub](https://github.com/google-deepmind/alphafold3)
 - [More generic instructions for drug screening with AF3](https://www.rbvi.ucsf.edu/chimerax/data/af3-drugs-dec2024/af3_drugs.html)
   
 <a name="Jan16"></a>
