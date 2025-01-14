@@ -101,7 +101,7 @@ This is a team-based class where students work in small groups develop their own
 ### Thursday January 9 
 #### 9:00-11:30AM Visualizing and comparing atomic models with ChimeraX 
 
-- 9:00-9:15, Journal Club
+- 9:00-9:15, Journal Club: Group 1, van Kempen et al. (2024) Fast and accurate protein structure search with Foldseek
 - 9:15-11:30 ChimeraX tutorials, please have ChimeraX 1.9 of daily build installed on your laptops
 - NMR chemical shift mapping onto protein solvent accessible surface
 - [Exploring atomic models, NMR and cryoEM data, and Foldseek results with Chimera](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
@@ -112,7 +112,7 @@ This is a team-based class where students work in small groups develop their own
 - [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
   
 <a name="Jan14"></a>
-### Tuesday January 14
+### Tuesday January 14: Group 2,  [Abramson et al. (2024) Accurate structure prediction of biomolecular interactions with Alpha Fold 3](https://www.nature.com/articles/s41586-024-07487-w)
 #### 9:00-10:30AM Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
 
 - 9:00-9:15AM, Journal Club
@@ -169,7 +169,7 @@ This is a team-based class where students work in small groups develop their own
 ### Tuesday Feb 4th
 #### Introduction to ILV labeling of proteins for methyl group NMR
 
-- 9:00-9:15, Journal Club 
+- 9:00-9:15, Journal Club
 - 9:15-10:30 Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
 
 <a name="Feb6"></a>
