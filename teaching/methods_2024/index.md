@@ -145,7 +145,7 @@ Additional links
 ### Thursday, Jan 23, The Fourier Transform and NMR Data processing
 
 - 9:00-10:00AM, [Theory](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk) (JG)
-- 10-11:30, [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl) (JG)
+- 10-11:30, [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/j661e28044xbagcvywoqya9lukh9g19c) (JG)
 - [Before class, review Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
