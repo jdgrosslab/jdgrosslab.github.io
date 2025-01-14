@@ -104,11 +104,12 @@ This is a team-based class where students work in small groups develop their own
 - 9:00-9:15, Journal Club
 - 9:15-11:30 ChimeraX tutorials, please have ChimeraX 1.9 of daily build installed on your laptops
 - NMR chemical shift mapping onto protein solvent accessible surface
-- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
+- [Exploring atomic models, NMR and cryoEM data, and Foldseek results with Chimera](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
+
 - Some past tutorials:
 - [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 - [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
-- [Exploring atomic models, NMR, cryoEM data, Foldseek results with ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
+- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
   
 <a name="Jan14"></a>
 ### Tuesday January 14
