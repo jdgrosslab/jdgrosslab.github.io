@@ -119,12 +119,13 @@ This is a team-based class where students work in small groups develop their own
 - [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
 - [Optional-View AF3 code on GitHub](https://github.com/google-deepmind/alphafold3)
 - [AlphaFold 3 drug screening](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/af3_drugs.html)
+- [More generic instructions for drug screening with AF3](https://www.rbvi.ucsf.edu/chimerax/data/af3-drugs-dec2024/af3_drugs.html)
   
 <a name="Jan16"></a>
 ### Thursday January 16
 #### Group Work, Ligand Screening with AF3
 
-- [Tutorial](https://www.rbvi.ucsf.edu/chimerax/data/af3-drugs-dec2024/af3_drugs.html)
+
 
 
 <a name="Jan21"></a>
