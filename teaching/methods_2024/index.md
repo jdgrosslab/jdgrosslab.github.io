@@ -146,12 +146,12 @@ Additional links
 
 - 9:00-10:00AM, [Theory](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk) (JG)
 - 10-11:30, [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/j661e28044xbagcvywoqya9lukh9g19c) (JG)
-- [Before class, review Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
+- [Before class, review Multidimensional NMR](https://ucsf.box.com/s/dcm7msktauh0yyinvc0ocrdfw1i3i9vh)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 <a name="Jan28"></a>
 ### Tuesday, Jan 28th, Process 15N HSQC of nanobody and nanobody Spike complexes
-- 9:00-9:15AM, Introduction
+- 9:00-9:15AM, [Journal Club Team 3](https://www.science.org/doi/pdf/10.1126/science.abe3255)
 - 9:00-10:30, Work in Groups
 - Read before class: [An ultrapotent synthetic nanobody neutralizes SARS-CoV-2 by Stabilizing Inactive Spike](https://www.science.org/doi/pdf/10.1126/science.abe3255)
   
@@ -171,22 +171,23 @@ Additional links
 ### Tuesday Feb 4th
 #### Introduction to ILV labeling of proteins for methyl group NMR
 
-- 9:00-9:15, Journal Club
+- 9:00-9:15, [Journal Club Team 1](https://pubs.acs.org/doi/10.1021/ja000350l)
 - 9:15-10:30 Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
 
 <a name="Feb6"></a>
 ### Thursday, Feb 6th
 #### Chemical shift perturbation (CSP) mapping 
 
-- 9:00-9:15, Journal Club
+- 9:00-9:15, [Journal Club Team 2](https://www.nature.com/articles/nsb1296-995.pdf)
 - 9:15-10:00, tutorial on overlay spectra for chemical shift perturbation analysis using Sparky. 
 - 10-11:30, overlay HSQC spectra, cross-peak bookkeeping analysis, mapping CSPs onto structures
-- [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
+- [Sparky tutorial](https://ucsf.box.com/s/adtpj0rcrl6ecttsqnsa5fs165qatub5)
 
 <a name="Feb11"></a>
 ### Tuesday, Feb 11, 
 -9:00-9:30am Question and Answer Catch-up
-- 9:30-10:30am wrap up 13C HSQC processing and CSP analysis 
+- 9:30-10:30am wrap up 13C HSQC processing and CSP analysis
+- [Food for thought, Aashish's miniquals](https://ucsf.box.com/s/hepo6urx0xlggtdhddo40ks5kcwhzhb5)
 
 ### Materials for TA Office Hours
 
