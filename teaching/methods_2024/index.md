@@ -153,13 +153,13 @@ Additional links
 ### Tuesday, Jan 28th, Process 15N HSQC of nanobody and nanobody Spike complexes
 - 9:00-9:15AM, [Journal Club Team 3](https://www.science.org/doi/pdf/10.1126/science.abe3255)
 - 9:00-10:30, Work in Groups
-- Read before class: [An ultrapotent synthetic nanobody neutralizes SARS-CoV-2 by Stabilizing Inactive Spike](https://www.science.org/doi/pdf/10.1126/science.abe3255)
+
   
 <a name="Jan30"></a>
 ### Thursday, Jan 30th Hands-on Data collection (Dominic Grisingher and Catherine Kuhn)
-#### 9:00-11:30am Acquiring and processing 15N HSQC Data
+#### 9:00-11:30AM Acquiring and processing 15N HSQC Data
 #### Note special location: groups will meet in NMRLAB GH S106 for data acquisition or Mission Hall 2105 for processing
-- 9:00-10:00 Team 1, NMR Lab, Teams 2 and 3 finish processing 15N HSQCs in MH 2105 
+- 9:00-10:00am Team 1, NMR Lab, Teams 2 and 3 finish processing 15N HSQCs in MH 2105 
 - 10:00-11:00 Team 2, NMR Lab, Teams 1 and 3 finish processing 15N HSQCs in MH 2105
 - 11:00-noon 	Team 3, NMR Lab, Teams 1 and 2 finish processing 15N HSQCs in MH 2015
 
@@ -171,23 +171,24 @@ Additional links
 ### Tuesday Feb 4th
 #### Introduction to ILV labeling of proteins for methyl group NMR
 
-- 9:00-9:15, [Journal Club Team 1](https://pubs.acs.org/doi/10.1021/ja000350l)
+- 9:00-9:15AM, [Journal Club Team 1](https://pubs.acs.org/doi/10.1021/ja000350l)
 - 9:15-10:30 Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
+- Read before class: [Ideas for Final Presentations, Aashish's miniquals](https://ucsf.box.com/s/hepo6urx0xlggtdhddo40ks5kcwhzhb5)
 
 <a name="Feb6"></a>
 ### Thursday, Feb 6th
 #### Chemical shift perturbation (CSP) mapping 
 
-- 9:00-9:15, [Journal Club Team 2](https://www.nature.com/articles/nsb1296-995.pdf)
+- 9:00-9:15AM, [Journal Club Team 2](https://www.nature.com/articles/nsb1296-995.pdf)
 - 9:15-10:00, tutorial on overlay spectra for chemical shift perturbation analysis using Sparky. 
 - 10-11:30, overlay HSQC spectra, cross-peak bookkeeping analysis, mapping CSPs onto structures
 - [Sparky tutorial](https://ucsf.box.com/s/adtpj0rcrl6ecttsqnsa5fs165qatub5)
 
 <a name="Feb11"></a>
 ### Tuesday, Feb 11, 
--9:00-9:30am Question and Answer Catch-up
-- 9:30-10:30am wrap up 13C HSQC processing and CSP analysis
-- [Food for thought, Aashish's miniquals](https://ucsf.box.com/s/hepo6urx0xlggtdhddo40ks5kcwhzhb5)
+- 9:00-9:30AM Question and Answer Catch-up
+- 9:30-10:30 wrap up 13C HSQC processing and CSP analysis
+
 
 ### Materials for TA Office Hours
 
@@ -196,7 +197,7 @@ Additional links
 <a name="Feb13"></a>
 ### Thursday February 13
 #### Final Presentations NMR, 20 minutes + 10 min Q&A
-- 9:00-9:50am Finish Preparation for Final Presentations
+- 9:00-9:50AM Finish Preparation for Final Presentations
 - 9:50-10:00  Break
 - 10:00-10:30 Final Presentation Team 1
 - 10:30-11:00 Final Presentation Team 2
