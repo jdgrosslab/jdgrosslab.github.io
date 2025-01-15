@@ -183,11 +183,12 @@ Additional links
 - 9:15-10:00, tutorial on overlay spectra for chemical shift perturbation analysis using Sparky. 
 - 10-11:30, overlay HSQC spectra, cross-peak bookkeeping analysis, mapping CSPs onto structures
 - [Sparky tutorial](https://ucsf.box.com/s/adtpj0rcrl6ecttsqnsa5fs165qatub5)
+- [List of common Sparky commands](https://ucsf.box.com/s/ftp2is8jgyd2f3wizpi0m1vn5rqbfzn7)
 
 <a name="Feb11"></a>
 ### Tuesday, Feb 11, 
 - 9:00-9:30AM Question and Answer Catch-up
-- 9:30-10:30 wrap up 13C HSQC processing and CSP analysis
+- 9:30-10:30 wrap-up 13C HSQC processing and CSP analysis
 
 
 ### Materials for TA Office Hours
