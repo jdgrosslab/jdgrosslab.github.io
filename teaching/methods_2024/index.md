@@ -217,7 +217,7 @@ Additional links
 
 - 9:00-9:30AM, Overview and Introduction to Vitrification (GH S416)
 - 9:30-10:40, Hands-on sample preparation and vitrification. Team 1: GH S101, Team 2-3, Sandler Neuroscience Building 3rd Floor, Southworth Laboratory 
-- Homework: [Grant Jenson Lectures on Sample Preparation Part 1 and Part4](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
+- Homework: [Grant Jensen Lectures on Sample Preparation Part 1 and Part4](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
 <a name="Feb20"></a>
 ### Thursday, February 20
@@ -226,7 +226,7 @@ Additional links
 - 9:00 AM: Team 1: Meet in GH S101; Team 2-3: Meet in Sandler Lobby
 - 9:10-10:20: Hands-on microscope operation and data collection
 - 10:30-11:30: 2D Processing Setup and CryoSPARC tutorial
-- Homework: [Grant Jenson Lectures on Particle Picking and 2D processing Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
+- Homework: [Grant Jensen Lectures on Particle Picking and 2D processing Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
 <a name="Feb25"></a>
 ### Tuesday, February 25
@@ -243,7 +243,7 @@ Additional links
 - Meet in Genentech Hall S416
 - 9:00-9:30AM: Introduction
 - 9:30-11:30: Practical: 3D Classification and Heterogeneous Refinement 
-- Homework: [3D Data Processing; Grant Jenson Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
+- Homework: [3D Data Processing; Grant Jensen Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
 
 <a name="Mar4"></a>
