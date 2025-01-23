@@ -149,6 +149,7 @@ Additional links
 - [Before class, review Multidimensional NMR](https://ucsf.box.com/s/dcm7msktauh0yyinvc0ocrdfw1i3i9vh)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 - [FTexamples](https://ucsf.box.com/s/o7f8qe6n0ytzpde4ap5wtx0ek5ckbkji)
+- Watch: [A visual introduction to the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
   
 
 <a name="Jan28"></a>
