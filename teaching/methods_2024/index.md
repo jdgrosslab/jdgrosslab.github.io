@@ -148,6 +148,8 @@ Additional links
 - 10-11:30, [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/j661e28044xbagcvywoqya9lukh9g19c) (JG)
 - [Before class, review Multidimensional NMR](https://ucsf.box.com/s/dcm7msktauh0yyinvc0ocrdfw1i3i9vh)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
+- [FTexamples](https://ucsf.box.com/s/o7f8qe6n0ytzpde4ap5wtx0ek5ckbkji)
+  
 
 <a name="Jan28"></a>
 ### Tuesday, Jan 28th, Process 15N HSQC of nanobody and nanobody Spike complexes
