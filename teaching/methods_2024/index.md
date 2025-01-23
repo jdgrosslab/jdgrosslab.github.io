@@ -203,9 +203,9 @@ Additional links
 #### Final Presentations NMR, 20 minutes + 10 min Q&A
 - 9:00-9:50AM Finish Preparation for Final Presentations
 - 9:50-10:00  Break
-- 10:00-10:30 Final Presentation Team 1
-- 10:30-11:00 Final Presentation Team 2
-- 11:00-11:30 Final Presentation Team 3
+- 10:00-10:30 Final Presentation Team 1, How are the dynamics of Nb6 altered by affinity maturation?
+- 10:30-11:00 Final Presentation Team 2, Does NMR identify the binding site of SARS-CoV2 Spike for Nb6 and mNb6?
+- 11:00-11:30 Final Presentation Team 3, How are the dynamics of Nb6 and mNb6 modulated by binding to Spike?
 
 ### Reading on rigor and reproducibility in NMR:
 
