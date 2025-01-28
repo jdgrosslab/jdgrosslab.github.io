@@ -155,7 +155,7 @@ Additional links
 <a name="Jan28"></a>
 ### Tuesday, Jan 28th, Process 15N HSQC of nanobody and nanobody Spike complexes
 - 9:00-9:15AM, [Journal Club Team 3](https://www.science.org/doi/pdf/10.1126/science.abe3255)
-- 9:00-10:30, Work in Groups
+- 9:00-10:30, Work in Groups: [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/j661e28044xbagcvywoqya9lukh9g19c)
 
   
 <a name="Jan30"></a>
