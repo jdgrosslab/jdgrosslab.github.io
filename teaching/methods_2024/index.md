@@ -189,7 +189,7 @@ Additional links
 - [List of common Sparky commands](https://ucsf.box.com/s/ftp2is8jgyd2f3wizpi0m1vn5rqbfzn7)
 
 <a name="Feb11"></a>
-### Tuesday, Feb 11, 
+### Tuesday, Feb 11, class meets in GH-S261
 - 9:00-9:30AM Question and Answer Catch-up
 - 9:30-10:30 wrap-up 13C HSQC processing and CSP analysis
 
