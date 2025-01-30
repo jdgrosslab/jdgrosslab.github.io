@@ -170,9 +170,14 @@ Additional links
 - [Processing_Data_in_TopSpin](https://ucsf.box.com/s/6jznx75m14b24xf84ot8cgporudfkf8i)
 - [Topspin_Commands](https://ucsf.box.com/s/7gss7koit3a9v0iccm0arukojzkf8u9l)
 
+
+- Homework: finish processing all NMR data before class on Tuesday 
+
 <a name="Feb4"></a>
 ### Tuesday Feb 4th
 #### Introduction to ILV labeling of proteins for methyl group NMR
+
+- Homework due: finish processing all NMR data before class today
 
 - 9:00-9:15AM, [Journal Club Team 1](https://pubs.acs.org/doi/10.1021/ja000350l)
 - 9:15-10:30 Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
