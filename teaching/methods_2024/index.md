@@ -286,16 +286,3 @@ Additional links
 - [Ligand binding and drug design-Dorothee Kern](https://www.youtube.com/watch?v=7MuBsYNrypg&t=659s)
 - [NMR Theory Course , James Keeler](https://www.youtube.com/watch?v=nM7jQFhrvR0&index=1&list=PLE20foNk9J6L1dh9X27RaPiaul8_7wrAY)
 
-### Thursday, March 13 Reading Day, no class
-
-## March 18-20 High-throughput methods and integration with macromolecular structure
-### Tuesday, March 18 Deep mutational scans (Willow Coyote-Maestas)
-
-- 9-10:30 Theory
-
-<a name="Mar20"></a>
-### Thursday March 20
-#### Deep-mutational-scanning (Willow Coyote-Maestas)
-
-- 9-10:30 Exploring data sets
-
