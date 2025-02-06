@@ -193,11 +193,14 @@ Additional links
 - [Sparky tutorial](https://ucsf.box.com/s/adtpj0rcrl6ecttsqnsa5fs165qatub5)
 - [List of common Sparky commands](https://ucsf.box.com/s/ftp2is8jgyd2f3wizpi0m1vn5rqbfzn7)
 
+- Might be useful: [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
+
 <a name="Feb11"></a>
 ### Tuesday, Feb 11, class meets in GH-S261
 - 9:00-9:30AM Question and Answer Catch-up
 - 9:30-10:30 wrap-up 13C HSQC processing and CSP analysis
 
+- Might be useful: [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 
 ### Materials for TA Office Hours
 
