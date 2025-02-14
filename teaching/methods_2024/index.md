@@ -275,7 +275,7 @@ Additional links
 - 10:30-11:30 Wrap up
 
 <a name="Mar11"></a>
-### Tuesday, March 11 Final presentations 20 mimutes + 10 Q&A
+### Tuesday, March 11 Final presentations 20 minutes + 10 Q&A
 
 - 9:00-9:30  Team 1
 - 9:30-10:00  Team 2
