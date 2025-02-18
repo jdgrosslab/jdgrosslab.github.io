@@ -226,8 +226,10 @@ Additional links
 ### Tuesday, February 18
 #### Cryo-EM Sample Preparation (note special classrooms)
 
-- 9:00-9:30AM, Overview and Introduction to Vitrification (GH 227, teaching lab)
-- 9:30-10:40, Hands-on sample preparation and vitrification. Team 1: GH S101, Team 2-3, Sandler Neuroscience Building 3rd Floor, Southworth Laboratory 
+- 9:00-9:25AM, Overview and Introduction to Vitrification (GH 227, teaching lab)
+- 9:30-10:40, Hands-on sample preparation and vitrification. 
+- Team 1: GH S101
+- Team 2-3, Sandler Neuroscience Building 3rd Floor, Southworth Laboratory 
 - Homework: [Grant Jensen Lectures on Sample Preparation Part 1 and Part4](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
 <a name="Feb20"></a>
