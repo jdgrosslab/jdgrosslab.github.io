@@ -254,7 +254,7 @@ Additional links
 
 - 9:30-11:30 Practical: 2D Classification Analysis; Set up 3D Classification
 
-- Homework: 3D Data Processing; [3D Data Processing; Grant Jensen Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
+- Homework: 3D Data Processing; [Grant Jensen Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
 <a name="Feb27"></a>
 ### Thursday, February 27
