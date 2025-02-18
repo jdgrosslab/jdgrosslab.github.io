@@ -260,7 +260,6 @@ Additional links
 ### Thursday, February 27
 #### Analyses of 3D classes and refinement
 
-- Meet in Genentech Hall S416
 - 9:00-9:30AM, Lecture: p97 Structure (GH 227, teaching lab)
 
 - 9:30-11:30, Practical: Combine 3D Classes and Start Refinement; Chimera Tutorial - Dock PDB into Initial Volumes
@@ -271,22 +270,22 @@ Additional links
 <a name="Mar4"></a>
 ### Thursday, March 4
 #### Fitting and 3D refinement
-- Meet in Genentech Hall S416
-- 9:00-9:30AM: Question and Answer Catch-Up
-- 9:30-11:30: Analysis of 3D Classes (particle count, angular sampling, and resolution using cryoSPARC and ChimeraX)
-- Homework: 3D Refinement Presentation Prep
+
+- 9:00-9:30AM, Lecture: TBD 
+
+- 9:30-11:30, Practical: Dock p97, generate p97 volume, look for extra density
 
 <a name="Mar6"></a>
 ### Thursday, March 6
 #### Model Building
 
-- Meet in Genentech Hall S416
-- 9:00-9:30AM Question and Answer Catch Up
-- 9:30-10:30 Model Fitting and Refinement with ISOLDE
-- 10:30-11:30 Wrap up
+- 9:00-9:30AM, Lecture: TBD 
+- 9:30-11:30 Practical: Modeling: Isolde; optional symmetry expansion
 
 <a name="Mar11"></a>
 ### Tuesday, March 11 Final presentations 20 minutes + 10 Q&A
+
+- Group presentations on work: challenges/successes; what is your adapter?
 
 - 9:00-9:30  Team 1
 - 9:30-10:00  Team 2
