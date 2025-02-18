@@ -230,7 +230,7 @@ Additional links
 
 - 9:30-10:40, Practical: Sample Vitrification
 - Team 1: GH S101
-- Team 2-3, Sandler Neuroscience Building 3rd Floor, Southworth Laboratory 
+- Team 2-3: Sandler Neuroscience Building 3rd Floor, Southworth Laboratory 
 
 - Homework: [Grant Jensen Lectures on Sample Preparation Part 1 and Part4](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
@@ -241,8 +241,8 @@ Additional links
 - 9:00-9:25, Lecture: EM Image Formation (GH 227, teaching lab)
 
 - 9:30-11:30, Practical: Cryo-EM Data Collection
-- Group I – Sandler 1st Floor Glacios Room
-- Group II & Group III – GH 1st Krios Room
+- Group 1: Sandler 1st Floor Glacios Room
+- Group 2 & Group 3: GH 1st Krios Room
 
 - Homework: Particle Picking and 2D Processing; [Grant Jensen Lectures Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
