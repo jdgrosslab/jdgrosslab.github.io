@@ -226,20 +226,25 @@ Additional links
 ### Tuesday, February 18
 #### Cryo-EM Sample Preparation (note special classrooms)
 
-- 9:00-9:25AM, Overview and Introduction to Vitrification (GH 227, teaching lab)
-- 9:30-10:40, Hands-on sample preparation and vitrification. 
+- 9:00-9:25AM, Lecture: Overview and Introduction to Vitrification (GH 227, teaching lab)
+
+- 9:30-10:40, Practical: Sample Vitrification
 - Team 1: GH S101
 - Team 2-3, Sandler Neuroscience Building 3rd Floor, Southworth Laboratory 
+
 - Homework: [Grant Jensen Lectures on Sample Preparation Part 1 and Part4](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
 <a name="Feb20"></a>
 ### Thursday, February 20
 #### Cryo-EM Data Collection
 
-- 9:00 AM: Team 1: Meet in GH S101; Team 2-3: Meet in Sandler Lobby
-- 9:10-10:20: Hands-on microscope operation and data collection
-- 10:30-11:30: 2D Processing Setup and CryoSPARC tutorial
-- Homework: [Grant Jensen Lectures on Particle Picking and 2D processing Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
+- 9:00-9:25, Lecture: EM Image Formation (GH 227, teaching lab)
+
+- 9:30-11:30, Practical: Cryo-EM Data Collection
+- Group I – Sandler 1st Floor Glacios Room
+- Group II & Group III – GH 1st Krios Room
+
+- Homework: [Grant Jensen Lectures Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
 <a name="Feb25"></a>
 ### Tuesday, February 25
