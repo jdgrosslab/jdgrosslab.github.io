@@ -226,7 +226,7 @@ Additional links
 ### Tuesday, February 18
 #### Cryo-EM Sample Preparation (note special classrooms)
 
-- 9:00-9:25AM, Lecture: Overview and Introduction to Vitrification (GH 227, teaching lab)
+- 9:00-9:25 AM, Lecture: Overview and Introduction to Vitrification (GH 227, teaching lab)
 
 - 9:30-10:40, Practical: Sample Vitrification
 - Team 1: GH S101
@@ -244,24 +244,28 @@ Additional links
 - Group I – Sandler 1st Floor Glacios Room
 - Group II & Group III – GH 1st Krios Room
 
-- Homework: [Grant Jensen Lectures Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
+- Homework: Particle Picking and 2D Processing; [Grant Jensen Lectures Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
 <a name="Feb25"></a>
 ### Tuesday, February 25
 #### Particle picking/2D Classification
 
-- Meet in Genentech Hall S416
-- 9:00-9:30AM: Introduction
-- 9:30-10:30 Practical: 2D Processing Setup and CryoSPARC tutorial
+- 9:00-9:25 AM, Lecture: 3D Reconstruction Basics (GH 227, teaching lab)
+
+- 9:30-11:30 Practical: 2D Classification Analysis; Set up 3D Classification
+
+- Homework: 3D Data Processing; [3D Data Processing; Grant Jensen Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
 <a name="Feb27"></a>
 ### Thursday, February 27
 #### Analyses of 3D classes and refinement
 
 - Meet in Genentech Hall S416
-- 9:00-9:30AM: Introduction
-- 9:30-11:30: Practical: 3D Classification and Heterogeneous Refinement 
-- Homework: [3D Data Processing; Grant Jensen Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
+- 9:00-9:30AM, Lecture: p97 Structure (GH 227, teaching lab)
+
+- 9:30-11:30, Practical: Combine 3D Classes and Start Refinement; Chimera Tutorial - Dock PDB into Initial Volumes
+
+- Homework: 3D Refinement 
 
 
 <a name="Mar4"></a>
