@@ -230,7 +230,7 @@ Additional links
 
 - 9:30-10:40, Practical: Sample Vitrification
 - Team 1: GH S101
-- Team 2-3: Sandler Neuroscience Building 3rd Floor, Southworth Laboratory 
+- Team 2-3: Sandler Neuroscience Building 3rd Floor, Southworth Laboratory
 
 - Homework: [Grant Jensen Lectures on Sample Preparation Part 1 and Part4](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
