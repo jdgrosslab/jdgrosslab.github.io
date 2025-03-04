@@ -268,7 +268,7 @@ Additional links
 
 
 <a name="Mar4"></a>
-### Thursday, March 4
+### Tuesday, March 4
 #### Fitting and 3D refinement
 
 - 9:00-9:30AM, Lecture: TBD 
