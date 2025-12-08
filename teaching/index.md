@@ -10,4 +10,4 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 - [Macro Methods 2023/24](/teaching/methods_2023/)
 - [Macro Methods 2024/25](/teaching/methods_2024/)
-- [Macro Methods 2025/26] (/teaching/methods_2025/)
+- [Macro Methods 2025/26](/teaching/methods_2025/)
