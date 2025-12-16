@@ -142,7 +142,7 @@ Additional links
 
 <a name="Jan27"></a>
 ### Tuesday, Jan 27
-####Applications of DMS
+#### Applications of DMS
   
 <a name="Jan29"></a>
 ## Jan 29- Feb 19 Electron Microscopy (Dan Southworth), Practicals Max Tucker, Alex Long, Greg Merz, Eric Tse and Arthur Melo
