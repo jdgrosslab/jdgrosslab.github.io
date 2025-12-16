@@ -138,11 +138,23 @@ Additional links
 <a name="Jan22"></a>
 ## Jan 22-Jan 27 Deep Mutational Scanning (Willow Coyote-Maestas)
 ### Thursday, January 22
-#### Overview of DMS
-
+#### Why do a mutational scan?
+- 9:00-9:20AM The library- how it's made and what sorts of variants are studied.
+- 9:20-10:40 The host-What organism are you doing the experiments in?
+- 9:40-10:00 The assay(s)-What is measured and how do they address questions?
+- 10:00-10:10 Break
+- 10:10-11:45 Data processing and statistics-How do you find the impact of variants?
+- 10:45-11:30 Playing in big data-What is actually happening in the experiment?
+- Read before class [Origin of DMS Review](https://www.nature.com/articles/nmeth.3027)
+  
 <a name="Jan27"></a>
 ### Tuesday, Jan 27
-#### Applications of DMS
+#### DMS-applications and future opportunities
+-  Read before class:
+-  [Structural biology](https://www.cell.com/cell/abstract/S0092-8674(24)01373-4)
+-  [Genetic variation](https://pmc.ncbi/nlm.nih.gov/articles/PMC6181777)
+-  [Evolution](https://www.science.org/doi/10.1126/science.abn6895)
+-  [Pharmacology](https://www.nature.com/articles/s41586-024-08533-3)
   
 <a name="Jan29"></a>
 ## Jan 29- Feb 19 Electron Microscopy (Dan Southworth), Practicals Max Tucker, Alex Long, Greg Merz, Eric Tse and Arthur Melo
