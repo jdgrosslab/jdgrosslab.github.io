@@ -135,10 +135,18 @@ Additional links
 - 9:30-10:00  Team 2
 - 10:00-10:30 Team  3
 
-  
 <a name="Jan22"></a>
-## Jan 22- Feb 12 Electron Microscopy (Dan Southworth), Practicals Max Tucker, Alex Long, Greg Merz, Eric Tse and Arthur Melo
+## Jan 22-Jan 27 Deep Mutational Scanning (Willow Coyote-Maestas)
 ### Thursday, January 22
+#### Overview of DMS
+
+<a name="Jan27"></a>
+### Tuesday, Jan 27
+####Applications of DMS
+  
+<a name="Jan29"></a>
+## Jan 29- Feb 19 Electron Microscopy (Dan Southworth), Practicals Max Tucker, Alex Long, Greg Merz, Eric Tse and Arthur Melo
+### Thursday, January 29
 #### Cryo-EM Sample Preparation (note special classrooms)
 
 - 9:00-9:25 AM, Lecture: Overview and Introduction to Vitrification (GH 227, teaching lab)
@@ -149,8 +157,8 @@ Additional links
 
 - Homework: [Grant Jensen Lectures on Sample Preparation Part 1 and Part4](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
-<a name="Jan27"></a>
-### Tuesday, January 27
+<a name="Feb3"></a>
+### Tuesday, February 3
 #### Cryo-EM Data Collection
 
 - 9:00-9:25, Lecture: EM Image Formation (GH 227, teaching lab)
@@ -161,7 +169,7 @@ Additional links
 
 - Homework: Particle Picking and 2D Processing; [Grant Jensen Lectures Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
-<a name="Jan29"></a>
+<a name="Feb 5"></a>
 ### Thursday, January 29
 #### Particle picking/2D Classification
 
@@ -171,8 +179,8 @@ Additional links
 
 - Homework: 3D Data Processing; [Grant Jensen Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
-<a name="Feb3"></a>
-### Tuesday, February 3
+<a name="Feb10"></a>
+### Tuesday, February 10
 #### Analyses of 3D classes and refinement
 
 - 9:00-9:30AM, Lecture: p97 Structure (GH 227, teaching lab)
@@ -182,23 +190,23 @@ Additional links
 - Homework: 3D Refinement 
 
 
-<a name="Feb5"></a>
-### Thursday, February 5
+<a name="Feb12"></a>
+### Thursday, February 12
 #### Fitting and 3D refinement
 
 - 9:00-9:30AM, Lecture: TBD 
 
 - 9:30-11:30, Practical: Dock p97, generate p97 volume, look for extra density
 
-<a name="Feb10"></a>
-### Tuesday, February 10
+<a name="Feb17"></a>
+### Tuesday, February 17
 #### Model Building
 
 - 9:00-9:30AM, Lecture: TBD 
 - 9:30-11:30 Practical: Modeling: Isolde; optional symmetry expansion
 
-<a name="Feb12"></a>
-### Thursday, Feb 12 Final presentations 20 minutes + 10 Q&A
+<a name="Feb19"></a>
+### Thursday, Feb 19 Final presentations 20 minutes + 10 Q&A
 
 - Group presentations on work: challenges/successes; what is your adapter?
 
@@ -216,9 +224,9 @@ Additional links
 
 
 
-<a name="Feb17"></a>
-## Feb 17-March 10  Protein NMR , Nanobodies for SARS-CoV-2 Spike- John Gross, Dominic Grisingher and Catherine Kuhn
-### Tuesday, Feb 17th, The Fourier Transform and NMR Data processing
+<a name="Feb24"></a>
+## Feb 24-March 17  Protein NMR , Nanobodies for SARS-CoV-2 Spike- John Gross, Dominic Grisingher and Catherine Kuhn
+### Tuesday, Feb 24th, The Fourier Transform and NMR Data processing
 
 - 9:00-10:00AM, [Theory](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk) (JG)
 - 10-11:30, [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/j661e28044xbagcvywoqya9lukh9g19c) (JG)
@@ -228,14 +236,14 @@ Additional links
 - Watch: [A visual introduction to the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
   
 
-<a name="Feb19"></a>
-### Thursday, Feb 19th, Process 15N HSQC of nanobody and nanobody Spike complexes
+<a name="Feb26"></a>
+### Thursday, Feb 26th, Process 15N HSQC of nanobody and nanobody Spike complexes
 - 9:00-9:15AM, [Journal Club Team 3](https://www.science.org/doi/pdf/10.1126/science.abe3255)
 - 9:00-10:30, Work in Groups: [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/j661e28044xbagcvywoqya9lukh9g19c)
 
   
-<a name="Feb24"></a>
-### Tuesday, Feb 24th Hands-on Data collection (Dominic Grisingher and Catherine Kuhn)
+<a name="Mar3"></a>
+### Tuesday, March 3rd Hands-on Data collection (Dominic Grisingher and Catherine Kuhn)
 #### 9:00-11:30AM Acquiring and processing 15N HSQC Data
 #### Note special location: groups will meet in NMRLAB GH S106 for data acquisition or Mission Hall 2105 for processing
 - 9:00-10:00am Team 1, NMR Lab, Teams 2 and 3 finish processing 15N HSQCs in MH 2105 
@@ -249,8 +257,8 @@ Additional links
 
 - Homework: finish processing all NMR data before class on Tuesday 
 
-<a name="Feb26"></a>
-### Thursday Feb 26th
+<a name="Mar5"></a>
+### Thursday March 5
 #### Introduction to ILV labeling of proteins for methyl group NMR
 
 - Homework due: finish processing all NMR data before class today
@@ -259,8 +267,8 @@ Additional links
 - 9:15-10:30 Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
 - Read before class: [Ideas for Final Presentations, Aashish's miniquals](https://ucsf.box.com/s/hepo6urx0xlggtdhddo40ks5kcwhzhb5)
 
-<a name="Mar3"></a>
-### Tuesday, Mar 3rd
+<a name="Mar10"></a>
+### Tuesday, March 10
 #### Chemical shift perturbation (CSP) mapping 
 
 - 9:00-9:15AM, [Journal Club Team 2](https://www.nature.com/articles/nsb1296-995.pdf)
@@ -271,8 +279,8 @@ Additional links
 
 - Might be useful: [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 
-<a name="Mar5"></a>
-### Thursday, Mar 5th, class meets in GH-S261
+<a name="Mar12"></a>
+### Thursday, Mar 12th, class meets in GH-S261
 - 9:00-9:30AM Question and Answer Catch-up
 - 9:30-10:30 wrap-up 13C HSQC processing and CSP analysis
 
@@ -282,8 +290,8 @@ Additional links
 
 - [1-an example  13C HSQC of Nb6 , 2-Nb6 and mNb sequences, 3-Sparky tutorial](https://ucsf.box.com/s/boxmdnws7xbg04p812agth005b7augu5)
 
-<a name="Mar10"></a>
-### Tuesday, March 10
+<a name="Mar17"></a>
+### Tuesday, March 17
 #### Final Presentations NMR, 20 minutes + 10 min Q&A
 - 9:00-9:50AM Finish Preparation for Final Presentations
 - 9:50-10:00  Break
