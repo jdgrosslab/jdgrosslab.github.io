@@ -23,7 +23,7 @@ group: courses
 
 **Textbook:** None. Lab protocols and course materials will be available in class or online
 
-**Instructors:** [Willow Coyote-Maestas](mailto:willow.coyote-maestas),[John Gross](mailto:jdgross@cgl.ucsf.edu), [Tom Goddard](mailto:goddard@sonic.net), [Dan Southworth](mailto:Dan.Southworth@ucsf.edu)
+**Instructors:** [Willow Coyote-Maestas](mailto:willow.coyote-maestas@ucsf.edu),[John Gross](mailto:jdgross@cgl.ucsf.edu), [Tom Goddard](mailto:goddard@sonic.net), [Dan Southworth](mailto:Dan.Southworth@ucsf.edu)
 
 **TAs:**
 - [Keana Davis](mailto:Keana.Davis@ucsf.edu)
