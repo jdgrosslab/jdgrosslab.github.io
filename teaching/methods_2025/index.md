@@ -181,7 +181,7 @@ Additional links
 
 - Homework: Particle Picking and 2D Processing; [Grant Jensen Lectures Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
-<a name="Feb 5"></a>
+<a name="Feb5"></a>
 ### Thursday, February 5
 #### Particle picking/2D Classification
 
