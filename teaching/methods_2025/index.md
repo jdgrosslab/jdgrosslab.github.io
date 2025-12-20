@@ -92,48 +92,63 @@ The course instructors and teaching assistants value the contributions, ideas an
 - [CCP4/Phenix/ADXV/EMan2 download tutorial](https://docs.google.com/document/d/1pRA-pERFvX05yrGZcZjfugxiV5YDyrFsX64yHhcyOmw/edit#)
      	
 <a name="Jan8"></a>
-## Jan 8-20 Structure Prediction and Drug Interaction Prospecting with AF3 (Tom Goddard)
-### Thursday January 8 
-#### 9:00-11:30AM Visualizing and comparing atomic models with ChimeraX 
+## Jan 8-20 Structure prediction and design with Boltz 2 and BoltzGen and ChimeraX (Tom Goddard)
 
-- 9:00-9:15, Journal Club: Group 1, van Kempen et al. (2024) Fast and accurate protein structure search with Foldseek
-- 9:15-11:30 ChimeraX tutorials, please have ChimeraX 1.9 of daily build installed on your laptops
-- NMR chemical shift mapping onto protein solvent accessible surface
-- [Exploring atomic models, NMR and cryoEM data, and Foldseek results with Chimera](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
+Will look at how to predict molecular structures (proteins, nucleic acids, ligands) using Boltz 2 and how to design proteins using BoltzGen, and how to visualize and assess confidence scores of prediction results with ChimeraX. 
+
+Most of the time will be spent working on team projects. There will be 3 teams of 3 students each. Here are 3 project ideas.
+
+[ABC transporter drug interaction predictions](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#abc)
+[Transcription factor protein-nucleic acid interactions](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#tf)
+[Designing a therapeutic protein/peptide for fibril aggregate diseases](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#pe)
+
+See Tom's website link [here](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html).
+
+### Thursday January 8 
+#### 9:00-11:30AM Making and evaluating Boltz predictions in ChimeraX on laptop computer, learning how to look at confidence scores, possibly learning how to use Boltz server for larger predictions
+
+- 9:00-9:15, Journal Club: Group 1, [Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction](https://www.biorxiv.org/content/10.1101/2025.06.14.659707v1)
+Saro Passaro, Gabriele Corso, Jeremy Wohlwend, Mateo Reveiz, Stephan Thaler, Vignesh Ram Somnath, Noah Getz, Tally Portnoi, Julien Roy, Hannes Stark, David Kwabi-Addo, Dominique Beaini, Tommi Jaakkola, Regina Barzilay
+June 14, 2025 bioRxiv preprint
+- 9:15-11:30 Making and evaluating Boltz predictions in ChimeraX on laptop computer, learning how to look at confidence scores, possibly learning how to use Boltz server for larger predictions. Please have ChimeraX 1.9 of daily build installed on your laptops
 
 - Some past tutorials:
+- NMR chemical shift mapping onto protein solvent accessible surface
+- [Exploring atomic models, NMR and cryoEM data, and Foldseek results with Chimera](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
 - [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 - [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
 - [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
+- [More generic instructions for drug screening with AF3](https://www.rbvi.ucsf.edu/chimerax/data/af3-drugs-dec2024/af3_drugs.html)
   
 <a name="Jan13"></a>
 ### Tuesday January 13
-#### 9:00-10:30AM Predicting ligand binding using AlphaFold 3 on the UCSF Wynton Cluster (Tom Goddard)
+#### 9:00-10:30AM Introduction to 3 team projects (Tom Goddard)
 
-- 9:00-9:15AM, Journal Club: Group 2,  [Abramson et al. (2024) Accurate structure prediction of biomolecular interactions with Alpha Fold 3](https://www.nature.com/articles/s41586-024-07487-w)
-- 9:15-10:30, Tutorials, students please make sure you have a Wynton Account and AF3 parameters
-- [AlphaFold 3 drug screening](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/af3_drugs.html)
-- [How to run AlphaFold 3 on the Wynton Cluster](https://www.rbvi.ucsf.edu/chimerax/data/af3-wynton-dec2024/alphafold3_wynton.html)
+- 9:00-9:15AM, Journal Club: Group 2, [Predicting protein-protein interactions in the human proteome](https://www.science.org/doi/10.1126/science.adt1630)
+Zhang J, Humphreys IR, Pei J, Kim J, Choi C, Yuan R, Durham J, Liu S, Choi HJ, Baek M, Baker D, Cong Q. Predicting protein-protein interactions in the human proteome.
+Science. 2025 Oct
+- 9:15-10:30, Introduction to 3 team projects
+- Team 1: [ABC transporter drug interaction predictions](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#abc)
+- Team 2: [Transcription factor protein-nucleic acid interactions](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#tf)
+- Team 3: [Designing a therapeutic protein/peptide for fibril aggregate diseases](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#pe)
 
-Additional links
-- [Optional-View AF3 code on GitHub](https://github.com/google-deepmind/alphafold3)
-- [More generic instructions for drug screening with AF3](https://www.rbvi.ucsf.edu/chimerax/data/af3-drugs-dec2024/af3_drugs.html)
   
 <a name="Jan15"></a>
 ### Thursday January 15
-#### Group Work, Ligand Screening with AF3
+#### 9:00-11:30AM Group Work
 
-
-
+- 9:00-9:15AM, Journal Club: Group 3, [BoltzGen: Toward Universal Binder Design](https://www.biorxiv.org/content/10.1101/2025.11.20.689494v1)
+Hannes Stark, Felix Faltings, MinGyu Choi, Yuxin Xie, Eunsu Hur, Timothy O'Donnell, Anton Bushuiev, Talip Uçar, Saro Passaro, Weian Mao, Mateo Reveiz, Roman Bushuiev, Tomas Pluskal, Josef Sivic, Karsten Kreis, Arash Vahdat, Shamayeeta Ray, Jonathan T. Goldstein, Andrew Savinov, Jacob A. Hambalek, Anshika Gupta, Diego A. Taquiri-Diaz, Yaotian Zhang, A. Katherine Hatstat, Angelika Arada, Nam Hyeong Kim, Ethel Tackie-Yarboi, Dylan Boselli, Lee Schnaider, Chang C. Liu, Gene-Wei Li, Denes Hnisz, David M. Sabatini, William F. DeGrado, Jeremy Wohlwend, Gabriele Corso, Regina Barzilay, Tommi Jaakkola
+Nov 24, 2025 bioRxiv preprint
+- 9:15-1130AM In class work on team projects 
 
 <a name="Jan20"></a>
 ### Tuesday January 20,
+#### 9:00-10:30AM Group Presentations, 20 minutes + 10 min Q&A, 90 minutes total
 
-#### Group Presentations, 20 minutes + 10 min Q&A
-
-- 9:00-9:30AM  Team 1
-- 9:30-10:00  Team 2
-- 10:00-10:30 Team  3
+- 9:00-9:30AM Team 1
+- 9:30-10:00AM Team 2
+- 10:00-10:30AM Team 3
 
 <a name="Jan22"></a>
 ## Jan 22-Jan 27 Deep Mutational Scanning (Willow Coyote-Maestas)
