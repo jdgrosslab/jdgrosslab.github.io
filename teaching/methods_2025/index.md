@@ -15,7 +15,7 @@ group: courses
 
 **Course Format:** 4 hours of lecture/group work per week in class, substantial group work outside of class hours
 
-**Location and Date/Hours:** Tuesday, 9:00-10:30AM , Thursday 9AM-11:30AM in Genentech Hall 227
+**Location and Date/Hours:** Tuesday, 9:00-10:30AM , Thursday 9:00-11:30AM in Genentech Hall 227
 
 **Prerequisites:** All incoming first-year BP graduate students are required to enroll in this course.
 
@@ -42,7 +42,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 This is a team-based class where students work in small groups to develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the [2017](/courses/methods_2017/),  [2018](/courses/methods_2018/), [2019](/courses/methods_2019), [2020](/courses/methods_2020) editions are available online.
 
-*Course expectations*: This course will likely be different from most other courses you have taken before. Our expectation is that you will maximize your learning by being an active participant - there is significant out-of-class work required to enable this. Many learning opportunities will arise if you are willing to take advantage of the hands-on experience and from those who take the time to show you interesting aspects of the various methods. Data analysis will not follow a linear path - our expectation is that you start to become comfortable with unknowns and messy results. It is likely that you will encounter issues using the various scientific software required for the course - while we will help troubleshoot, navigating these challenges effectively is a core expectation that we want to see students build towards during the course.  **Please let us know via slack if you will be unable to make any classes** 
+*Course expectations*: This course will likely be different from most other courses you have taken before. Our expectation is that you will maximize your learning by being an active participant - there is significant out-of-class work required to enable this. Many learning opportunities will arise if you are willing to take advantage of the hands-on experience and from those who take the time to show you interesting aspects of the various methods. Data analysis will not follow a linear path - our expectation is that you start to become comfortable with unknowns and messy results. It is likely that you will encounter issues using the various scientific software required for the course - while we will help troubleshoot, navigating these challenges effectively is a core expectation that we want to see students build towards during the course.  ***Please let us know via slack if you will be unable to make any classes.*** 
 
 *Ethics*: This course is more than a training experience; data analysis is part of ongoing active research projects, the results of which will be published to the broader scientific community. The community must be able to understand our work, replicate it, and have confidence in its findings. We must therefore ensure the integrity of the information we disseminate. To do so, it is essential that students perform and document their experiments and analyses as faithfully as possible. Mistakes and oversights are normal and to be expected, but they must not be ignored, concealed, or disguised. 
 
@@ -81,11 +81,9 @@ The course instructors and teaching assistants value the contributions, ideas an
 ### Tuesday, January 6 
 #### 9:00-10:30AM Introduction to the Course and Software Check
 
-- Software check, ChimeraX, NMRBox, Wynton accounts
+- Software check, ChimeraX, NMRBox
 - Installation and registration:
-- [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
-- [Register for Wynton Account](https://wynton.ucsf.edu/hpc/about/join.html)
-- [AF3 parameter request form](https://forms.gle/svvpY4u2jsHEwWYS6)
+- [ChimeraX daily build](https://www.rbvi.ucsf.edu/chimerax/download.html#daily-release)
 - [Register for NMRHub](https://nmrhub.org)
 - [Join UCSFMacroMethods Course Hosted by NMRHub](https://nmrbox.nmrhub.org/events)
 - [Download vncViewer](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=MM0wp9QQlt4jK&lai_sr=5-9&lai_sl=l&lai_p=1)
@@ -96,11 +94,11 @@ The course instructors and teaching assistants value the contributions, ideas an
 
 Will look at how to predict molecular structures (proteins, nucleic acids, ligands) using Boltz 2 and how to design proteins using BoltzGen, and how to visualize and assess confidence scores of prediction results with ChimeraX. 
 
-Most of the time will be spent working on team projects. There will be 3 teams of 3 students each. Here are 3 project ideas.
+Most of the time will be spent working on team projects. There will be 3 teams of 3 students each. Here are 3 project ideas:
 
-[ABC transporter drug interaction predictions](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#abc)
-[Transcription factor protein-nucleic acid interactions](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#tf)
-[Designing a therapeutic protein/peptide for fibril aggregate diseases](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#pe)
+- Group 1: [ABC transporter drug interaction predictions](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#abc)
+- Group 2: [Transcription factor protein-nucleic acid interactions](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#tf)
+- Group 3: [Designing a therapeutic protein/peptide for fibril aggregate diseases](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#pe)
 
 See Tom's website link [here](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html).
 
@@ -110,14 +108,13 @@ See Tom's website link [here](https://www.rbvi.ucsf.edu/chimerax/data/macrometho
 - 9:00-9:15, Journal Club: Group 1, [Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction](https://www.biorxiv.org/content/10.1101/2025.06.14.659707v1)
 Saro Passaro, Gabriele Corso, Jeremy Wohlwend, Mateo Reveiz, Stephan Thaler, Vignesh Ram Somnath, Noah Getz, Tally Portnoi, Julien Roy, Hannes Stark, David Kwabi-Addo, Dominique Beaini, Tommi Jaakkola, Regina Barzilay
 June 14, 2025 bioRxiv preprint
-- 9:15-11:30 Making and evaluating Boltz predictions in ChimeraX on laptop computer, learning how to look at confidence scores, possibly learning how to use Boltz server for larger predictions. Please have ChimeraX 1.9 of daily build installed on your laptops
+- 9:15-11:30 Making and evaluating Boltz predictions in ChimeraX on laptop computer, learning how to look at confidence scores, possibly learning how to use Boltz server for larger predictions. Please have ChimeraX daily build installed (Jan 2026) on your laptops.
 
 - Some past tutorials:
-- NMR chemical shift mapping onto protein solvent accessible surface
-- [Exploring atomic models, NMR and cryoEM data, and Foldseek results with Chimera](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
+- [Winter 2025 class: Exploring atomic models, NMR and cryoEM data, and Foldseek results with Chimera](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
 - [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 - [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
-- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
+- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
 - [More generic instructions for drug screening with AF3](https://www.rbvi.ucsf.edu/chimerax/data/af3-drugs-dec2024/af3_drugs.html)
   
 <a name="Jan13"></a>
