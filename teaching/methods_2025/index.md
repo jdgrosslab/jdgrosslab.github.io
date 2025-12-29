@@ -169,27 +169,29 @@ Nov 24, 2025 bioRxiv preprint
 -  [Pharmacology](https://www.nature.com/articles/s41586-024-08533-3)
   
 <a name="Jan29"></a>
-## Jan 29- Feb 19 Electron Microscopy (Dan Southworth), Practicals Max Tucker, Alex Long, Greg Merz, Eric Tse and Arthur Melo
+## Jan 29- Feb 19 Electron Microscopy (Dan Southworth), Practicals Max Tucker, Alex Long, Greg Merz, and Eric Tse
+Cryo-EM sample prepartion, data collection and reconstruction analysis of the p97 AAA+ complex and its adapter proteins.
+
+Teams will be supported by co-instructors designated below:
+- Team 1: Alex Long
+- Team 2: Max Tucker
+- Team 3: Greg Merz
+
 ### Thursday, January 29
 #### Cryo-EM Sample Preparation (note special classrooms)
 
-- 9:00-9:40 AM, Lecture: Introduction to Cryo-EM and Introduction Vitrification
-  Location: GH 227, teaching lab
+- 9:00-9:40AM, Lecture: Introduction to Cryo-EM and Introduction Vitrification
+  (Location: GH 227, teaching lab)
 
-- 9:45-11:45, Practical: Sample Vitrification & Clipping
-  Location: Team 1 - Weill Cryo-EM Lab; Team 2 - GH 1st Floor Cryo-EM lab; Team 3 - Sandler 3rd Floor Lab
+- 9:45-11:30AM, Practical: Sample Vitrification & Clipping (Location: Team 1 - Weill Cryo-EM Lab; Team 2 - GH 1st Floor Cryo-EM lab; Team 3 - Sandler 3rd Floor Lab)
 
 - Homework: [Grant Jensen Lectures on Sample Preparation Part 1 and Part4](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
 <a name="Feb3"></a>
 ### Tuesday, February 3
-#### Cryo-EM Data Collection
+#### Cryo-EM Data Collection (No lecture)
 
-- 9:00-9:25, Lecture: EM Image Formation (GH 227, teaching lab)
-
-- 9:30-11:30, Practical: Cryo-EM Data Collection
-- Group 1: Sandler 1st Floor Glacios Room
-- Group 2 & Group 3: GH 1st Krios Room
+- 9:00-10:30AM, Practical: Cryo-EM Grid screening (Location: Team 1 & Team 2 - Weill Krios Room, Team 2 - Sander 1st Floor)
 
 - Homework: Particle Picking and 2D Processing; [Grant Jensen Lectures Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
@@ -197,42 +199,45 @@ Nov 24, 2025 bioRxiv preprint
 ### Thursday, February 5
 #### Particle picking/2D Classification
 
-- 9:00-9:25 AM, Lecture: 3D Reconstruction Basics (GH 227, teaching lab)
+- 9:00-9:25AM, Lecture: Image Formation, 2D Analysis, Review Data Collection, CryoSparc Tutorial (Location: GH 227, teaching lab)
 
-- 9:30-11:30 Practical: 2D Classification Analysis; Set up 3D Classification
+- 9:30-11:30AM, Practical: Micrograph Curation, CTF, Partical Picking
 
-- Homework: 3D Data Processing; [Grant Jensen Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
+- Homework: 2D Data Processing; [Grant Jensen Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
 <a name="Feb10"></a>
 ### Tuesday, February 10
 #### Analyses of 3D classes and refinement
 
-- 9:00-9:30AM, Lecture: p97 Structure (GH 227, teaching lab)
+- 9:00-9:25AM, Lecture: 3D Reconstruction Basics (Location: GH 227, teaching lab)
 
-- 9:30-11:30, Practical: Combine 3D Classes and Start Refinement; Chimera Tutorial - Dock PDB into Initial Volumes
+- 9:30-10:30AM, Practical: 2D Classification Analysis; Set up 3D Classification
 
-- Homework: 3D Refinement 
+- Homework: Initial Model, 3D Classification 
 
 
 <a name="Feb12"></a>
 ### Thursday, February 12
 #### Fitting and 3D refinement
 
-- 9:00-9:30AM, Lecture: TBD 
+- 9:00-9:25AM, Lecture: p97 Structure (GH 227, teaching lab) 
 
-- 9:30-11:30, Practical: Dock p97, generate p97 volume, look for extra density
+- 9:30-11:30AM, Practical: Combine 3D Classes and Start Refinement
+  
+- Homework: Continue 3D Refinement, Dock Models
 
 <a name="Feb17"></a>
 ### Tuesday, February 17
 #### Model Building
 
-- 9:00-9:30AM, Lecture: TBD 
-- 9:30-11:30 Practical: Modeling: Isolde; optional symmetry expansion
+- 9:00-9:25AM, Lecture: Isolde; symmetry expansion, focus classification
+- 9:30-10:30AM Practical: Modeling p97, Look for extra desnity
+- Homework: Finalize Map/Model, Identify Adapter
 
 <a name="Feb19"></a>
 ### Thursday, Feb 19 Final presentations 20 minutes + 10 Q&A
 
-- Group presentations on work: challenges/successes; what is your adapter?
+- Group presentations on work, ~20min each: challenges/successes; what is your adapter?
 
 - 9:00-9:30  Team 1
 - 9:30-10:00  Team 2
