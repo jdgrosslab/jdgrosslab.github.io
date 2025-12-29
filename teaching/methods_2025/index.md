@@ -173,11 +173,11 @@ Nov 24, 2025 bioRxiv preprint
 ### Thursday, January 29
 #### Cryo-EM Sample Preparation (note special classrooms)
 
-- 9:00-9:25 AM, Lecture: Overview and Introduction to Vitrification (GH 227, teaching lab)
+- 9:00-9:40 AM, Lecture: Introduction to Cryo-EM and Introduction Vitrification
+  Location: GH 227, teaching lab
 
-- 9:30-10:40, Practical: Sample Vitrification
-- Team 1: GH S101
-- Team 2-3: Sandler Neuroscience Building 3rd Floor, Southworth Laboratory
+- 9:45-11:45, Practical: Sample Vitrification & Clipping
+  Location: Team 1 - Weill Cryo-EM Lab; Team 2 - GH 1st Floor Cryo-EM lab; Team 3 - Sandler 3rd Floor Lab
 
 - Homework: [Grant Jensen Lectures on Sample Preparation Part 1 and Part4](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
