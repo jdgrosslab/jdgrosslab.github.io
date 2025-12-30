@@ -170,7 +170,7 @@ Nov 24, 2025 bioRxiv preprint
   
 <a name="Jan29"></a>
 ## Jan 29- Feb 19 Electron Microscopy (Dan Southworth), Practicals Max Tucker, Alex Long, Greg Merz, and Eric Tse
-Cryo-EM sample prepartion, data collection and reconstruction analysis of the p97 AAA+ complex and its adapter proteins.
+Cryo-EM sample preparation, data collection and reconstruction analysis of the p97 AAA+ complex and its adapter proteins.
 
 Teams will be supported by co-instructors
 - Team 1: Alex Long
