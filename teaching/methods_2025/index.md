@@ -172,7 +172,7 @@ Nov 24, 2025 bioRxiv preprint
 ## Jan 29- Feb 19 Electron Microscopy (Dan Southworth), Practicals Max Tucker, Alex Long, Greg Merz, and Eric Tse
 Cryo-EM sample prepartion, data collection and reconstruction analysis of the p97 AAA+ complex and its adapter proteins.
 
-Teams will be supported by co-instructors designated below:
+Teams will be supported by co-instructors
 - Team 1: Alex Long
 - Team 2: Max Tucker
 - Team 3: Greg Merz
@@ -201,7 +201,7 @@ Teams will be supported by co-instructors designated below:
 
 - 9:00-9:25AM, Lecture: Image Formation, 2D Analysis, Review Data Collection, CryoSparc Tutorial (Location: GH 227, teaching lab)
 
-- 9:30-11:30AM, Practical: Micrograph Curation, CTF, Partical Picking
+- 9:30-11:30AM, Practical: Micrograph Curation, CTF, Particle Picking
 
 - Homework: 2D Data Processing; [Grant Jensen Lectures Part 6](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
