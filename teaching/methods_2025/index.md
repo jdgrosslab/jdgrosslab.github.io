@@ -85,7 +85,7 @@ The course instructors and teaching assistants value the contributions, ideas an
 - Installation and registration:
 - [ChimeraX daily build](https://www.rbvi.ucsf.edu/chimerax/download.html#daily-release)
 - [Register for NMRHub](https://nmrhub.org)
-- [Join UCSFMacroMethods Course Hosted by NMRHub](https://nmrbox.nmrhub.org/events)
+- [Join UCSFMacroMethods Course Hosted by NMRHub](https://urldefense.com/v3/__https://nmrbox.nmrhub.org/events/events/2026-ucsfmacromethods/eyJzbHVnIjoiMjAyNi11Y3NmbWFjcm9tZXRob2RzIiwiZnVuY3Rpb24iOiJwcml2YXRlLWV2ZW50In0.VmMVFGVV9-5w0FXXq0XDRzjBY8M__;!!LQC6Cpwp!ut7U1gweMZKBo9wKrD92p7sVlQEuGZzQYm5CAyrvGoxXE9fAYaKp_ri_cXGNhE1KzouU1C2s8ak4jCb3AI9owTc$)
 - [Download vncViewer](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=MM0wp9QQlt4jK&lai_sr=5-9&lai_sl=l&lai_p=1)
 - [CCP4/Phenix/ADXV/EMan2 download tutorial](https://docs.google.com/document/d/1pRA-pERFvX05yrGZcZjfugxiV5YDyrFsX64yHhcyOmw/edit#)
      	
