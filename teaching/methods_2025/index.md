@@ -72,10 +72,6 @@ The course instructors and teaching assistants value the contributions, ideas an
    - Beatrice Mihalache
    - Malavika Vinod
    - Taylor Womack
- 
-### JOURNAL CLUB ASSIGNMENTS
-[Link](https://ucsf.box.com/s/54lzotplqwi1t5nxy7e5fp600d47kvg5)
-
 
 <a name="Jan6"></a>
 ### Tuesday, January 6 
@@ -255,6 +251,12 @@ Teams will be supported by co-instructors
 
 <a name="Feb24"></a>
 ## Feb 24-March 17  Protein NMR , Nanobodies for SARS-CoV-2 Spike- John Gross, Dominic Grisingher and Catherine Kuhn
+### JOURNAL CLUB ASSIGNMENTS
+- Team 3: 2/26 Schoof (2020) [An ultrapotent synthetic nanobody neutralizes SARS-CoV-2](https://pubs.acs.org/doi/10.1021/ja000350l)
+- Team 1: 3/5 Hudjuk (2000) [NMR-Based Screening of Proteins Containing 13C-labeled Methyl Groups](https://www.nature.com/articles/nsb1296-995.pdf)
+- Team 2: 3/10 Farmer (1996) [Localizing the NADP+ binding site on the MurB enzyme by NMR](https://www.nature.com/articles/nsb1296-995.pdf)
+
+
 ### Tuesday, Feb 24th, The Fourier Transform and NMR Data processing
 
 - 9:00-10:00AM, [Theory](https://ucsf.box.com/s/e4fv4psxosyzk7k4jp8ezl694c9r7gzk) (JG)
