@@ -104,7 +104,7 @@ See Tom's website link [here](https://www.rbvi.ucsf.edu/chimerax/data/macrometho
 - 9:00-9:15, Journal Club: Group 1, [Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction](https://www.biorxiv.org/content/10.1101/2025.06.14.659707v1)
 Saro Passaro, Gabriele Corso, Jeremy Wohlwend, Mateo Reveiz, Stephan Thaler, Vignesh Ram Somnath, Noah Getz, Tally Portnoi, Julien Roy, Hannes Stark, David Kwabi-Addo, Dominique Beaini, Tommi Jaakkola, Regina Barzilay
 June 14, 2025 bioRxiv preprint
-- 9:15-11:30 Making and evaluating Boltz predictions in ChimeraX on laptop computer, learning how to look at confidence scores, possibly learning how to use Boltz server for larger predictions. Please have ChimeraX daily build installed (Jan 2026) on your laptops.
+- 9:15-11:30 Making and evaluating Boltz predictions in ChimeraX on laptop computer, learning how to look at confidence scores, possibly learning how to use Boltz server for larger predictions. Please have ChimeraX daily build installed (Jan 2026) on your laptops. See in depth on Tom's website here: [Details](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/day1.html)
 
 - Some past tutorials:
 - [Winter 2025 class: Exploring atomic models, NMR and cryoEM data, and Foldseek results with Chimera](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2025/chimerax_intro.html)
@@ -117,9 +117,8 @@ June 14, 2025 bioRxiv preprint
 ### Tuesday January 13
 #### 9:00-10:30AM Introduction to 3 team projects (Tom Goddard)
 
-- 9:00-9:15AM, Journal Club: Group 2, [Predicting protein-protein interactions in the human proteome](https://www.science.org/doi/10.1126/science.adt1630)
-Zhang J, Humphreys IR, Pei J, Kim J, Choi C, Yuan R, Durham J, Liu S, Choi HJ, Baek M, Baker D, Cong Q. Predicting protein-protein interactions in the human proteome.
-Science. 2025 Oct
+- 9:00-9:15AM, Journal Club: Group 3, [BoltzGen: Toward Universal Binder Design](https://www.biorxiv.org/content/10.1101/2025.11.20.689494v1)
+Hannes Stark, Felix Faltings, MinGyu Choi, Yuxin Xie, Eunsu Hur, Timothy O'Donnell, Anton Bushuiev, Talip Uçar, Saro Passaro, Weian Mao, Mateo Reveiz, Roman Bushuiev, Tomas Pluskal, Josef Sivic, Karsten Kreis, Arash Vahdat, Shamayeeta Ray, Jonathan T. Goldstein, Andrew Savinov, Jacob A. Hambalek, Anshika Gupta, Diego A. Taquiri-Diaz, Yaotian Zhang, A. Katherine Hatstat, Angelika Arada, Nam Hyeong Kim, Ethel Tackie-Yarboi, Dylan Boselli, Lee Schnaider, Chang C. Liu, Gene-Wei Li, Denes Hnisz, David M. Sabatini, William F. DeGrado, Jeremy Wohlwend, Gabriele Corso, Regina Barzilay, Tommi Jaakkola. Nov 24, 2025 bioRxiv preprint
 - 9:15-10:30, Introduction to 3 team projects
 - Team 1: [ABC transporter drug interaction predictions](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#abc)
 - Team 2: [Transcription factor protein-nucleic acid interactions](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#tf)
@@ -130,9 +129,8 @@ Science. 2025 Oct
 ### Thursday January 15
 #### 9:00-11:30AM Group Work
 
-- 9:00-9:15AM, Journal Club: Group 3, [BoltzGen: Toward Universal Binder Design](https://www.biorxiv.org/content/10.1101/2025.11.20.689494v1)
-Hannes Stark, Felix Faltings, MinGyu Choi, Yuxin Xie, Eunsu Hur, Timothy O'Donnell, Anton Bushuiev, Talip Uçar, Saro Passaro, Weian Mao, Mateo Reveiz, Roman Bushuiev, Tomas Pluskal, Josef Sivic, Karsten Kreis, Arash Vahdat, Shamayeeta Ray, Jonathan T. Goldstein, Andrew Savinov, Jacob A. Hambalek, Anshika Gupta, Diego A. Taquiri-Diaz, Yaotian Zhang, A. Katherine Hatstat, Angelika Arada, Nam Hyeong Kim, Ethel Tackie-Yarboi, Dylan Boselli, Lee Schnaider, Chang C. Liu, Gene-Wei Li, Denes Hnisz, David M. Sabatini, William F. DeGrado, Jeremy Wohlwend, Gabriele Corso, Regina Barzilay, Tommi Jaakkola
-Nov 24, 2025 bioRxiv preprint
+- 9:00-9:15AM, Journal Club: Group 2, [Predicting protein-protein interactions in the human proteome](https://www.science.org/doi/10.1126/science.adt1630)
+Zhang J, Humphreys IR, Pei J, Kim J, Choi C, Yuan R, Durham J, Liu S, Choi HJ, Baek M, Baker D, Cong Q. Predicting protein-protein interactions in the human proteome. Science. 2025 Oct
 - 9:15-1130AM In class work on team projects 
 
 <a name="Jan20"></a>
