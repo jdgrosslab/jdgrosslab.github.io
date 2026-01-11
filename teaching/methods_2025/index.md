@@ -116,7 +116,8 @@ June 14, 2025 bioRxiv preprint
 <a name="Jan13"></a>
 ### Tuesday January 13
 #### 9:00-10:30AM Introduction to 3 team projects (Tom Goddard)
-
+- See Tom's agenda here: [Details](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/day2.html)
+  
 - 9:00-9:15AM, Journal Club: Group 3, [BoltzGen: Toward Universal Binder Design](https://www.biorxiv.org/content/10.1101/2025.11.20.689494v1)
 Hannes Stark, Felix Faltings, MinGyu Choi, Yuxin Xie, Eunsu Hur, Timothy O'Donnell, Anton Bushuiev, Talip Uçar, Saro Passaro, Weian Mao, Mateo Reveiz, Roman Bushuiev, Tomas Pluskal, Josef Sivic, Karsten Kreis, Arash Vahdat, Shamayeeta Ray, Jonathan T. Goldstein, Andrew Savinov, Jacob A. Hambalek, Anshika Gupta, Diego A. Taquiri-Diaz, Yaotian Zhang, A. Katherine Hatstat, Angelika Arada, Nam Hyeong Kim, Ethel Tackie-Yarboi, Dylan Boselli, Lee Schnaider, Chang C. Liu, Gene-Wei Li, Denes Hnisz, David M. Sabatini, William F. DeGrado, Jeremy Wohlwend, Gabriele Corso, Regina Barzilay, Tommi Jaakkola. Nov 24, 2025 bioRxiv preprint
 - 9:15-10:30, Introduction to 3 team projects
