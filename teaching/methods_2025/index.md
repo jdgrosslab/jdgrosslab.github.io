@@ -132,11 +132,12 @@ Hannes Stark, Felix Faltings, MinGyu Choi, Yuxin Xie, Eunsu Hur, Timothy O'Donne
 
 - 9:00-9:15AM, Journal Club: Group 2, [Predicting protein-protein interactions in the human proteome](https://www.science.org/doi/10.1126/science.adt1630)
 Zhang J, Humphreys IR, Pei J, Kim J, Choi C, Yuan R, Durham J, Liu S, Choi HJ, Baek M, Baker D, Cong Q. Predicting protein-protein interactions in the human proteome. Science. 2025 Oct
-- 9:15-1130AM In class work on team projects 
+- 9:15-1130AM In class work on team projects
+- See details on team projects here: [Team projects](https://www.rbvi.ucsf.edu/chimerax/data/macromethods-jan2026/macromethods.html#projects)
 
 <a name="Jan20"></a>
 ### Tuesday January 20,
-#### 9:00-10:30AM Group Presentations, 20 minutes + 10 min Q&A, 90 minutes total
+#### 9:00-10:30AM Group Presentations, 15 minutes + 10 min Q&A, 75 minutes total
 
 - 9:00-9:30AM Team 1
 - 9:30-10:00AM Team 2
