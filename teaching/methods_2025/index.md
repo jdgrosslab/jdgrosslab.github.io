@@ -187,7 +187,7 @@ Teams will be supported by co-instructors
 ### Tuesday, February 3
 #### Cryo-EM Data Collection (No lecture)
 
-- 9:00-10:30AM, Practical: Cryo-EM Grid screening (Location: Team 1 & Team 2 - Weill Krios Room, Team 2 - Sander 1st Floor)
+- 9:00-10:30AM, Practical: Cryo-EM Grid screening (Location: Team 1 & Team 2 - Weill Krios Room, Team 3 - Sander 1st Floor)
 
 - Homework: Particle Picking and 2D Processing; [Grant Jensen Lectures Part 2,3 and 4 (3D Reconstruction)](https://www.youtube.com/playlist?list=PLhiuGaXlZZenm7lu5qv_A59zEWkRKkBn5)
 
