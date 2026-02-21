@@ -310,7 +310,7 @@ Teams will be supported by co-instructors
 - Might be useful: [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 
 <a name="Mar12"></a>
-### Thursday, Mar 12th, class meets in GH-S261
+### Thursday, Mar 12th
 - 9:00-9:30AM Question and Answer Catch-up
 - 9:30-10:30 wrap-up 13C HSQC processing and CSP analysis
 
