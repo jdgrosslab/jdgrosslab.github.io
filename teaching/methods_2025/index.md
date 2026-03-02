@@ -284,24 +284,15 @@ Teams will be supported by co-instructors
 <a name="Mar3"></a>
 ### Tuesday, March 3rd Process 15N HSQC of nanobody and nanobody Spike complexes
 
-- 9:00-9:15AM, [Journal Club Team 3](https://www.science.org/doi/pdf/10.1126/science.abe3255)
-- 9:00-10:30, Work in Groups: [HSQC data processing with NMRPipe, tutorial](https://ucsf.box.com/s/j661e28044xbagcvywoqya9lukh9g19c)
-
-- Homework: finish processing all 15N HSQC NMR data before class on Thursday
+- 9:00-9:15am, [Journal Club Team 3](https://www.science.org/doi/pdf/10.1126/science.abe3255)
+- 9:15-10:00, Review Lecture [Overview of Protein NMR](https://ucsf.box.com/s/dcm7msktauh0yyinvc0ocrdfw1i3i9vh)
+- 10:00-10:30, finish processing of all 15N HSQC data, do before class on Thursday
 
 <a name="Mar5"></a>
-### Thursday March 5
-#### Introduction to ILV labeling of proteins for methyl group NMR
-
-- 9:00-9:15AM, [Journal Club Team 1](https://pubs.acs.org/doi/10.1021/ja000350l)
-- 9:15-10:30 Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
-- Read before class: [Ideas for Final Presentations, Aashish's miniquals](https://ucsf.box.com/s/hepo6urx0xlggtdhddo40ks5kcwhzhb5)
-
-<a name="Mar10"></a>
-### Tuesday, March 10
+### Thursday, March 5
 #### Chemical shift perturbation (CSP) mapping 
 
-- 9:00-9:15AM, [Journal Club Team 2](https://www.nature.com/articles/nsb1296-995.pdf)
+- 9:00-9:15am, [Journal Club Team 2](https://www.nature.com/articles/nsb1296-995.pdf)
 - 9:15-10:00, tutorial on overlay spectra for chemical shift perturbation analysis using Sparky. 
 - 10-11:30, overlay HSQC spectra, cross-peak bookkeeping analysis, mapping CSPs onto structures
 - [Sparky tutorial](https://ucsf.box.com/s/adtpj0rcrl6ecttsqnsa5fs165qatub5)
@@ -309,12 +300,18 @@ Teams will be supported by co-instructors
 
 - Might be useful: [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 
+<a name="Mar10"></a>
+### Tuesday, March 10
+#### Introduction to ILV labeling of proteins for methyl group NMR
+
+- 9:00-9:15am, [Journal Club Team 1](https://pubs.acs.org/doi/10.1021/ja000350l)
+- 9:15-10:30 Process 13C HSQCs of ILV labeled Nanobodies alone and bound to spike RBD
+- Read before class: [Ideas for Final Presentations, Aashish's miniquals](https://ucsf.box.com/s/hepo6urx0xlggtdhddo40ks5kcwhzhb5)
+
 <a name="Mar12"></a>
 ### Thursday, Mar 12th
-- 9:00-9:30AM Question and Answer Catch-up
-- 9:30-10:30 wrap-up 13C HSQC processing and CSP analysis
-
-- Might be useful: [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
+- 9:00-10:00AM Question and Answer Catch-up
+- 10:00-11:30 wrap-up 13C HSQC processing and CSP analysis
 
 ### Materials for TA Office Hours
 
