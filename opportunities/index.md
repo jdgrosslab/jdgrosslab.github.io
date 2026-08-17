@@ -14,14 +14,14 @@ group: opportunities
 <br>
 ### Postdoctoral Positions
 
-##### <a class="cyan-text lighten-1">Position to study the regulation of enzymes in biological condensates </a>
-A post-doctoral position is available to study how molecular composition affects rates of enzyme-catalyzed reactions in biological condensates.  Questions of ongoing interest are: 1-how does liquid-liquid phase separation repress enzyme activity, contrary to popular models of local concentration effects? 2- how do intrinsically disordered regions and their binding partners re-wire condensates from a repressed to an active state? 3-how are interactions that mediate condensate material properties on the mesoscale coupled to enzyme active site geometry at the Angstrom scale? 4-how does the transfer of short linear interaction motifs during evolution impact condensate function?   The resolution of these questions will be enabled by tools and approaches we recently described for studies of the decapping enzyme complex,  which can be applied to a variety of systems in RNA biology(Tibble et al, Nat Chem Biol, 2021).   Candidates should have or expect a Ph.D. and should have demonstrated achievements in the biophysics of proteins and RNA. Expertise using NMR spectroscopy or related approaches to study the structure and dynamics of proteins or RNA is highly desirable.  
+##### <a class="cyan-text lighten-1">Leveraging the structural biology of host-pathogen conflicts for drug discovery </a>
+A postdoctoral position is available to understand molecular arms races between cellular restriction factors and their viral antagonists using biochemical and structural approaches. Areas of interest include the mechanisms by which the lentiviral Vif protein neutralizes host APOBEC3 family members;  how Vif conformational dynamics are coupled to its antagonistic activity; and ‘drugging’ Vif to unleash the restriction potential of A3 family members via targeted protein degradation strategies. Candidates should have or expect a Ph.D. in molecular biophysics, biochemistry, or chemical biology.  Individuals interested in working at the interface of innate immunity, viral evolution, and drug discovery, with backgrounds in either quantitative biochemistry of RNA-binding proteins or structural biology (cryo-EM, X-ray crystallography, or NMR spectroscopy) are encouraged to apply.   
 
-Applications materials, including CV and contact information for three references, should be sent to:
+Application materials, including CV and contact information for three references, should be sent to:
 
 jdgrosslab@gmail.com
 
-with “post-doc position” written in subject line.
+with “post-doc position” written in the subject line.
 
 <div class="divider"></div>
 
