@@ -14,10 +14,6 @@
   link: "/members"
   group: members
 
-- name: news
-  link: "/news"
-  group: news
-
 - name: contact
   link: "/contact"
   group: contact
