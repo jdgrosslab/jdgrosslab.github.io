@@ -18,34 +18,6 @@
   interest: RNA processing and biological condensates
   background: BS, Haverford College, Biochemical and biophysical studies of protein and peptide self-assembly
 
-- name: Leandrew Dailey
-  image: /static/img/people/leandrew.jpg
-  position: Graduate Student <br> **[Chemistry & Chemical Biology](https://ccb.ucsf.edu)**
-  email: Leandrew.Dailey@ucsf.edu
-  interest: Enzymology of protein ubiquitination by HIV accessory proteins.
-  background: BS, Chemistry-Biochemistry concentration, Fort Lewis College.
-
-- name: Gracie Bitting
-  image: /static/img/people/GraceBitting.jpg
-  position: QBI Intern 
-  email: Gracie.Bitting@ucsf.edu
-  interest: Biochemical mechanisms of cross-species transmission of primate lentiviruses.
-  background: Biophysics Major, UCLA
-
-- name: Xi Liu, PhD
-  image: /static/img/people/xi.jpg
-  position: Postdoctoral Scholar
-  email: xi.liu@ucsf.edu
-  interest: Innate Immunity.
-  background: PhD, Tsinghua University. Structural biology of cytokine and receptor complex.
-
-- name: Rachel Nealon
-  image: /static/img/people/Rachel.jpg
-  position: Scientific Research Associate
-  email: Rachel.Nealon@ucsf.edu
-  interest: Biochemistry and biophysics of RNP assemblies.
-  background: B.A., Bowdoin College. Time-resolved emission spectroscopy of proton transfer in condensed phases
-  
 - name: Yange Niu, PhD
   image: /static/img/people/Yange.jpg
   position: Postdoctoral Scholar
