@@ -54,7 +54,7 @@ The course instructors and teaching assistants value the contributions, ideas an
 
 ### 2026 schedule
 
-<iframe src="https://calendar.google.com/calendar/embed?src=0d44412d8f7979e56b443a878f7d9282f177e38062f5b332f1fad0feff111b1c%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe title="Class Calendar" src="https://calendar.google.com/calendar/embed?src=0d44412d8f7979e56b443a878f7d9282f177e38062f5b332f1fad0feff111b1c%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### TEAM ASSIGNMENTS
 
