@@ -54,7 +54,7 @@ This is a team-based class where students work in small groups develop their own
 
 ### 2024 schedule
 
-<iframe src="https://calendar.google.com/calendar/embed?src=614f5399b8fd4cdd6d7a3ba269f53070443f24c83ae4b67e425271cd9b092b51%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe title="Class Calendar" src="https://calendar.google.com/calendar/embed?src=614f5399b8fd4cdd6d7a3ba269f53070443f24c83ae4b67e425271cd9b092b51%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### TEAM ASSIGNMENTS
 
