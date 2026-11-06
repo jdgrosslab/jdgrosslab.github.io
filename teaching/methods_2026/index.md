@@ -31,7 +31,7 @@ group: courses
 
 **Lecturers/Facilitators:**
 
-Willow Coyote-Maestas, John Gross, Tom Goddard, Dan Southworth
+Tom Goddard, Dan Southworth, John Gross, Willow Coyote-Maesta
 
 
 **Background:**
